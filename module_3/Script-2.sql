@@ -1,6 +1,3 @@
---drop table product 
-
-
 CREATE TABLE Laptop (code INTEGER, model INTEGER, speed INTEGER, ram INTEGER, hd NUMERIC(10,1), price NUMERIC(10,4), screen NUMERIC(10,4));
 
 
@@ -657,6 +654,7 @@ select *
 from printer 
 
 
+
 select *
 from laptop 
 
@@ -699,8 +697,24 @@ VALUES
 (110, 3224, 'g', 'Matrix', 290)
 
 
-select count( model) as cnt
-from printer p 
-group by p.model 
-order by cnt desc
+select *
+from(
+	select*,
+		row_number () over (partition by model ) as duplicates
+	from printer) as subq
+where duplicates > 1
+order by duplicates desc;
+
+
+--q3
+select table3.* , pc.cd, laptop.screen 
+from(select pc.code, pc.model, pc.speed, pc.ram, pc.hd, pc.price
+		from pc
+		union 
+		select laptop.code, laptop.model, laptop.speed , laptop.ram , laptop.hd , laptop.price  
+		from laptop
+		order by model) as table3
+left join  pc on pc.model = table3.model
+left join  laptop on laptop.model = table3.model
+where table3.ram = 64 and table3.price >500
 
