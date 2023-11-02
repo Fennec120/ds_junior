@@ -1,0 +1,2599 @@
+model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
+ A Class,2019.0,36000,Semi-Auto,0.0,Petrol,145.0,35.3,2.0
+ C Class,2017.6666666666667,30899,Semi-Auto,7942.0,Diesel,0.0,57.7,2.0
+ S Class,2005.0,4990,Automatic,75148.0,Diesel,0.0,36.7,3.2
+unknown,2019.0,25499,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+ C Class,2014.0,17990,Automatic,0.0,Petrol,0.0,49.6,2.0
+unknown,2017.0,22767,Automatic,0.0,Diesel,0.0,67.3,2.0
+unknown,2013.0,10499,Automatic,43739.0,Diesel,0.0,56.5,2.1
+ E Class,2019.0,38998,Semi-Auto,378.0,Diesel,145.0,57.7,2.0
+ CL Class,2017.0,16991,Semi-Auto,0.0,Diesel,0.0,70.6,2.1
+ C Class,2019.0,27499,Semi-Auto,0.0,Diesel,0.0,60.1,1.6
+ B Class,2015.6666666666667,12500,Semi-Auto,42050.0,Diesel,30.0,61.4,2.1
+ C Class,2016.3333333333333,18999,Automatic,23637.0,Diesel,0.0,64.2,2.1
+ E Class,2015.6666666666667,10991,Manual,110000.0,Diesel,125.0,60.1,2.1
+unknown,2017.0,29998,Semi-Auto,0.0,Diesel,265.0,56.5,3.0
+unknown,2016.0,18995,Automatic,26996.0,Diesel,0.0,70.6,2.0
+ C Class,2016.0,17822,Semi-Auto,19682.0,Diesel,20.0,64.2,2.1
+unknown,2018.0,32849,Semi-Auto,16019.0,Diesel,0.0,48.7,2.9
+ GLA Class,2018.0,21990,Semi-Auto,10400.0,Petrol,145.0,48.7,2.0
+unknown,2019.0,35995,Semi-Auto,7132.0,Diesel,145.0,40.9,2.0
+unknown,2019.0,22524,Semi-Auto,10772.0,Diesel,145.0,56.5,1.5
+unknown,2017.0,20450,Automatic,0.0,Diesel,150.0,61.4,2.0
+ A Class,2016.0,15290,Manual,0.0,Diesel,30.0,56.5,2.1
+ G Class,2019.0,139948,Automatic,0.0,Petrol,0.0,21.4,2.0
+ GLC Class,2018.0,24750,Automatic,25046.0,Diesel,0.0,56.5,2.1
+unknown,2019.0,26980,Semi-Auto,16.0,Petrol,145.0,28.5,2.0
+unknown,2016.0,24995,Automatic,0.0,Diesel,125.0,56.5,2.1
+ C Class,2018.0,23995,Automatic,6099.0,Petrol,0.0,47.1,1.5
+unknown,2019.0,30899,Semi-Auto,3362.0,Petrol,145.0,56.5,2.0
+ A Class,2017.0,15981,Semi-Auto,15000.0,Diesel,150.0,76.4,1.5
+ E Class,2018.6666666666667,28470,Semi-Auto,2000.0,Diesel,145.0,65.7,2.0
+ GLC Class,2017.0,26024,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ E Class,2019.0,44159,Semi-Auto,1000.0,Diesel,145.0,40.9,3.0
+ E Class,2018.6666666666667,43999,Semi-Auto,0.0,Petrol,145.0,32.5,3.0
+unknown,2015.0,17495,Semi-Auto,0.0,Diesel,30.0,56.5,2.1
+ A Class,2020.0,25879,Semi-Auto,1000.0,Petrol,0.0,56.5,1.3
+unknown,2019.0,28850,Semi-Auto,11354.0,Diesel,145.0,58.9,2.0
+ C Class,2019.0,36980,Semi-Auto,16.0,Diesel,0.0,56.5,2.0
+ CL Class,2014.0,17990,Semi-Auto,18024.0,Diesel,30.0,62.8,2.1
+ C Class,2019.0,28599,Semi-Auto,901.0,Diesel,0.0,61.4,2.0
+ C Class,2019.0,29649,Semi-Auto,9809.0,Diesel,145.0,56.5,2.0
+ A Class,2015.0,10991,Semi-Auto,67865.0,Diesel,0.0,68.9,2.1
+ C Class,2018.6666666666667,15280,Manual,27832.0,Diesel,145.0,72.4,1.6
+unknown,2019.0,34579,Semi-Auto,1000.0,Petrol,145.0,44.1,1.5
+ A Class,2017.3333333333333,18961,Semi-Auto,0.0,Diesel,150.0,68.9,2.1
+unknown,2019.0,49899,Automatic,1279.0,Petrol,145.0,56.5,3.0
+unknown,2015.6666666666667,17999,Automatic,28530.0,Diesel,125.0,58.9,2.1
+unknown,2011.0,14995,Automatic,34000.0,Diesel,200.0,56.5,2.0
+unknown,2015.0,22200,Automatic,40564.0,Petrol,200.0,39.8,2.0
+ GLE Class,2019.0,47390,Semi-Auto,9500.0,Diesel,145.0,56.5,2.0
+ CLS Class,2017.0,21480,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ C Class,2017.0,17600,Automatic,21841.0,Diesel,30.0,56.5,2.1
+ E Class,2018.6666666666667,47770,Automatic,1005.0,Petrol,145.0,32.5,2.0
+ B Class,2014.0,10999,Automatic,0.0,Diesel,30.0,64.2,1.5
+unknown,2017.0,15490,Manual,40014.0,Diesel,0.0,56.5,2.1
+ A Class,2017.0,13999,Manual,0.0,Diesel,0.0,68.9,1.5
+unknown,2017.0,21599,Semi-Auto,28234.0,Diesel,145.0,65.7,2.0
+ GLA Class,2017.0,14610,Manual,0.0,Diesel,150.0,67.3,2.1
+unknown,2019.0,20299,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+ E Class,2015.0,11495,Automatic,0.0,Diesel,0.0,60.1,2.1
+unknown,2018.6666666666667,16495,Semi-Auto,14427.0,Petrol,145.0,53.3,1.6
+unknown,2019.0,27490,Automatic,3098.0,Petrol,145.0,42.2,2.0
+ E Class,2016.6666666666667,20995,Semi-Auto,32497.0,Diesel,20.0,67.3,2.0
+ GLS Class,2018.6666666666667,43990,Automatic,0.0,Diesel,145.0,37.2,3.0
+ E Class,2018.6666666666667,22099,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+ C Class,2017.0,20871,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+ E Class,2020.0,44500,Semi-Auto,0.0,Diesel,0.0,42.8,2.0
+ A Class,2018.0,16396,Manual,16321.0,Petrol,0.0,51.4,2.0
+ C Class,2018.0,28374,Automatic,8962.0,Diesel,145.0,54.3,2.0
+ A Class,2018.6666666666667,26987,Semi-Auto,2577.0,Petrol,145.0,53.3,1.3
+ GLA Class,2018.0,21000,Automatic,11361.0,Petrol,150.0,56.5,1.6
+ A Class,2019.0,24172,Semi-Auto,0.0,Petrol,145.0,56.5,1.3
+unknown,2018.6666666666667,24900,Semi-Auto,5662.0,Petrol,145.0,53.3,2.0
+ E Class,2019.0,35349,Semi-Auto,11598.0,Diesel,145.0,48.7,2.0
+ A Class,2019.0,25490,Automatic,8812.0,Diesel,0.0,62.8,1.5
+ GLA Class,2016.0,16591,Semi-Auto,48808.0,Diesel,125.0,56.5,2.0
+ A Class,2015.0,10914,Manual,0.0,Diesel,30.0,64.2,2.1
+unknown,2017.0,17650,Semi-Auto,59397.0,Diesel,0.0,56.5,2.0
+ A Class,2020.0,25879,Semi-Auto,1000.0,Petrol,0.0,56.5,1.3
+unknown,2019.0,44670,Automatic,0.0,Diesel,145.0,56.5,3.0
+ GLE Class,2018.0,50636,Semi-Auto,2172.0,Diesel,0.0,36.7,2.0
+ A Class,2014.0,9480,Manual,67569.0,Diesel,20.0,72.4,1.5
+ A Class,2016.0,15299,Automatic,20781.0,Diesel,0.0,70.6,2.1
+unknown,2019.0,28990,Automatic,3569.0,Diesel,0.0,56.5,2.0
+ E Class,2017.6666666666667,21989,Semi-Auto,0.0,Diesel,0.0,65.7,2.0
+ C Class,2019.0,37990,Automatic,750.0,Petrol,150.0,30.4,3.0
+unknown,2018.6666666666667,26049,Semi-Auto,1000.0,Diesel,145.0,62.8,1.5
+ C Class,2017.0,22980,Semi-Auto,29909.0,Diesel,0.0,60.1,2.1
+unknown,2015.0,13527,Automatic,51933.0,Diesel,125.0,61.4,2.0
+ A Class,2018.3333333333333,13500,Manual,21410.0,Diesel,150.0,72.4,1.5
+unknown,2018.3333333333333,18995,Automatic,54000.0,Petrol,150.0,56.5,2.0
+ C Class,2017.0,31750,Automatic,18075.0,Petrol,145.0,35.3,3.0
+ E Class,2018.6666666666667,49500,Automatic,4250.0,Petrol,145.0,56.5,3.0
+ C Class,2015.0,22402,Semi-Auto,21123.0,Diesel,20.0,67.3,2.1
+ CL Class,2013.0,15499,Automatic,0.0,Diesel,30.0,62.8,2.1
+ C Class,2017.0,18991,Automatic,34682.0,Diesel,30.0,61.4,2.1
+unknown,2016.0,26001,Semi-Auto,34358.0,Diesel,125.0,56.5,2.1
+ CLA Class,2020.0,29998,Automatic,0.0,Petrol,0.0,44.8,1.3
+ E Class,2016.0,18880,Semi-Auto,45143.0,Diesel,30.0,65.7,2.0
+ GLA Class,2018.0,26899,Semi-Auto,4253.0,Diesel,145.0,56.5,2.0
+ C Class,2017.6666666666667,14990,Manual,41647.0,Diesel,0.0,65.7,2.1
+ GLE Class,2016.0,28698,Semi-Auto,22707.0,Diesel,200.0,47.9,2.1
+unknown,2016.0,18100,Automatic,21505.0,Diesel,30.0,56.5,2.1
+ CLS Class,2019.0,37990,Automatic,2426.0,Diesel,145.0,45.6,2.0
+ S Class,2018.6666666666667,28086,Automatic,38347.0,Diesel,205.0,48.7,3.0
+unknown,2018.6666666666667,18691,Semi-Auto,12043.0,Diesel,145.0,65.7,1.5
+ A Class,2018.6666666666667,15980,Automatic,11100.0,Petrol,145.0,56.5,1.6
+ GLC Class,2018.0,30568,Automatic,9160.0,Diesel,145.0,56.5,2.1
+ A Class,2019.0,24049,Semi-Auto,3607.0,Petrol,145.0,53.3,1.3
+ A Class,2019.0,21998,Semi-Auto,19324.0,Petrol,150.0,53.3,1.3
+unknown,2017.0,17250,Semi-Auto,35000.0,Diesel,0.0,68.9,2.1
+ A Class,2017.0,15799,Manual,24105.0,Diesel,20.0,68.9,1.5
+ B Class,2017.6666666666667,23979,Semi-Auto,1000.0,Diesel,0.0,56.5,2.0
+ E Class,2017.0,20880,Automatic,37000.0,Diesel,30.0,65.7,2.0
+ SL CLASS,2018.6666666666667,30670,Automatic,3000.0,Petrol,145.0,47.1,2.0
+ GLA Class,2019.0,22600,Automatic,19193.0,Petrol,0.0,56.5,1.6
+ C Class,2017.0,22489,Automatic,33412.0,Petrol,0.0,47.1,2.0
+unknown,2016.0,18699,Automatic,0.0,Diesel,125.0,58.9,2.1
+ C Class,2017.0,20340,Semi-Auto,0.0,Diesel,30.0,64.2,2.1
+ GLA Class,2016.0,14500,Automatic,0.0,Diesel,30.0,64.2,2.1
+ C Class,2016.0,15000,Automatic,0.0,Hybrid,0.0,122.8,2.0
+unknown,2018.6666666666667,28000,Automatic,584.0,Diesel,145.0,56.5,2.0
+ C Class,2018.3333333333333,14698,Manual,59038.0,Diesel,20.0,70.6,2.0
+ C Class,2020.0,28220,Semi-Auto,4501.0,Diesel,145.0,54.3,1.6
+ GLA Class,2018.6666666666667,20149,Semi-Auto,13108.0,Diesel,145.0,64.2,2.1
+ C Class,2016.0,18400,Automatic,31530.0,Diesel,30.0,64.2,2.1
+unknown,2016.0,23999,Semi-Auto,10000.0,Diesel,0.0,65.7,2.1
+ E Class,2017.0,19500,Automatic,0.0,Diesel,30.0,65.7,2.0
+unknown,2019.0,25389,Semi-Auto,2000.0,Petrol,145.0,45.6,1.5
+unknown,2018.6666666666667,31980,Automatic,0.0,Diesel,145.0,56.5,2.1
+ C Class,2018.0,18998,Semi-Auto,0.0,Petrol,145.0,50.4,2.0
+ C Class,2017.0,21400,Automatic,54500.0,Diesel,30.0,65.7,2.1
+unknown,2018.6666666666667,18999,Semi-Auto,7800.0,Diesel,145.0,68.9,2.0
+ E Class,2019.0,36479,Semi-Auto,0.0,Diesel,145.0,56.5,3.0
+ A Class,2015.6666666666667,10795,Manual,61626.0,Diesel,20.0,72.4,1.5
+ A Class,2017.0,14999,Automatic,35510.0,Petrol,0.0,56.5,2.0
+ GLC Class,2019.0,62299,Semi-Auto,1945.0,Petrol,145.0,27.4,4.0
+unknown,2008.0,3990,Automatic,52691.0,Petrol,235.0,56.5,2.0
+ A Class,2017.0,17490,Automatic,12355.0,Diesel,145.0,68.9,2.0
+ GLE Class,2018.6666666666667,32995,Semi-Auto,18072.0,Diesel,265.0,42.8,3.0
+ SL CLASS,2017.0,20681,Automatic,0.0,Diesel,0.0,70.6,2.1
+ C Class,2018.0,23499,Semi-Auto,22000.0,Diesel,145.0,61.4,2.0
+unknown,2018.6666666666667,24995,Semi-Auto,3800.0,Petrol,145.0,47.9,2.0
+ E Class,2018.3333333333333,22799,Semi-Auto,21330.0,Diesel,30.0,65.7,2.0
+ E Class,2018.0,31480,Semi-Auto,11958.0,Diesel,145.0,70.6,2.0
+ M Class,2014.0,20499,Automatic,0.0,Diesel,300.0,39.2,3.0
+ C Class,2017.6666666666667,30181,Automatic,0.0,Diesel,0.0,55.4,2.0
+ C Class,2019.0,29999,Semi-Auto,5979.0,Petrol,145.0,44.1,2.0
+ E Class,2018.6666666666667,25149,Semi-Auto,10807.0,Diesel,145.0,72.4,2.0
+ A Class,2018.0,20750,Automatic,10236.0,Petrol,145.0,53.3,2.0
+ E Class,2019.0,37199,Semi-Auto,4800.0,Diesel,145.0,56.5,3.0
+unknown,2019.0,46980,Semi-Auto,9.0,Diesel,145.0,56.5,3.0
+unknown,2018.0,45200,Semi-Auto,9139.0,Diesel,145.0,36.7,3.0
+ C Class,2016.0,13295,Automatic,0.0,Hybrid,0.0,56.5,2.0
+ A Class,2015.0,17498,Semi-Auto,14221.0,Diesel,125.0,58.9,2.0
+ E Class,2016.0,20298,Semi-Auto,0.0,Diesel,145.0,56.5,3.0
+ GLC Class,2019.0,46076,Automatic,0.0,Petrol,145.0,27.4,4.0
+ SL CLASS,2017.6666666666667,20995,Automatic,12591.0,Petrol,150.0,47.9,2.0
+ B Class,2016.0,10989,Manual,0.0,Diesel,0.0,68.9,2.0
+ A Class,2016.0,13299,Manual,0.0,Diesel,20.0,56.5,1.5
+ E Class,2018.3333333333333,15699,Automatic,80652.0,Diesel,20.0,56.5,2.0
+ GLA Class,2017.0,17975,Semi-Auto,52655.0,Diesel,125.0,56.6,2.1
+unknown,2018.3333333333333,20042,Automatic,0.0,Diesel,150.0,54.3,2.0
+ GLC Class,2018.3333333333333,23490,Semi-Auto,0.0,Diesel,125.0,56.5,2.0
+unknown,2019.0,26099,Semi-Auto,5433.0,Petrol,145.0,45.6,2.0
+unknown,2020.0,26841,Semi-Auto,0.0,Petrol,0.0,53.3,1.3
+unknown,2016.0,20624,Semi-Auto,20026.0,Diesel,0.0,56.5,2.1
+ B Class,2019.0,25444,Automatic,0.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,31519,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ C Class,2018.6666666666667,26000,Semi-Auto,19800.0,Petrol,145.0,42.2,2.0
+ A Class,2019.0,21699,Semi-Auto,5126.0,Petrol,145.0,53.3,2.0
+unknown,2016.3333333333333,13750,Automatic,49211.0,Diesel,0.0,64.2,1.8
+ GLA Class,2019.0,24538,Automatic,2311.0,Diesel,0.0,56.5,2.1
+unknown,2018.6666666666667,25995,Automatic,6620.0,Diesel,145.0,67.3,2.0
+ A Class,2016.0,11480,Manual,47552.0,Diesel,0.0,80.7,1.5
+ C Class,2018.6666666666667,31099,Automatic,0.0,Petrol,145.0,44.1,2.0
+ GLE Class,2018.6666666666667,38881,Semi-Auto,13758.0,Petrol,145.0,56.5,3.0
+ GLA Class,2014.0,13995,Semi-Auto,40423.0,Diesel,0.0,56.5,2.1
+ GLA Class,2016.6666666666667,15498,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+unknown,2020.0,39099,Semi-Auto,1000.0,Petrol,145.0,56.5,2.0
+ C Class,2019.0,30599,Semi-Auto,3601.0,Petrol,145.0,44.1,2.0
+unknown,2013.0,7395,Manual,70230.0,Diesel,0.0,56.5,1.8
+ A Class,2018.3333333333333,11000,Manual,64002.0,Diesel,30.0,56.5,2.0
+ C Class,2016.3333333333333,18980,Semi-Auto,23589.0,Diesel,30.0,56.5,2.1
+unknown,2015.0,18199,Automatic,33720.0,Diesel,30.0,64.2,2.1
+unknown,2019.0,29755,Semi-Auto,8009.0,Petrol,145.0,47.1,2.0
+unknown,2017.0,15995,Semi-Auto,38530.0,Diesel,145.0,68.9,2.0
+ S Class,2013.0,24530,Automatic,56061.0,Hybrid,0.0,44.8,3.5
+ A Class,2019.0,22899,Semi-Auto,4042.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,21750,Automatic,16750.0,Diesel,125.0,58.9,2.1
+ A Class,2018.0,21495,Automatic,3701.0,Diesel,145.0,67.3,1.5
+ A Class,2020.0,25990,Semi-Auto,1499.0,Diesel,145.0,56.5,2.0
+ A Class,2018.0,16700,Automatic,19212.0,Diesel,150.0,56.5,1.5
+unknown,2015.0,36499,Automatic,8051.0,Petrol,325.0,31.7,4.7
+ E Class,2019.0,24749,Semi-Auto,0.0,Diesel,0.0,72.4,2.0
+ C Class,2020.0,34991,Semi-Auto,0.0,Petrol,145.0,43.5,2.0
+ C Class,2015.0,18736,Semi-Auto,27276.0,Petrol,0.0,56.5,2.0
+ A Class,2020.0,24780,Manual,0.0,Petrol,145.0,56.5,1.3
+unknown,2016.0,19491,Semi-Auto,25550.0,Petrol,0.0,45.6,2.0
+ A Class,2017.0,15999,Automatic,7493.0,Diesel,145.0,74.3,2.0
+unknown,2018.6666666666667,59995,Semi-Auto,3526.0,Diesel,145.0,32.5,2.9
+ V Class,2019.0,41730,Automatic,2582.0,Diesel,145.0,45.6,2.2
+ B Class,2019.0,21890,Automatic,13338.0,Petrol,145.0,45.6,2.0
+ GLA Class,2016.6666666666667,16500,Automatic,29011.0,Diesel,0.0,56.5,2.1
+unknown,2016.3333333333333,13100,Automatic,63955.0,Diesel,0.0,64.2,2.0
+ A Class,2020.0,25000,Semi-Auto,4000.0,Diesel,0.0,56.5,1.5
+unknown,2015.0,16499,Automatic,33707.0,Diesel,30.0,56.5,2.0
+ A Class,2019.0,22339,Semi-Auto,4040.0,Diesel,145.0,65.7,2.0
+ A Class,2015.6666666666667,8491,Manual,124000.0,Diesel,20.0,70.6,1.5
+ B Class,2018.6666666666667,21980,Semi-Auto,11748.0,Petrol,145.0,45.6,2.0
+ C Class,2019.0,30516,Automatic,5465.0,Petrol,145.0,44.1,2.0
+ A Class,2019.0,19511,Semi-Auto,0.0,Diesel,145.0,68.9,1.5
+ V Class,2015.6666666666667,27998,Semi-Auto,58590.0,Diesel,0.0,44.8,2.2
+ M Class,2015.0,18495,Semi-Auto,71000.0,Diesel,200.0,46.3,2.1
+ A Class,2019.0,26991,Manual,1998.0,Petrol,150.0,56.5,1.3
+ E Class,2017.0,30732,Semi-Auto,9076.0,Petrol,145.0,40.4,2.0
+unknown,2018.3333333333333,8795,Manual,75067.0,Diesel,125.0,56.5,2.0
+ E Class,2019.0,25780,Semi-Auto,9853.0,Diesel,145.0,72.4,2.0
+ GLC Class,2019.0,60699,Automatic,0.0,Petrol,145.0,56.5,2.0
+ C Class,2017.6666666666667,22680,Semi-Auto,7470.0,Diesel,0.0,61.4,2.0
+ GLE Class,2017.0,26600,Automatic,33848.0,Diesel,145.0,42.8,3.0
+ E Class,2019.0,35980,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2018.0,22999,Automatic,13284.0,Diesel,145.0,72.4,2.0
+ CL Class,2017.0,21380,Semi-Auto,0.0,Diesel,0.0,67.3,2.1
+ C Class,2017.0,14057,Manual,21443.0,Diesel,20.0,70.6,1.6
+ GLC Class,2018.0,30682,Automatic,14517.0,Diesel,145.0,56.5,2.0
+unknown,2016.0,32480,Semi-Auto,18171.0,Diesel,260.0,42.8,3.0
+unknown,2016.0,19798,Semi-Auto,0.0,Diesel,0.0,60.1,2.0
+ B Class,2018.6666666666667,24790,Semi-Auto,7463.0,Diesel,145.0,55.4,2.0
+ C Class,2015.0,14490,Automatic,78000.0,Diesel,30.0,56.5,2.1
+ B Class,2019.0,22749,Automatic,10101.0,Diesel,0.0,60.1,2.0
+unknown,2014.0,12670,Manual,41700.0,Diesel,30.0,56.5,2.1
+unknown,2019.0,28499,Semi-Auto,15096.0,Diesel,145.0,64.2,2.0
+unknown,2015.0,17749,Semi-Auto,19039.0,Diesel,30.0,64.2,2.0
+ CLS Class,2015.0,19298,Semi-Auto,0.0,Diesel,0.0,49.6,3.0
+ E Class,2016.0,18949,Automatic,0.0,Diesel,125.0,58.9,2.1
+unknown,2017.0,17990,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ A Class,2018.6666666666667,19530,Automatic,7439.0,Diesel,145.0,65.7,1.5
+ A Class,2019.0,19493,Automatic,2869.0,Petrol,145.0,28.5,1.3
+ C Class,2019.0,20999,Semi-Auto,9883.0,Diesel,145.0,61.4,2.0
+ C Class,2018.6666666666667,27195,Automatic,0.0,Diesel,145.0,57.7,2.0
+unknown,2018.6666666666667,35480,Semi-Auto,0.0,Diesel,145.0,42.8,2.0
+ C Class,2017.0,20990,Semi-Auto,30447.0,Diesel,150.0,61.4,2.1
+unknown,2017.0,23480,Semi-Auto,18444.0,Diesel,145.0,65.7,2.0
+ GLC Class,2018.0,27462,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+unknown,2018.3333333333333,21398,Semi-Auto,34056.0,Diesel,160.0,51.4,2.0
+unknown,2020.0,24500,Manual,0.0,Petrol,0.0,47.1,1.3
+ A Class,2020.0,30231,Semi-Auto,0.0,Hybrid,140.0,1.1,1.3
+ C Class,2016.0,18280,Semi-Auto,36946.0,Diesel,30.0,56.5,2.0
+ C Class,2016.0,19990,Automatic,0.0,Diesel,0.0,67.3,2.1
+ C Class,2017.0,21999,Automatic,0.0,Petrol,145.0,56.5,2.0
+ E Class,2019.0,41890,Automatic,3244.0,Hybrid,135.0,176.6,2.0
+unknown,2015.0,7792,Manual,0.0,Diesel,20.0,68.9,2.1
+unknown,2019.0,24535,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ C Class,2017.0,22990,Semi-Auto,15527.0,Diesel,145.0,67.3,2.1
+ C Class,2015.0,15750,Automatic,28953.0,Diesel,20.0,56.5,2.1
+ CL Class,2014.0,12000,Manual,62479.0,Diesel,30.0,64.2,2.0
+unknown,2016.0,23822,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+unknown,2016.0,11281,Manual,49316.0,Diesel,30.0,64.2,2.1
+ X-CLASS,2018.0,33991,Automatic,11366.0,Diesel,265.0,31.4,3.0
+ E Class,2018.3333333333333,18700,Automatic,28396.0,Diesel,20.0,56.5,2.0
+unknown,2019.0,56399,Semi-Auto,3105.0,Petrol,145.0,31.7,3.0
+ GLC Class,2019.0,45399,Semi-Auto,1788.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,53980,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,45980,Semi-Auto,2010.0,Petrol,145.0,29.7,3.0
+ GLC Class,2019.0,37990,Automatic,1499.0,Diesel,0.0,40.9,2.0
+ A Class,2016.0,15351,Manual,27744.0,Diesel,0.0,62.8,2.1
+ GLA Class,2016.6666666666667,23099,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ C Class,2017.6666666666667,22495,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+ GL Class,2014.0,17699,Automatic,5007.0,Diesel,145.0,55.4,2.0
+ C Class,2019.0,23879,Manual,1000.0,Petrol,0.0,47.1,2.0
+ C Class,2016.3333333333333,18499,Semi-Auto,28480.0,Diesel,0.0,64.2,1.6
+ C Class,2019.0,24244,Automatic,0.0,Petrol,145.0,44.1,2.0
+unknown,2020.0,42990,Semi-Auto,3541.0,Petrol,145.0,56.5,2.0
+unknown,2020.0,31480,Semi-Auto,19.0,Diesel,145.0,64.2,2.0
+ C Class,2018.3333333333333,11490,Manual,0.0,Petrol,125.0,52.3,2.0
+ C Class,2018.6666666666667,65980,Semi-Auto,3999.0,Petrol,145.0,28.0,4.0
+ C Class,2015.0,16950,Automatic,0.0,Hybrid,0.0,76.4,2.2
+ GLE Class,2016.0,33750,Semi-Auto,44870.0,Diesel,300.0,39.2,2.0
+ C Class,2016.3333333333333,19980,Semi-Auto,0.0,Diesel,0.0,64.2,2.1
+unknown,2019.0,27495,Semi-Auto,0.0,Diesel,145.0,55.4,2.0
+unknown,2019.0,30249,Semi-Auto,7539.0,Petrol,145.0,47.1,2.0
+ A Class,2018.6666666666667,24199,Semi-Auto,0.0,Diesel,145.0,67.3,1.5
+ C Class,2019.0,26999,Semi-Auto,0.0,Diesel,145.0,56.5,1.6
+unknown,2019.0,31199,Semi-Auto,5382.0,Diesel,145.0,61.4,2.0
+ CL Class,2020.0,29999,Semi-Auto,1100.0,Petrol,145.0,56.5,1.3
+ CL Class,2018.6666666666667,25498,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2018.6666666666667,50995,Automatic,9393.0,Petrol,145.0,31.4,4.7
+unknown,2019.0,27950,Semi-Auto,2901.0,Diesel,150.0,56.5,2.0
+ E Class,2018.6666666666667,20899,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2015.0,17960,Semi-Auto,38339.0,Diesel,125.0,56.5,2.1
+ A Class,2019.0,21210,Manual,0.0,Petrol,0.0,56.5,1.3
+unknown,2017.0,31349,Semi-Auto,16915.0,Petrol,145.0,35.8,2.0
+ E Class,2019.0,28950,Semi-Auto,14321.0,Diesel,145.0,58.9,2.0
+unknown,2017.6666666666667,14498,Manual,21945.0,Petrol,0.0,53.3,2.0
+ E Class,2019.0,33980,Semi-Auto,12928.0,Diesel,145.0,48.7,3.0
+ A Class,2017.0,14500,Manual,0.0,Diesel,0.0,72.4,1.5
+unknown,2019.0,24510,Automatic,14885.0,Diesel,0.0,56.5,2.0
+ E Class,2016.0,22990,Automatic,49521.0,Diesel,160.0,51.4,2.0
+unknown,2020.0,30480,Semi-Auto,0.0,Diesel,0.0,64.2,2.0
+unknown,2016.0,18449,Semi-Auto,23077.0,Diesel,30.0,64.2,2.0
+ B Class,2016.0,11849,Automatic,0.0,Diesel,0.0,68.9,2.1
+ A Class,2015.0,15200,Semi-Auto,39057.0,Diesel,20.0,74.3,1.5
+ GLA Class,2019.3333333333333,25990,Automatic,2125.0,Petrol,145.0,35.8,2.0
+unknown,2016.0,19298,Semi-Auto,27644.0,Diesel,0.0,64.2,2.1
+ E Class,2018.0,22699,Automatic,0.0,Diesel,145.0,65.7,2.0
+ C Class,2016.0,29995,Semi-Auto,64291.0,Petrol,0.0,34.5,4.0
+ CL Class,2016.0,16500,Semi-Auto,56215.0,Diesel,0.0,67.3,2.1
+ C Class,2019.0,36539,Semi-Auto,1000.0,Diesel,0.0,56.5,2.0
+ V Class,2018.6666666666667,19346,Manual,34483.0,Diesel,150.0,46.3,2.1
+ GLC Class,2016.0,22390,Automatic,0.0,Diesel,125.0,56.5,2.1
+ C Class,2018.6666666666667,26949,Automatic,0.0,Petrol,145.0,56.5,2.0
+ GLA Class,2016.0,16991,Semi-Auto,46713.0,Diesel,125.0,56.5,2.1
+ CL Class,2020.0,28109,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2018.6666666666667,19900,Automatic,0.0,Petrol,145.0,48.7,2.0
+ GLA Class,2017.0,16850,Automatic,39023.0,Diesel,150.0,64.2,2.1
+ B Class,2013.0,8998,Semi-Auto,46108.0,Diesel,30.0,64.2,1.8
+unknown,2016.0,23060,Semi-Auto,27830.0,Diesel,0.0,61.4,2.1
+ GLA Class,2017.0,19450,Automatic,42932.0,Diesel,0.0,56.5,2.1
+ C Class,2019.0,24950,Automatic,6224.0,Petrol,0.0,44.1,2.0
+ C Class,2018.6666666666667,25499,Semi-Auto,15175.0,Diesel,145.0,61.4,2.0
+ A Class,2016.0,15990,Manual,19715.0,Diesel,0.0,62.8,2.0
+unknown,2018.6666666666667,24589,Semi-Auto,1000.0,Diesel,145.0,56.5,2.0
+unknown,2017.0,14799,Manual,25522.0,Diesel,145.0,68.9,1.5
+ C Class,2019.0,23444,Automatic,0.0,Diesel,0.0,61.4,2.0
+unknown,2020.0,41298,Automatic,20.0,Diesel,145.0,45.6,2.0
+unknown,2019.0,21990,Manual,50.0,Petrol,145.0,56.5,1.3
+ E Class,2019.0,41995,Semi-Auto,11799.0,Diesel,150.0,38.2,3.0
+ A Class,2014.0,11995,Semi-Auto,0.0,Petrol,125.0,56.5,1.6
+ GLA Class,2017.0,21062,Semi-Auto,21143.0,Diesel,125.0,56.5,2.1
+unknown,2019.0,30000,Semi-Auto,16478.0,Diesel,0.0,58.9,2.0
+ B Class,2018.6666666666667,24490,Automatic,6000.0,Diesel,145.0,56.5,2.0
+ A Class,2018.6666666666667,19498,Automatic,0.0,Diesel,145.0,68.9,1.5
+ E Class,2017.6666666666667,17799,Automatic,26234.0,Diesel,0.0,72.4,2.0
+ C Class,2019.0,67699,Automatic,0.0,Petrol,145.0,28.0,4.0
+ E Class,2019.0,40998,Semi-Auto,1255.0,Diesel,0.0,49.6,2.0
+unknown,2017.0,15450,Semi-Auto,0.0,Diesel,20.0,65.7,2.0
+ CL Class,2019.0,29481,Automatic,0.0,Petrol,0.0,56.5,1.3
+ GLC Class,2017.6666666666667,25780,Automatic,34358.0,Diesel,0.0,56.5,2.0
+ GL Class,2018.0,27499,Automatic,24632.0,Diesel,0.0,56.5,2.1
+unknown,2015.0,15442,Semi-Auto,50240.0,Petrol,125.0,51.4,1.6
+unknown,2017.0,16898,Manual,24093.0,Diesel,150.0,56.5,2.1
+ CL Class,2019.0,25495,Semi-Auto,5999.0,Petrol,0.0,44.8,1.3
+ GLA Class,2015.0,17749,Semi-Auto,34012.0,Diesel,125.0,56.5,2.0
+ A Class,2015.0,11200,Automatic,0.0,Diesel,0.0,68.9,2.1
+ GLC Class,2019.0,30980,Semi-Auto,5002.0,Diesel,145.0,44.8,2.0
+ C Class,2016.0,17500,Automatic,52749.0,Hybrid,0.0,76.4,2.1
+unknown,2018.0,32049,Semi-Auto,8053.0,Diesel,145.0,41.5,3.0
+ A Class,2014.0,14999,Automatic,54533.0,Petrol,145.0,44.1,2.0
+unknown,2017.3333333333333,14999,Manual,15700.0,Petrol,0.0,56.5,1.6
+ B Class,2019.0,20000,Semi-Auto,13330.0,Petrol,145.0,45.6,1.3
+ E Class,2017.6666666666667,27400,Automatic,0.0,Petrol,0.0,40.4,2.0
+ C Class,2018.6666666666667,30980,Semi-Auto,16.0,Diesel,145.0,61.4,2.0
+unknown,2015.0,13469,Manual,36050.0,Diesel,30.0,62.8,2.1
+ B Class,2007.0,3990,Automatic,85858.0,Diesel,0.0,47.1,2.0
+ GLC Class,2017.3333333333333,69995,Automatic,1829.0,Petrol,0.0,22.1,4.0
+ CL Class,2017.0,20995,Automatic,0.0,Diesel,145.0,67.3,2.1
+unknown,2017.0,20995,Automatic,7182.0,Diesel,0.0,56.5,2.1
+ GL Class,2015.0,17299,Automatic,29520.0,Diesel,125.0,55.4,2.1
+unknown,2019.0,38790,Automatic,7318.0,Diesel,145.0,40.9,2.0
+unknown,2019.0,71980,Semi-Auto,4017.0,Petrol,145.0,56.5,4.0
+unknown,2015.0,13500,Semi-Auto,37020.0,Diesel,30.0,65.7,1.6
+ C Class,2017.0,13587,Semi-Auto,61305.0,Diesel,150.0,65.7,2.0
+unknown,2020.0,35438,Automatic,3500.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,20999,Semi-Auto,13731.0,Diesel,145.0,61.4,2.0
+ CLS Class,2019.0,35850,Automatic,0.0,Diesel,145.0,56.5,2.9
+unknown,2018.6666666666667,19888,Manual,9071.0,Petrol,145.0,53.3,1.3
+unknown,2020.0,28989,Manual,0.0,Petrol,145.0,56.5,1.3
+ C Class,2016.0,7250,Manual,0.0,Diesel,30.0,64.2,2.0
+ E Class,2018.0,27000,Automatic,15517.0,Petrol,0.0,40.4,2.0
+ CL Class,2017.0,20651,Semi-Auto,32895.0,Diesel,20.0,67.3,2.1
+ A Class,2016.6666666666667,14700,Semi-Auto,56387.0,Diesel,20.0,56.5,2.1
+unknown,2015.0,19599,Semi-Auto,16633.0,Petrol,200.0,56.5,2.0
+ GLA Class,2016.0,15382,Manual,0.0,Diesel,20.0,67.3,2.1
+ GLA Class,2016.0,16500,Manual,36053.0,Diesel,30.0,64.2,2.1
+ E Class,2018.3333333333333,13599,Automatic,15759.0,Diesel,125.0,58.9,2.0
+ E Class,2018.3333333333333,21500,Automatic,25000.0,Diesel,150.0,61.4,2.0
+ SL CLASS,2017.0,18460,Automatic,21882.0,Diesel,30.0,70.6,2.0
+ A Class,2019.0,26980,Semi-Auto,16.0,Petrol,0.0,56.5,2.0
+unknown,2015.6666666666667,18150,Semi-Auto,41356.0,Diesel,30.0,61.4,2.1
+ SL CLASS,2020.0,32999,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+ C Class,2015.0,17435,Automatic,33384.0,Diesel,0.0,60.1,2.1
+ C Class,2017.0,6995,Automatic,60000.0,Diesel,265.0,56.5,2.1
+unknown,2019.0,22499,Semi-Auto,13743.0,Petrol,0.0,56.5,1.3
+ A Class,2016.0,13295,Semi-Auto,0.0,Diesel,0.0,74.3,1.5
+unknown,2017.0,32980,Automatic,8141.0,Diesel,145.0,45.6,2.2
+ C Class,2018.0,27449,Semi-Auto,5532.0,Petrol,145.0,56.5,2.0
+ C Class,2018.0,27991,Semi-Auto,5386.0,Diesel,150.0,65.7,2.1
+ A Class,2015.0,15500,Semi-Auto,33330.0,Diesel,20.0,56.5,2.1
+unknown,2018.0,22299,Semi-Auto,0.0,Diesel,0.0,65.7,2.0
+unknown,2018.0,21250,Semi-Auto,30320.0,Diesel,145.0,56.5,2.0
+ A Class,2014.0,11850,Manual,54004.0,Diesel,30.0,56.5,2.1
+ SLK,2001.0,3990,Automatic,48172.0,Petrol,0.0,30.0,2.3
+unknown,2019.0,35299,Semi-Auto,100.0,Diesel,145.0,55.4,2.0
+ A Class,2017.0,28499,Semi-Auto,33024.0,Petrol,0.0,40.9,2.0
+unknown,2016.0,16965,Semi-Auto,35465.0,Diesel,0.0,64.2,2.1
+ A Class,2017.0,15042,Manual,0.0,Diesel,20.0,72.4,1.5
+unknown,2019.0,24950,Semi-Auto,2771.0,Diesel,145.0,58.9,1.5
+ GLC Class,2020.0,37998,Semi-Auto,0.0,Diesel,150.0,56.5,2.0
+ GLE Class,2017.0,27000,Semi-Auto,29054.0,Diesel,200.0,56.5,2.0
+ C Class,2018.3333333333333,31945,Automatic,34765.0,Petrol,260.0,35.3,2.0
+ A Class,2017.0,16480,Semi-Auto,0.0,Diesel,20.0,56.5,2.0
+ A Class,2018.6666666666667,16130,Manual,18570.0,Diesel,145.0,56.5,1.5
+ B Class,2018.0,19980,Semi-Auto,3945.0,Petrol,145.0,56.5,1.6
+unknown,2014.0,16490,Automatic,47550.0,Petrol,200.0,42.8,2.0
+ A Class,2018.0,18399,Automatic,7168.0,Diesel,145.0,65.7,1.5
+unknown,2018.6666666666667,20248,Automatic,14421.0,Petrol,145.0,56.5,2.0
+unknown,2019.0,19284,Semi-Auto,12198.0,Diesel,0.0,56.5,1.5
+unknown,2018.6666666666667,26880,Semi-Auto,10.0,Petrol,145.0,44.8,1.6
+ A Class,2017.6666666666667,20888,Semi-Auto,0.0,Petrol,0.0,45.6,2.0
+unknown,2016.0,29999,Semi-Auto,30138.0,Diesel,0.0,47.9,2.1
+ GLC Class,2018.6666666666667,46481,Semi-Auto,0.0,Diesel,145.0,40.9,2.0
+ C Class,2019.0,23495,Automatic,0.0,Petrol,145.0,56.5,1.5
+ B Class,2016.6666666666667,17600,Automatic,8500.0,Diesel,0.0,56.5,2.1
+ E Class,2016.6666666666667,21599,Semi-Auto,28823.0,Diesel,20.0,67.3,2.0
+ A Class,2018.0,16450,Manual,22883.0,Diesel,145.0,68.9,1.5
+ E Class,2018.6666666666667,24749,Semi-Auto,14360.0,Diesel,145.0,72.4,2.0
+ C Class,2018.0,33490,Automatic,0.0,Petrol,150.0,29.4,3.0
+ C Class,2017.6666666666667,19799,Semi-Auto,14301.0,Petrol,0.0,56.5,2.0
+ CL Class,2018.3333333333333,20800,Automatic,22878.0,Petrol,200.0,56.5,2.0
+ GLA Class,2018.0,21326,Automatic,13550.0,Diesel,0.0,56.5,2.1
+unknown,2016.0,16480,Manual,46228.0,Petrol,125.0,51.4,1.6
+ C Class,2016.0,22495,Semi-Auto,25399.0,Diesel,20.0,68.9,2.0
+ GLE Class,2018.3333333333333,31991,Automatic,30339.0,Diesel,0.0,42.8,3.0
+ C Class,2015.0,15000,Automatic,53400.0,Other,0.0,134.5,2.0
+ A Class,2016.0,14495,Manual,0.0,Diesel,0.0,72.4,2.0
+unknown,2016.0,17998,Semi-Auto,39017.0,Diesel,125.0,56.5,2.0
+ GLA Class,2018.0,26299,Semi-Auto,7293.0,Diesel,145.0,56.5,2.1
+unknown,2015.0,13109,Semi-Auto,24091.0,Diesel,0.0,68.9,2.0
+ C Class,2017.0,18981,Semi-Auto,25688.0,Diesel,145.0,56.5,2.0
+ GLA Class,2019.0,27359,Semi-Auto,1000.0,Diesel,145.0,56.5,2.0
+ B Class,2016.0,14995,Automatic,19000.0,Petrol,0.0,51.4,1.6
+ C Class,2018.3333333333333,11295,Manual,0.0,Diesel,20.0,56.5,2.0
+ B Class,2017.0,15999,Semi-Auto,13158.0,Diesel,150.0,68.9,2.1
+ A Class,2019.0,22966,Automatic,3535.0,Petrol,145.0,56.5,1.3
+ A Class,2018.6666666666667,19990,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+ GLC Class,2018.0,32849,Semi-Auto,11582.0,Diesel,0.0,56.5,2.1
+ A Class,2018.6666666666667,24299,Semi-Auto,0.0,Petrol,145.0,28.5,2.0
+ C Class,2018.6666666666667,28590,Semi-Auto,1501.0,Diesel,145.0,54.3,2.0
+ V Class,2015.6666666666667,19500,Automatic,99960.0,Diesel,200.0,45.6,2.1
+ GLA Class,2017.6666666666667,17491,Semi-Auto,0.0,Diesel,0.0,55.4,2.0
+unknown,2018.3333333333333,23500,Semi-Auto,8678.0,Petrol,0.0,56.5,1.3
+ A Class,2015.0,11623,Automatic,0.0,Diesel,20.0,68.9,2.0
+ E Class,2019.0,35699,Semi-Auto,0.0,Diesel,145.0,48.7,2.0
+ C Class,2015.0,15849,Semi-Auto,28500.0,Diesel,30.0,62.8,2.1
+ E Class,2018.6666666666667,63990,Automatic,28300.0,Petrol,145.0,56.5,4.0
+ GLE Class,2019.0,49480,Semi-Auto,4468.0,Diesel,145.0,36.7,2.0
+ GLE Class,2019.0,56693,Automatic,0.0,Petrol,145.0,29.5,2.0
+unknown,2018.0,24975,Semi-Auto,2334.0,Diesel,0.0,61.4,2.0
+ A Class,2016.0,13499,Manual,19043.0,Diesel,20.0,72.4,1.5
+unknown,2019.0,18946,Semi-Auto,0.0,Diesel,145.0,65.7,1.5
+ CL Class,2016.6666666666667,15995,Semi-Auto,26000.0,Diesel,0.0,56.5,2.1
+unknown,2017.0,29499,Semi-Auto,30500.0,Diesel,145.0,56.5,2.1
+ X-CLASS,2018.0,38995,Automatic,0.0,Diesel,260.0,56.5,3.0
+unknown,2017.6666666666667,10795,Manual,71240.0,Diesel,0.0,62.8,2.0
+unknown,2018.6666666666667,59812,Semi-Auto,0.0,Petrol,145.0,56.5,3.0
+ A Class,2019.0,18748,Automatic,12032.0,Diesel,145.0,68.9,2.0
+ C Class,2018.0,24600,Semi-Auto,8223.0,Diesel,145.0,56.5,2.1
+unknown,2019.0,39290,Semi-Auto,0.0,Petrol,145.0,30.4,3.0
+ C Class,2017.0,10998,Manual,0.0,Diesel,20.0,72.4,1.6
+unknown,2018.0,14500,Manual,0.0,Diesel,150.0,56.5,1.5
+unknown,2014.0,10528,Manual,48218.0,Diesel,20.0,72.4,1.5
+unknown,2016.0,15012,Semi-Auto,20339.0,Diesel,0.0,56.5,1.5
+unknown,2018.0,18265,Semi-Auto,16974.0,Diesel,0.0,64.2,2.1
+ C Class,2019.0,27199,Semi-Auto,930.0,Petrol,145.0,56.5,2.0
+ CL Class,2018.0,21980,Semi-Auto,24045.0,Diesel,0.0,67.3,2.1
+unknown,2019.0,45980,Semi-Auto,10491.0,Petrol,145.0,32.5,3.0
+ C Class,2018.0,34995,Semi-Auto,8294.0,Petrol,150.0,35.3,2.0
+ C Class,2018.6666666666667,20480,Semi-Auto,14620.0,Petrol,145.0,46.3,2.0
+ E Class,2017.0,20980,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+ C Class,2019.0,28750,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2016.0,19024,Semi-Auto,0.0,Diesel,20.0,64.2,2.0
+unknown,2019.0,36247,Automatic,2459.0,Diesel,145.0,56.5,3.0
+unknown,2019.0,19350,Automatic,13674.0,Petrol,145.0,45.6,2.0
+unknown,2017.0,16300,Manual,25150.0,Diesel,20.0,67.3,2.1
+ E Class,2015.0,17280,Semi-Auto,44866.0,Diesel,0.0,54.3,3.0
+ C Class,2016.0,12998,Manual,53453.0,Diesel,0.0,70.6,2.0
+ C Class,2017.0,21900,Automatic,23665.0,Diesel,145.0,61.4,2.1
+ C Class,2015.0,15498,Manual,32140.0,Diesel,20.0,56.5,2.0
+ CLS Class,2019.0,43640,Automatic,0.0,Diesel,145.0,48.7,2.9
+ C Class,2019.0,25999,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+unknown,2016.0,23149,Semi-Auto,0.0,Diesel,30.0,65.7,2.1
+ C Class,2016.0,20399,Semi-Auto,15000.0,Diesel,30.0,56.5,2.1
+ GLC Class,2016.0,28995,Semi-Auto,31600.0,Diesel,0.0,56.5,2.1
+ B Class,2019.0,19998,Semi-Auto,14922.0,Petrol,145.0,56.5,2.0
+ GLA Class,2015.0,17000,Automatic,0.0,Diesel,125.0,55.4,2.0
+ A Class,2015.0,12380,Manual,0.0,Diesel,0.0,70.6,1.5
+unknown,2018.0,27498,Semi-Auto,12491.0,Diesel,145.0,65.7,2.1
+ C Class,2016.0,19998,Automatic,0.0,Hybrid,0.0,56.5,2.0
+ C Class,2017.0,21999,Semi-Auto,0.0,Petrol,150.0,47.9,2.0
+ C Class,2016.0,13698,Semi-Auto,86965.0,Hybrid,0.0,134.5,2.0
+ E Class,2020.0,50998,Automatic,0.0,Diesel,145.0,47.1,2.0
+ C Class,2019.0,27950,Automatic,6024.0,Diesel,145.0,56.5,2.0
+ C Class,2013.0,10500,Automatic,0.0,Diesel,0.0,54.3,2.1
+ GLC Class,2017.0,23498,Semi-Auto,32902.0,Diesel,0.0,56.5,2.1
+ GLA Class,2020.0,24995,Automatic,0.0,Petrol,145.0,37.2,1.6
+unknown,2015.0,14940,Automatic,43000.0,Diesel,0.0,56.5,2.1
+ GLC Class,2017.0,19000,Automatic,87750.0,Diesel,0.0,56.5,2.1
+ C Class,2018.6666666666667,32068,Automatic,0.0,Diesel,145.0,56.5,2.0
+ B Class,2015.0,12995,Semi-Auto,21578.0,Diesel,0.0,68.9,2.0
+unknown,2016.0,17490,Semi-Auto,8645.0,Petrol,125.0,51.4,1.6
+unknown,2019.0,36995,Automatic,100.0,Petrol,0.0,56.5,1.5
+ CL Class,2019.0,26980,Semi-Auto,3730.0,Petrol,0.0,44.1,1.3
+ C Class,2018.6666666666667,38991,Automatic,4811.0,Diesel,145.0,61.4,2.0
+ SLK,2017.0,14995,Automatic,36860.0,Diesel,0.0,56.5,2.1
+unknown,2015.0,19499,Automatic,14295.0,Diesel,125.0,56.5,2.1
+unknown,2016.0,12300,Automatic,39838.0,Diesel,20.0,68.9,1.5
+ C Class,2018.0,27449,Automatic,7299.0,Diesel,0.0,57.7,2.0
+unknown,2019.0,22740,Automatic,0.0,Diesel,145.0,56.5,2.0
+ A Class,2018.6666666666667,20980,Semi-Auto,9767.0,Petrol,145.0,56.5,1.3
+ A Class,2015.0,11999,Semi-Auto,35153.0,Diesel,20.0,56.5,1.5
+ C Class,2017.0,17599,Automatic,50212.0,Diesel,0.0,56.5,1.6
+ C Class,2016.0,16499,Automatic,0.0,Diesel,30.0,62.8,2.0
+ A Class,2017.6666666666667,16750,Manual,20536.0,Petrol,150.0,49.6,1.6
+ C Class,2018.0,22849,Automatic,11163.0,Petrol,145.0,46.3,2.0
+unknown,2018.6666666666667,25399,Semi-Auto,18257.0,Diesel,145.0,67.3,2.0
+unknown,2018.3333333333333,26980,Semi-Auto,8072.0,Diesel,145.0,61.4,2.0
+unknown,2017.0,11499,Manual,0.0,Diesel,20.0,72.4,1.5
+ GLC Class,2018.0,25500,Automatic,11119.0,Diesel,150.0,56.5,2.1
+ C Class,2019.0,32499,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ A Class,2017.0,17462,Semi-Auto,22164.0,Diesel,0.0,56.5,2.0
+ E Class,2015.6666666666667,15700,Automatic,0.0,Diesel,125.0,58.9,2.1
+unknown,2016.0,14200,Automatic,0.0,Diesel,20.0,56.5,2.1
+ C Class,2019.0,24980,Automatic,7811.0,Petrol,0.0,56.5,1.5
+ CL Class,2019.0,25495,Semi-Auto,4255.0,Petrol,145.0,44.8,1.3
+ A Class,2020.0,26999,Semi-Auto,2000.0,Diesel,145.0,62.8,1.5
+unknown,2020.0,25490,Semi-Auto,0.0,Petrol,145.0,53.3,1.3
+ E Class,2017.0,21500,Semi-Auto,26508.0,Diesel,145.0,56.5,2.0
+unknown,2015.0,28498,Semi-Auto,15293.0,Diesel,200.0,48.7,3.0
+ C Class,2019.0,25780,Semi-Auto,14843.0,Diesel,145.0,56.5,2.0
+unknown,2013.0,10857,Automatic,49284.0,Petrol,200.0,43.5,2.0
+ E Class,2019.0,25499,Semi-Auto,10423.0,Diesel,0.0,72.4,2.0
+ CLK,2004.0,2995,Automatic,0.0,Diesel,300.0,39.2,2.7
+unknown,2019.0,25495,Semi-Auto,12382.0,Petrol,150.0,47.1,2.0
+ GL Class,2016.0,16499,Automatic,35333.0,Diesel,30.0,64.2,2.1
+ C Class,2015.0,13260,Automatic,0.0,Hybrid,0.0,76.4,2.1
+ C Class,2019.0,22291,Automatic,0.0,Petrol,0.0,56.5,1.5
+ GLA Class,2016.0,17863,Automatic,28483.0,Diesel,0.0,56.5,2.1
+ C Class,2016.0,17995,Automatic,11000.0,Diesel,0.0,65.7,2.0
+unknown,2014.0,16299,Semi-Auto,27000.0,Diesel,0.0,47.9,3.0
+unknown,2019.0,38999,Automatic,6148.0,Diesel,145.0,40.9,2.0
+ E Class,2018.0,22499,Semi-Auto,26695.0,Diesel,145.0,65.7,2.0
+unknown,2017.0,19700,Manual,49365.0,Diesel,0.0,65.7,2.1
+ C Class,2017.0,14980,Manual,45034.0,Diesel,0.0,68.9,2.1
+unknown,2020.0,35980,Semi-Auto,3999.0,Diesel,0.0,44.8,2.0
+unknown,2016.0,21998,Semi-Auto,49986.0,Diesel,125.0,56.5,2.1
+ GL Class,2015.0,17949,Automatic,18758.0,Diesel,125.0,56.5,2.0
+ A Class,2016.0,9499,Automatic,67581.0,Diesel,30.0,65.7,1.8
+unknown,2017.0,15799,Manual,0.0,Diesel,20.0,68.9,2.0
+unknown,2016.0,36950,Automatic,18000.0,Petrol,305.0,34.5,4.0
+ GLE Class,2018.6666666666667,38980,Semi-Auto,0.0,Diesel,145.0,39.2,3.0
+ GLE Class,2018.6666666666667,47979,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2015.0,16498,Manual,0.0,Petrol,125.0,51.4,1.6
+ C Class,2019.0,29950,Semi-Auto,9613.0,Diesel,150.0,56.5,2.0
+ CLS Class,2013.0,11995,Automatic,59500.0,Diesel,145.0,54.3,2.0
+ A Class,2019.0,28490,Automatic,3826.0,Petrol,145.0,53.3,1.3
+ E Class,2018.3333333333333,25882,Semi-Auto,2861.0,Diesel,145.0,61.4,2.0
+ E Class,2019.0,34820,Automatic,0.0,Diesel,145.0,45.6,2.0
+ C Class,2017.6666666666667,18000,Semi-Auto,28807.0,Diesel,0.0,60.1,2.0
+ C Class,2017.0,18998,Semi-Auto,23760.0,Diesel,0.0,56.5,2.0
+ E Class,2019.0,38499,Semi-Auto,5258.0,Diesel,145.0,48.7,3.0
+unknown,2019.0,18844,Automatic,15446.0,Diesel,145.0,56.5,1.5
+ A Class,2014.0,11000,Automatic,51332.0,Diesel,20.0,68.9,2.1
+unknown,2018.0,24495,Semi-Auto,8411.0,Diesel,150.0,56.5,1.5
+ M Class,2014.0,19495,Automatic,0.0,Diesel,300.0,39.2,3.0
+ GLS Class,2018.6666666666667,76469,Semi-Auto,2700.0,Diesel,145.0,30.4,2.0
+ GLE Class,2018.6666666666667,29480,Semi-Auto,28699.0,Diesel,145.0,56.5,3.0
+ SLK,2017.0,10699,Automatic,35116.0,Diesel,0.0,56.5,2.1
+ A Class,2018.6666666666667,15490,Automatic,0.0,Diesel,145.0,68.9,2.1
+unknown,2016.6666666666667,25490,Semi-Auto,9714.0,Diesel,0.0,56.5,2.1
+ C Class,2015.0,15880,Automatic,41267.0,Diesel,30.0,64.2,2.1
+ GLA Class,2017.0,16498,Manual,0.0,Diesel,0.0,67.3,2.1
+ GLA Class,2019.0,22199,Semi-Auto,12117.0,Diesel,0.0,56.5,2.1
+unknown,2016.3333333333333,17863,Semi-Auto,0.0,Diesel,20.0,62.8,2.1
+unknown,2015.0,16280,Manual,29001.0,Petrol,205.0,41.5,2.0
+ A Class,2017.6666666666667,18499,Semi-Auto,17160.0,Diesel,0.0,65.7,2.0
+ A Class,2018.0,17495,Manual,8717.0,Petrol,150.0,49.6,1.6
+ C Class,2015.0,9793,Manual,113000.0,Diesel,20.0,70.6,2.1
+unknown,2010.0,5995,Automatic,121000.0,Diesel,300.0,39.8,2.0
+ GLA Class,2016.0,16400,Automatic,35787.0,Diesel,0.0,56.5,2.1
+unknown,2018.6666666666667,23399,Semi-Auto,8882.0,Petrol,145.0,53.3,2.0
+ E Class,2015.0,15000,Automatic,76667.0,Diesel,145.0,54.3,3.0
+ V Class,2019.0,47995,Semi-Auto,3999.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,30849,Semi-Auto,8473.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,30799,Automatic,1812.0,Petrol,145.0,46.3,1.5
+ A Class,2013.0,11998,Manual,13680.0,Petrol,125.0,51.4,1.6
+ GLA Class,2018.0,20991,Semi-Auto,0.0,Diesel,150.0,56.5,2.1
+ A Class,2016.0,8500,Manual,69031.0,Petrol,125.0,56.5,1.6
+ C Class,2017.6666666666667,25995,Semi-Auto,22000.0,Diesel,0.0,55.4,2.0
+ A Class,2018.6666666666667,19649,Semi-Auto,9153.0,Diesel,145.0,56.5,1.5
+ C Class,2013.0,8595,Automatic,82685.0,Diesel,30.0,64.2,2.1
+unknown,2015.6666666666667,23700,Automatic,0.0,Diesel,125.0,56.5,2.1
+ GLC Class,2019.0,27949,Semi-Auto,8595.0,Diesel,145.0,56.5,2.1
+unknown,2013.0,11490,Semi-Auto,0.0,Petrol,125.0,52.3,2.0
+unknown,2018.0,14900,Automatic,33805.0,Diesel,145.0,65.7,2.1
+ A Class,2018.0,21950,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+unknown,2017.6666666666667,13998,Manual,24010.0,Diesel,20.0,72.4,1.6
+ C Class,2016.0,15499,Automatic,38748.0,Diesel,0.0,64.2,2.1
+ C Class,2018.0,21800,Automatic,0.0,Petrol,0.0,56.5,1.5
+ E Class,2017.0,21199,Semi-Auto,29128.0,Diesel,145.0,67.3,2.0
+unknown,2016.0,23995,Semi-Auto,14120.0,Diesel,20.0,67.3,2.1
+ SL CLASS,2017.0,22495,Semi-Auto,13873.0,Petrol,145.0,47.9,2.0
+unknown,2017.6666666666667,22991,Semi-Auto,9443.0,Petrol,0.0,56.5,2.0
+unknown,2018.6666666666667,52800,Automatic,3317.0,Diesel,145.0,36.7,2.0
+ C Class,2019.0,31980,Semi-Auto,0.0,Petrol,0.0,56.5,1.5
+unknown,2016.0,17999,Automatic,43003.0,Hybrid,0.0,74.3,2.0
+ C Class,2016.0,18745,Automatic,0.0,Diesel,0.0,64.2,2.1
+ B Class,2018.0,14999,Automatic,9867.0,Diesel,145.0,68.9,2.0
+unknown,2017.0,35149,Semi-Auto,9422.0,Petrol,145.0,56.5,3.0
+ A Class,2018.0,20599,Semi-Auto,5394.0,Diesel,0.0,56.5,2.1
+unknown,2017.0,19500,Automatic,33652.0,Diesel,0.0,67.3,2.0
+unknown,2018.6666666666667,60849,Semi-Auto,0.0,Diesel,145.0,48.7,2.0
+ C Class,2019.0,28950,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2016.0,16326,Automatic,0.0,Hybrid,0.0,56.5,2.0
+ E Class,2019.0,36500,Semi-Auto,0.0,Hybrid,0.0,56.5,2.0
+ C Class,2016.0,19499,Automatic,0.0,Hybrid,0.0,56.5,2.0
+ CLS Class,2017.0,19980,Semi-Auto,30004.0,Diesel,125.0,57.7,2.0
+ C Class,2019.0,28199,Semi-Auto,10452.0,Diesel,0.0,57.7,2.0
+unknown,2019.0,35599,Automatic,14954.0,Diesel,145.0,48.7,3.0
+ GLC Class,2017.0,25999,Semi-Auto,21000.0,Diesel,0.0,56.5,2.1
+ GLA Class,2016.0,18991,Automatic,37482.0,Diesel,125.0,56.5,2.1
+ C Class,2012.0,8490,Automatic,0.0,Diesel,0.0,56.5,2.1
+unknown,2017.3333333333333,13485,Semi-Auto,72000.0,Diesel,150.0,55.4,2.1
+ A Class,2016.0,15890,Semi-Auto,18853.0,Diesel,20.0,56.5,1.5
+ C Class,2018.6666666666667,29998,Automatic,50.0,Petrol,145.0,45.6,1.5
+unknown,2019.0,129990,Automatic,0.0,Petrol,0.0,24.8,4.0
+ A Class,2016.0,13799,Manual,25776.0,Diesel,20.0,56.5,1.5
+ A Class,2020.0,27720,Manual,0.0,Petrol,145.0,56.5,2.0
+ C Class,2018.3333333333333,15500,Automatic,36584.0,Diesel,30.0,56.5,2.0
+ GLC Class,2016.0,21000,Automatic,68594.0,Diesel,0.0,56.5,2.1
+unknown,2020.0,22999,Semi-Auto,99.0,Petrol,145.0,56.5,2.0
+ GLA Class,2018.0,21750,Semi-Auto,6586.0,Petrol,150.0,56.5,1.6
+ E Class,2019.0,34799,Automatic,0.0,Diesel,0.0,45.6,2.0
+ A Class,2017.0,17400,Manual,18200.0,Petrol,145.0,49.6,1.6
+ A Class,2019.0,21299,Automatic,0.0,Diesel,145.0,65.7,1.5
+unknown,2019.0,43490,Automatic,4011.0,Diesel,145.0,56.5,2.9
+ V Class,2018.0,43991,Semi-Auto,12572.0,Diesel,0.0,44.8,2.2
+ E Class,2019.0,46199,Semi-Auto,0.0,Diesel,145.0,47.1,3.0
+ C Class,2018.6666666666667,19971,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+unknown,2018.6666666666667,25199,Manual,1947.0,Petrol,145.0,47.1,2.0
+ GLC Class,2019.0,34800,Semi-Auto,10747.0,Diesel,145.0,56.5,2.0
+ A Class,2019.0,24250,Automatic,3981.0,Petrol,145.0,56.5,1.3
+ GL Class,2018.3333333333333,20750,Automatic,57864.0,Diesel,125.0,56.5,2.0
+unknown,2019.0,26949,Semi-Auto,10862.0,Diesel,0.0,67.3,2.0
+ C Class,2016.0,19099,Semi-Auto,5690.0,Diesel,30.0,64.2,2.1
+ C Class,2016.3333333333333,20995,Automatic,19805.0,Diesel,0.0,67.3,2.1
+ E Class,2017.0,19799,Semi-Auto,0.0,Diesel,20.0,72.4,2.0
+ GLC Class,2020.0,43995,Semi-Auto,859.0,Petrol,145.0,32.1,2.0
+unknown,2019.0,21899,Semi-Auto,5282.0,Petrol,145.0,56.5,1.3
+ A Class,2019.0,17690,Manual,0.0,Petrol,145.0,28.5,2.0
+ GLC Class,2015.0,22965,Automatic,18580.0,Diesel,0.0,56.5,2.0
+ GLC Class,2019.0,36000,Semi-Auto,0.0,Diesel,145.0,40.9,2.0
+unknown,2019.0,32750,Automatic,9500.0,Diesel,0.0,56.5,2.0
+unknown,2019.0,25599,Semi-Auto,2648.0,Petrol,145.0,44.1,1.5
+ B Class,2020.0,27490,Automatic,2563.0,Diesel,145.0,56.5,2.0
+ A Class,2015.6666666666667,15899,Semi-Auto,34995.0,Diesel,0.0,68.9,2.1
+ S Class,2016.0,27491,Automatic,54318.0,Diesel,200.0,47.9,3.0
+ C Class,2016.6666666666667,18495,Semi-Auto,30000.0,Hybrid,0.0,74.3,2.1
+ C Class,2017.6666666666667,12299,Manual,0.0,Petrol,0.0,56.5,2.0
+ GLA Class,2016.0,18100,Automatic,45485.0,Diesel,125.0,56.5,2.1
+unknown,2018.6666666666667,29650,Automatic,4501.0,Diesel,145.0,64.2,2.0
+ CL Class,2017.0,16490,Manual,0.0,Diesel,0.0,67.3,2.1
+unknown,2019.0,30480,Semi-Auto,6646.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,28000,Semi-Auto,10648.0,Petrol,145.0,44.1,2.0
+ A Class,2016.6666666666667,16450,Semi-Auto,37112.0,Diesel,20.0,56.5,2.1
+ C Class,2017.0,31692,Automatic,0.0,Petrol,0.0,35.3,3.0
+ C Class,2016.3333333333333,18995,Manual,9098.0,Diesel,0.0,64.2,2.0
+ C Class,2018.6666666666667,23499,Automatic,14651.0,Petrol,145.0,44.1,1.5
+ E Class,2016.0,14990,Automatic,59000.0,Diesel,125.0,61.4,2.1
+ A Class,2019.0,21895,Manual,9.0,Petrol,145.0,56.5,1.3
+ B Class,2019.0,23299,Automatic,1650.0,Diesel,145.0,55.4,2.0
+ GLA Class,2019.0,22375,Automatic,13850.0,Diesel,145.0,56.5,2.1
+ CL Class,2019.0,24399,Semi-Auto,1831.0,Diesel,0.0,58.9,2.1
+ C Class,2020.0,38980,Semi-Auto,3999.0,Petrol,0.0,56.5,3.0
+ B Class,2018.0,17900,Semi-Auto,0.0,Diesel,145.0,68.9,2.1
+ CLS Class,2019.0,37499,Semi-Auto,5680.0,Diesel,145.0,48.7,2.9
+ C Class,2019.0,24295,Automatic,6063.0,Petrol,145.0,45.6,1.5
+ A Class,2018.3333333333333,15000,Manual,18841.0,Petrol,150.0,51.4,2.0
+ E Class,2017.0,26995,Semi-Auto,29900.0,Diesel,145.0,70.6,2.0
+unknown,2018.0,38000,Automatic,12046.0,Diesel,0.0,37.2,3.0
+ A Class,2018.0,16600,Semi-Auto,19825.0,Diesel,145.0,56.5,2.0
+unknown,2020.0,25487,Semi-Auto,3857.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,34699,Semi-Auto,9889.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,51500,Semi-Auto,23500.0,Petrol,150.0,56.5,4.0
+unknown,2016.0,17443,Semi-Auto,0.0,Diesel,0.0,60.1,2.1
+ B Class,2018.0,17991,Semi-Auto,6132.0,Petrol,150.0,50.4,1.6
+unknown,2018.6666666666667,19302,Semi-Auto,14123.0,Diesel,145.0,65.7,1.5
+ C Class,2019.0,31990,Semi-Auto,4615.0,Diesel,145.0,54.3,2.0
+ M Class,2015.0,21698,Semi-Auto,0.0,Diesel,0.0,39.2,2.1
+unknown,2016.0,17440,Automatic,25374.0,Diesel,30.0,56.5,2.1
+unknown,2016.0,18300,Automatic,36188.0,Diesel,30.0,65.7,2.0
+ C Class,2017.0,24750,Automatic,0.0,Petrol,145.0,56.5,2.0
+ GLA Class,2017.0,17800,Semi-Auto,10538.0,Diesel,0.0,67.3,2.0
+unknown,2018.3333333333333,19499,Semi-Auto,28530.0,Diesel,30.0,65.7,2.0
+unknown,2016.0,16649,Automatic,49847.0,Diesel,20.0,70.6,2.0
+ C Class,2017.0,19795,Semi-Auto,0.0,Diesel,30.0,64.2,2.1
+ A Class,2017.0,18995,Semi-Auto,13189.0,Petrol,0.0,52.3,1.6
+unknown,2019.0,28299,Automatic,1142.0,Petrol,145.0,56.5,2.0
+ B Class,2019.0,27299,Semi-Auto,1581.0,Petrol,145.0,56.5,1.3
+unknown,2015.0,14998,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+unknown,2017.0,16912,Semi-Auto,0.0,Diesel,145.0,70.6,2.1
+ C Class,2017.0,24495,Automatic,14200.0,Diesel,0.0,58.9,2.0
+ C Class,2017.6666666666667,44160,Automatic,0.0,Diesel,0.0,55.4,2.0
+ B Class,2018.3333333333333,20980,Automatic,14345.0,Petrol,150.0,45.6,2.0
+ A Class,2007.0,1800,Automatic,0.0,Petrol,200.0,56.5,1.5
+unknown,2015.6666666666667,52999,Semi-Auto,23000.0,Petrol,0.0,23.9,5.5
+ A Class,2016.0,13990,Automatic,40000.0,Diesel,20.0,74.3,1.5
+ A Class,2016.6666666666667,12450,Manual,0.0,Diesel,0.0,56.5,2.1
+ C Class,2017.6666666666667,20900,Automatic,0.0,Petrol,0.0,47.1,2.0
+ A Class,2016.0,12999,Manual,35642.0,Diesel,20.0,72.4,1.5
+ CL Class,2015.0,15995,Semi-Auto,65000.0,Diesel,0.0,56.5,2.0
+ CLS Class,2018.6666666666667,12475,Automatic,91554.0,Diesel,200.0,56.5,3.0
+ E Class,2018.3333333333333,20049,Semi-Auto,24242.0,Diesel,20.0,72.4,2.0
+unknown,2016.0,14499,Automatic,33036.0,Diesel,20.0,65.7,2.1
+unknown,2017.3333333333333,13999,Automatic,64539.0,Diesel,0.0,67.3,2.0
+unknown,2017.6666666666667,15499,Semi-Auto,22040.0,Diesel,0.0,65.7,2.1
+ A Class,2018.6666666666667,26699,Semi-Auto,998.0,Petrol,145.0,56.5,2.0
+ C Class,2017.0,25248,Automatic,24003.0,Petrol,200.0,56.5,2.0
+ C Class,2018.0,20495,Semi-Auto,24158.0,Diesel,145.0,56.5,2.1
+unknown,2019.0,24500,Semi-Auto,9200.0,Petrol,0.0,45.6,1.5
+ C Class,2019.0,24510,Automatic,11368.0,Diesel,145.0,58.9,1.6
+ C Class,2018.6666666666667,28150,Automatic,1999.0,Petrol,145.0,46.3,1.5
+ GLA Class,2015.6666666666667,16490,Automatic,60126.0,Diesel,125.0,56.5,2.1
+unknown,2019.0,23480,Semi-Auto,0.0,Diesel,145.0,67.3,1.5
+ CL Class,2019.0,25495,Semi-Auto,13780.0,Diesel,145.0,51.4,2.2
+ A Class,2015.0,12498,Manual,0.0,Diesel,0.0,56.5,2.1
+unknown,2019.0,19424,Manual,0.0,Petrol,145.0,28.5,1.3
+unknown,2016.0,29950,Semi-Auto,11118.0,Diesel,260.0,56.5,3.0
+ C Class,2016.0,21499,Automatic,26741.0,Diesel,30.0,56.5,2.0
+ GLE Class,2017.0,28500,Semi-Auto,28297.0,Diesel,200.0,47.9,2.1
+unknown,2017.0,17999,Semi-Auto,0.0,Petrol,145.0,52.3,2.0
+ C Class,2019.0,17999,Automatic,9683.0,Petrol,145.0,56.5,1.5
+ C Class,2019.0,25599,Semi-Auto,12187.0,Petrol,145.0,47.1,1.5
+ C Class,2018.6666666666667,30436,Automatic,10335.0,Diesel,145.0,57.7,2.0
+unknown,2016.0,19490,Semi-Auto,11335.0,Diesel,30.0,70.6,2.1
+unknown,2019.0,69399,Semi-Auto,0.0,Petrol,0.0,28.0,2.0
+ C Class,2017.0,33499,Semi-Auto,30968.0,Petrol,145.0,35.3,3.0
+ A Class,2016.3333333333333,13290,Manual,36892.0,Diesel,20.0,72.4,1.5
+ GL Class,2017.0,27999,Automatic,30827.0,Diesel,0.0,47.9,2.1
+ C Class,2016.0,19799,Semi-Auto,21086.0,Diesel,30.0,64.2,2.0
+ GL Class,2018.3333333333333,35371,Automatic,0.0,Diesel,0.0,36.2,3.0
+unknown,2017.0,28490,Semi-Auto,23909.0,Diesel,145.0,56.5,2.0
+220,2018.0,19995,Automatic,9814.0,Diesel,0.0,56.5,2.0
+unknown,2020.0,26890,Semi-Auto,1486.0,Petrol,145.0,56.5,1.6
+unknown,2018.0,20998,Manual,11323.0,Diesel,145.0,46.3,2.1
+ A Class,2017.0,14680,Automatic,42151.0,Diesel,145.0,56.5,2.0
+unknown,2017.6666666666667,23599,Automatic,5139.0,Diesel,0.0,60.1,2.0
+ A Class,2018.3333333333333,17298,Manual,31879.0,Petrol,200.0,41.5,2.0
+ GL Class,2018.6666666666667,20999,Automatic,0.0,Diesel,145.0,56.5,2.1
+ C Class,2016.0,20500,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+unknown,2010.0,9000,Automatic,92000.0,Diesel,0.0,32.5,3.0
+ C Class,2016.3333333333333,18498,Semi-Auto,0.0,Diesel,30.0,56.5,2.1
+unknown,2018.6666666666667,15998,Automatic,50087.0,Diesel,0.0,53.3,3.0
+unknown,2019.0,26495,Automatic,2999.0,Petrol,145.0,46.3,1.5
+ C Class,2018.6666666666667,31480,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ C Class,2016.0,10500,Manual,117760.0,Diesel,20.0,65.7,2.0
+ GLC Class,2018.3333333333333,21000,Automatic,57454.0,Diesel,125.0,56.5,2.0
+unknown,2017.0,20300,Automatic,21531.0,Diesel,30.0,56.5,2.0
+ C Class,2016.6666666666667,16199,Semi-Auto,21539.0,Diesel,20.0,56.5,2.1
+unknown,2019.0,55491,Automatic,0.0,Diesel,145.0,36.7,2.0
+unknown,2018.6666666666667,28128,Automatic,2563.0,Petrol,145.0,47.9,2.0
+ A Class,2018.0,18411,Semi-Auto,12158.0,Diesel,145.0,65.7,1.5
+ A Class,2016.0,16512,Semi-Auto,0.0,Petrol,0.0,52.3,2.0
+unknown,2015.6666666666667,25495,Semi-Auto,24290.0,Diesel,125.0,56.5,2.1
+ E Class,2019.0,34890,Semi-Auto,13883.0,Diesel,145.0,48.7,3.0
+ A Class,2019.0,22350,Manual,4194.0,Petrol,150.0,56.5,2.0
+ C Class,2016.3333333333333,16215,Semi-Auto,0.0,Diesel,20.0,64.2,2.1
+ V Class,2017.0,30998,Semi-Auto,32577.0,Diesel,0.0,45.6,2.2
+ C Class,2019.0,27995,Automatic,7396.0,Diesel,145.0,57.7,2.0
+ C Class,2016.0,17590,Automatic,13020.0,Petrol,125.0,50.4,2.0
+ C Class,2017.0,25402,Semi-Auto,0.0,Petrol,145.0,42.2,2.0
+ A Class,2015.6666666666667,14991,Semi-Auto,59080.0,Diesel,125.0,58.9,2.1
+ GLA Class,2017.0,16300,Automatic,40066.0,Diesel,0.0,56.5,2.1
+ C Class,2018.6666666666667,37249,Semi-Auto,1000.0,Diesel,145.0,57.7,2.0
+ GLS Class,2018.0,47980,Semi-Auto,5376.0,Diesel,145.0,37.2,3.0
+ E Class,2018.6666666666667,35849,Semi-Auto,7697.0,Diesel,145.0,48.7,3.0
+ SL CLASS,2019.0,51124,Semi-Auto,5884.0,Petrol,145.0,31.4,2.0
+ C Class,2019.0,21290,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ GLE Class,2015.0,26480,Semi-Auto,29196.0,Diesel,200.0,47.9,2.0
+ E Class,2019.0,38509,Semi-Auto,1000.0,Diesel,145.0,57.7,2.0
+ GLC Class,2019.0,37680,Automatic,0.0,Diesel,0.0,40.9,2.0
+ C Class,2016.0,20200,Automatic,16957.0,Petrol,160.0,44.8,2.0
+ X-CLASS,2019.0,25926,Automatic,9772.0,Diesel,0.0,35.8,2.0
+ GLC Class,2019.0,24250,Automatic,21252.0,Petrol,150.0,37.2,2.0
+ GLA Class,2018.0,25999,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ A Class,2017.6666666666667,24890,Automatic,1440.0,Diesel,0.0,56.5,2.0
+ CL Class,2016.6666666666667,18700,Automatic,38167.0,Diesel,20.0,56.5,2.1
+ A Class,2019.0,22850,Automatic,6202.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,37989,Automatic,4824.0,Diesel,145.0,56.5,2.0
+unknown,2015.6666666666667,17991,Automatic,32964.0,Diesel,125.0,55.4,2.1
+unknown,2018.6666666666667,21900,Automatic,32977.0,Diesel,145.0,51.4,2.0
+ A Class,2018.6666666666667,18085,Semi-Auto,14669.0,Diesel,145.0,68.9,1.5
+ C Class,2018.6666666666667,22995,Semi-Auto,0.0,Diesel,145.0,67.3,2.0
+ A Class,2015.0,10490,Manual,82000.0,Diesel,30.0,62.8,2.1
+ A Class,2018.6666666666667,21795,Semi-Auto,11758.0,Petrol,145.0,47.9,1.3
+ GLC Class,2018.0,28082,Semi-Auto,35754.0,Diesel,0.0,56.5,2.1
+ CL Class,2016.6666666666667,17995,Semi-Auto,33893.0,Diesel,20.0,67.3,2.0
+unknown,2019.0,35589,Semi-Auto,0.0,Diesel,145.0,40.9,2.0
+ C Class,2019.0,28299,Semi-Auto,5005.0,Diesel,145.0,56.5,2.0
+ GLA Class,2015.0,13000,Automatic,0.0,Diesel,125.0,55.4,2.0
+unknown,2019.0,25495,Semi-Auto,7196.0,Petrol,0.0,53.3,1.3
+ C Class,2019.0,30672,Automatic,3946.0,Diesel,0.0,57.7,2.0
+ A Class,2018.0,77500,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+unknown,2018.6666666666667,31000,Semi-Auto,3144.0,Diesel,145.0,55.4,2.0
+ A Class,2017.0,16591,Automatic,24321.0,Diesel,145.0,56.5,1.5
+ GLA Class,2015.6666666666667,17495,Automatic,0.0,Diesel,125.0,56.5,2.1
+ GLC Class,2020.0,41900,Semi-Auto,250.0,Diesel,145.0,40.9,2.0
+ C Class,2018.6666666666667,41000,Semi-Auto,5339.0,Petrol,145.0,28.8,3.0
+ V Class,2018.0,19000,Manual,39292.0,Diesel,145.0,56.5,2.1
+unknown,2018.0,16980,Semi-Auto,14909.0,Diesel,0.0,65.7,1.5
+ SL CLASS,2018.6666666666667,49480,Semi-Auto,0.0,Petrol,145.0,36.7,3.0
+ CL Class,2016.0,16990,Automatic,27000.0,Diesel,20.0,67.3,2.1
+ E Class,2016.0,16495,Automatic,36400.0,Diesel,125.0,56.5,2.1
+ A Class,2019.0,30581,Automatic,3209.0,Petrol,145.0,47.9,1.3
+ CL Class,2017.0,18300,Semi-Auto,0.0,Diesel,145.0,58.9,2.1
+unknown,2020.0,25000,Semi-Auto,4000.0,Petrol,0.0,53.3,1.3
+ E Class,2014.0,11495,Semi-Auto,40019.0,Diesel,0.0,58.9,2.1
+ C Class,2018.0,17940,Semi-Auto,0.0,Diesel,0.0,64.2,2.1
+ B Class,2019.0,21295,Semi-Auto,13389.0,Petrol,150.0,45.6,2.0
+ A Class,2018.6666666666667,25980,Manual,0.0,Petrol,145.0,56.5,1.3
+ GLC Class,2018.6666666666667,27950,Automatic,22244.0,Diesel,145.0,56.5,2.0
+ C Class,2017.6666666666667,27199,Semi-Auto,0.0,Petrol,0.0,56.5,2.0
+ GL Class,2016.0,15999,Manual,30140.0,Diesel,30.0,64.2,2.1
+ GLC Class,2018.6666666666667,31649,Semi-Auto,0.0,Petrol,145.0,43.5,2.0
+ C Class,2019.0,19799,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ C Class,2017.6666666666667,31599,Semi-Auto,3784.0,Diesel,0.0,55.4,2.0
+ C Class,2019.0,25549,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+ C Class,2018.0,25882,Automatic,0.0,Diesel,0.0,56.5,2.0
+unknown,2017.0,37950,Semi-Auto,20925.0,Diesel,145.0,56.5,3.0
+ E Class,2018.6666666666667,31997,Automatic,13553.0,Petrol,145.0,33.6,2.0
+ C Class,2016.0,16452,Semi-Auto,92844.0,Diesel,0.0,61.4,2.0
+ C Class,2018.6666666666667,20199,Semi-Auto,11381.0,Petrol,145.0,46.3,1.5
+ C Class,2018.0,19799,Automatic,20173.0,Diesel,145.0,61.4,2.0
+ A Class,2016.0,15990,Manual,17071.0,Diesel,30.0,56.5,2.1
+ GLE Class,2017.0,31998,Semi-Auto,30227.0,Diesel,300.0,56.5,3.0
+ C Class,2020.0,32480,Semi-Auto,16.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,30999,Automatic,4588.0,Diesel,0.0,47.9,2.0
+ GLC Class,2016.0,23498,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+ CLS Class,2017.0,22490,Semi-Auto,31479.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,17800,Automatic,29831.0,Diesel,0.0,61.4,2.1
+ E Class,2017.0,20472,Automatic,32183.0,Diesel,0.0,56.5,2.0
+ GL Class,2016.0,24495,Automatic,25285.0,Diesel,0.0,56.5,2.1
+ C Class,2016.3333333333333,17990,Semi-Auto,30795.0,Diesel,30.0,56.5,2.1
+ GLC Class,2019.0,52555,Semi-Auto,2501.0,Petrol,145.0,26.4,3.0
+ A Class,2015.0,15390,Semi-Auto,23000.0,Diesel,20.0,64.2,2.0
+ C Class,2018.3333333333333,20299,Semi-Auto,6605.0,Petrol,125.0,51.4,2.0
+ V Class,2018.0,20498,Manual,0.0,Diesel,145.0,46.3,2.1
+ C Class,2017.0,18358,Automatic,39413.0,Diesel,0.0,58.9,2.1
+unknown,2015.0,13490,Manual,0.0,Diesel,30.0,56.5,2.1
+ C Class,2018.6666666666667,29980,Semi-Auto,1998.0,Petrol,145.0,47.1,1.5
+ S Class,2015.0,26498,Semi-Auto,0.0,Diesel,200.0,48.7,3.0
+ CL Class,2016.0,18000,Semi-Auto,36890.0,Diesel,20.0,67.3,2.1
+ GLA Class,2017.0,20995,Semi-Auto,20960.0,Diesel,125.0,58.9,2.1
+unknown,2018.6666666666667,19403,Automatic,8657.0,Diesel,145.0,67.3,1.5
+ A Class,2015.0,15500,Automatic,20275.0,Petrol,125.0,56.5,2.0
+unknown,2018.0,16000,Automatic,22773.0,Diesel,150.0,74.3,1.5
+ CL Class,2017.0,18956,Semi-Auto,23592.0,Diesel,0.0,67.3,2.1
+unknown,2017.0,17981,Semi-Auto,13881.0,Diesel,145.0,56.5,2.1
+ CL Class,2017.3333333333333,22072,Semi-Auto,10600.0,Petrol,0.0,56.5,1.6
+unknown,2017.0,20600,Semi-Auto,29543.0,Diesel,145.0,60.1,2.1
+ GLC Class,2016.6666666666667,38099,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ GLC Class,2018.6666666666667,38499,Automatic,10330.0,Diesel,145.0,43.5,2.0
+ GLA Class,2020.0,24890,Semi-Auto,0.0,Petrol,145.0,56.5,1.6
+ A Class,2018.0,17218,Semi-Auto,0.0,Diesel,145.0,70.6,2.1
+unknown,2019.0,31299,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+unknown,2020.0,32480,Semi-Auto,16.0,Diesel,145.0,64.2,2.0
+unknown,2019.0,26699,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ E Class,2018.6666666666667,37286,Automatic,7924.0,Diesel,145.0,48.7,3.0
+unknown,2013.0,14000,Semi-Auto,34998.0,Diesel,0.0,53.3,2.1
+ A Class,2017.0,14995,Semi-Auto,0.0,Diesel,20.0,56.5,1.5
+ GLA Class,2017.0,22750,Automatic,11837.0,Diesel,0.0,56.5,2.0
+unknown,2018.6666666666667,15700,Automatic,40285.0,Diesel,145.0,56.5,2.0
+ A Class,2016.0,15291,Semi-Auto,10730.0,Diesel,20.0,70.6,2.0
+ C Class,2018.6666666666667,26281,Semi-Auto,0.0,Diesel,145.0,67.3,2.0
+ C Class,2019.0,32940,Automatic,4999.0,Petrol,145.0,56.5,1.5
+ A Class,2019.0,19999,Semi-Auto,8760.0,Petrol,150.0,28.5,1.3
+unknown,2019.0,18780,Semi-Auto,19885.0,Diesel,145.0,65.7,1.5
+ CLS Class,2018.6666666666667,11998,Semi-Auto,60090.0,Diesel,200.0,56.5,3.0
+unknown,2019.0,44999,Automatic,492.0,Diesel,145.0,36.2,2.0
+unknown,2008.0,5990,Automatic,110000.0,Diesel,555.0,28.8,3.0
+ C Class,2019.0,28599,Semi-Auto,970.0,Diesel,145.0,60.1,1.6
+ E Class,2017.0,21998,Semi-Auto,18812.0,Diesel,150.0,65.7,2.0
+unknown,2016.0,17890,Automatic,23337.0,Diesel,125.0,56.5,2.0
+ C Class,2018.0,17100,Automatic,22655.0,Diesel,145.0,56.5,2.1
+ GLA Class,2016.0,21595,Semi-Auto,0.0,Petrol,0.0,43.5,2.0
+ GLA Class,2015.6666666666667,18200,Automatic,23746.0,Diesel,125.0,56.5,2.1
+ B Class,2019.0,23480,Semi-Auto,2010.0,Diesel,145.0,55.4,2.0
+unknown,2019.0,22199,Semi-Auto,0.0,Petrol,0.0,56.5,1.3
+unknown,2017.3333333333333,59124,Semi-Auto,6982.0,Petrol,0.0,26.4,4.0
+ GLA Class,2017.6666666666667,19799,Semi-Auto,28845.0,Diesel,0.0,56.5,2.0
+ C Class,2018.6666666666667,26049,Semi-Auto,9693.0,Petrol,145.0,47.1,2.0
+unknown,2019.0,25099,Semi-Auto,4938.0,Diesel,0.0,64.2,2.0
+ E Class,2015.0,14998,Semi-Auto,0.0,Diesel,125.0,56.5,2.0
+unknown,2019.0,28995,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+unknown,2016.0,22480,Semi-Auto,18724.0,Diesel,20.0,67.3,2.1
+ CLS Class,2019.0,44699,Automatic,5500.0,Diesel,0.0,56.5,2.9
+ E Class,2018.0,30980,Automatic,0.0,Diesel,145.0,57.7,2.0
+ GLC Class,2019.0,34950,Automatic,3100.0,Diesel,0.0,43.5,2.0
+unknown,2018.3333333333333,59995,Semi-Auto,3392.0,Diesel,150.0,56.5,2.0
+ C Class,2013.0,21999,Automatic,41866.0,Petrol,570.0,23.5,6.2
+ B Class,2017.0,16495,Semi-Auto,26847.0,Diesel,20.0,68.9,2.0
+unknown,2019.0,24849,Automatic,1446.0,Petrol,145.0,45.6,2.0
+ S Class,2019.0,54999,Automatic,0.0,Diesel,145.0,52.3,2.9
+ C Class,2017.0,16690,Semi-Auto,0.0,Diesel,0.0,64.2,2.0
+ E Class,2018.6666666666667,30640,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,34950,Semi-Auto,9551.0,Diesel,145.0,56.5,2.1
+ GLC Class,2019.0,39825,Semi-Auto,0.0,Diesel,145.0,40.9,2.0
+ M Class,2015.6666666666667,18450,Automatic,49000.0,Diesel,200.0,56.5,2.2
+ C Class,2017.0,17890,Automatic,45437.0,Hybrid,0.0,56.5,2.0
+unknown,2015.0,13999,Manual,42407.0,Diesel,20.0,68.9,2.1
+unknown,2016.0,24000,Automatic,55015.0,Diesel,200.0,56.5,2.1
+ CLK,2002.0,3790,Automatic,98000.0,Petrol,325.0,24.6,5.0
+unknown,2018.6666666666667,26925,Semi-Auto,0.0,Diesel,145.0,67.3,2.0
+ GLA Class,2014.0,16650,Semi-Auto,0.0,Diesel,145.0,55.4,2.1
+ GLA Class,2017.0,21400,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ E Class,2018.0,29500,Semi-Auto,10250.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,25490,Semi-Auto,999.0,Petrol,145.0,56.5,1.3
+ B Class,2017.0,17480,Semi-Auto,16345.0,Petrol,125.0,56.5,2.0
+unknown,2016.0,18691,Automatic,0.0,Diesel,20.0,72.4,2.0
+ C Class,2013.0,7199,Automatic,124000.0,Diesel,145.0,56.5,2.1
+ GLC Class,2016.0,22000,Automatic,47358.0,Diesel,125.0,56.5,2.1
+ C Class,2019.0,19849,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ GLC Class,2017.0,29450,Semi-Auto,32234.0,Diesel,145.0,56.5,2.0
+unknown,2017.0,13849,Manual,0.0,Diesel,145.0,68.9,2.0
+ A Class,2017.0,13570,Automatic,79260.0,Diesel,0.0,68.9,2.1
+unknown,2017.3333333333333,13782,Manual,20218.0,Diesel,0.0,56.5,1.5
+ C Class,2018.0,19995,Automatic,2077.0,Diesel,145.0,65.7,1.6
+ E Class,2017.6666666666667,29480,Semi-Auto,5932.0,Diesel,0.0,58.9,2.0
+unknown,2017.6666666666667,27980,Semi-Auto,14159.0,Diesel,0.0,56.5,2.0
+unknown,2015.0,14295,Automatic,50510.0,Diesel,20.0,68.9,2.1
+ A Class,2019.0,19840,Automatic,12066.0,Petrol,145.0,53.3,2.0
+ C Class,2017.3333333333333,13800,Automatic,47915.0,Diesel,0.0,65.7,2.1
+ GLA Class,2017.0,20490,Semi-Auto,33301.0,Diesel,145.0,56.5,2.1
+ SL CLASS,2016.3333333333333,17391,Semi-Auto,14224.0,Diesel,30.0,56.5,2.1
+ A Class,2020.0,24107,Automatic,3500.0,Diesel,145.0,62.8,1.5
+unknown,2018.0,30991,Semi-Auto,26573.0,Diesel,0.0,56.5,2.1
+unknown,2019.0,29000,Semi-Auto,4650.0,Petrol,145.0,56.5,2.0
+ A Class,2016.0,13995,Semi-Auto,0.0,Diesel,20.0,67.3,2.1
+ GLE Class,2020.0,57995,Semi-Auto,9.0,Diesel,0.0,32.5,3.0
+ B Class,2013.0,8080,Manual,62702.0,Diesel,125.0,61.4,1.8
+ GLC Class,2019.0,41681,Automatic,7910.0,Diesel,145.0,40.9,2.0
+unknown,2019.0,35990,Semi-Auto,5526.0,Diesel,145.0,70.6,2.0
+ B Class,2020.0,21990,Automatic,4239.0,Diesel,0.0,55.4,2.0
+ V Class,2018.6666666666667,45394,Automatic,147.0,Diesel,145.0,36.2,2.0
+unknown,2017.0,10999,Automatic,54349.0,Diesel,0.0,56.5,1.8
+ C Class,2019.0,23825,Automatic,11135.0,Petrol,0.0,44.1,2.0
+ C Class,2015.0,18999,Automatic,0.0,Diesel,0.0,64.2,1.6
+ CL Class,2019.0,26199,Semi-Auto,4280.0,Diesel,0.0,51.4,2.2
+ E Class,2019.0,24480,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ A Class,2018.0,19490,Automatic,0.0,Petrol,145.0,53.3,1.3
+ C Class,2017.0,36895,Semi-Auto,0.0,Petrol,0.0,33.6,4.0
+ S Class,2018.0,58099,Semi-Auto,2984.0,Diesel,0.0,56.5,3.0
+ A Class,2018.0,16000,Automatic,22015.0,Diesel,150.0,74.3,1.5
+ CLS Class,2013.0,12975,Automatic,72216.0,Diesel,200.0,46.3,3.0
+unknown,2019.0,39950,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ B Class,2015.0,10291,Semi-Auto,0.0,Diesel,20.0,70.6,1.5
+ A Class,2017.0,16489,Manual,10192.0,Diesel,145.0,68.9,1.5
+unknown,2016.0,14999,Automatic,0.0,Diesel,20.0,64.2,2.1
+ A Class,2018.6666666666667,19248,Automatic,0.0,Diesel,145.0,65.7,2.0
+ A Class,2018.0,23355,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+unknown,2018.6666666666667,25299,Automatic,0.0,Diesel,145.0,56.5,2.0
+ A Class,2019.0,23000,Semi-Auto,7864.0,Petrol,145.0,56.5,1.3
+unknown,2019.0,19799,Semi-Auto,14222.0,Petrol,145.0,46.3,1.5
+ E Class,2017.0,25124,Automatic,0.0,Diesel,145.0,56.5,2.0
+unknown,2018.3333333333333,25399,Semi-Auto,4059.0,Petrol,150.0,28.5,2.0
+unknown,2018.3333333333333,16999,Automatic,39542.0,Diesel,30.0,64.2,2.0
+ A Class,2016.0,13940,Manual,37531.0,Diesel,0.0,68.9,2.0
+unknown,2016.0,11500,Manual,45882.0,Diesel,0.0,80.7,1.5
+unknown,2017.6666666666667,42359,Semi-Auto,0.0,Diesel,0.0,40.4,2.0
+ C Class,2012.0,8495,Automatic,0.0,Diesel,145.0,55.4,2.2
+ E Class,2016.0,11650,Semi-Auto,51770.0,Diesel,0.0,58.9,2.1
+ V Class,2018.0,20498,Manual,18831.0,Diesel,145.0,56.5,2.0
+unknown,2020.0,20850,Manual,3955.0,Petrol,145.0,56.5,1.3
+ E Class,2016.0,18750,Automatic,33500.0,Diesel,0.0,56.5,2.0
+ C Class,2014.0,15701,Automatic,20498.0,Diesel,20.0,64.2,2.1
+ C Class,2019.0,30399,Semi-Auto,9829.0,Diesel,145.0,54.3,2.0
+unknown,2019.0,23490,Automatic,0.0,Diesel,0.0,67.3,1.5
+unknown,2017.6666666666667,32495,Automatic,0.0,Diesel,0.0,51.4,2.0
+ B Class,2018.0,15812,Manual,2681.0,Diesel,0.0,68.9,1.5
+ CL Class,2016.0,28490,Semi-Auto,25000.0,Petrol,0.0,40.9,2.0
+unknown,2018.0,23390,Semi-Auto,0.0,Diesel,0.0,58.9,2.0
+ A Class,2019.0,22980,Semi-Auto,14868.0,Diesel,145.0,67.3,1.5
+ A Class,2018.0,18480,Semi-Auto,14843.0,Diesel,145.0,68.9,2.0
+unknown,2015.6666666666667,15490,Automatic,31000.0,Diesel,125.0,56.5,2.1
+ B Class,2018.6666666666667,23298,Semi-Auto,0.0,Diesel,145.0,56.5,1.5
+unknown,2018.0,16500,Semi-Auto,14289.0,Petrol,150.0,49.6,1.6
+ C Class,2019.0,25699,Semi-Auto,2547.0,Petrol,0.0,56.5,2.0
+ SL CLASS,2017.0,20019,Automatic,11782.0,Diesel,30.0,70.6,2.0
+ M Class,2015.0,21998,Semi-Auto,0.0,Diesel,205.0,39.2,2.1
+ C Class,2016.0,14770,Semi-Auto,21745.0,Petrol,125.0,53.3,2.0
+ C Class,2018.3333333333333,41099,Semi-Auto,8370.0,Petrol,0.0,29.4,3.0
+unknown,2017.0,14495,Semi-Auto,20675.0,Petrol,30.0,56.5,1.6
+unknown,2019.0,22399,Semi-Auto,0.0,Petrol,145.0,56.5,1.3
+ A Class,2015.0,11499,Automatic,40373.0,Diesel,0.0,56.5,1.5
+ E Class,2019.0,26399,Semi-Auto,15333.0,Diesel,145.0,56.5,2.0
+unknown,2017.0,19699,Semi-Auto,48420.0,Diesel,0.0,65.7,2.0
+ V Class,2019.0,22890,Manual,6257.0,Diesel,145.0,46.3,2.1
+ E Class,2018.6666666666667,50799,Semi-Auto,1462.0,Petrol,145.0,31.7,3.0
+unknown,2013.0,13790,Automatic,0.0,Diesel,0.0,49.6,2.0
+unknown,2019.0,48890,Automatic,6170.0,Diesel,145.0,56.5,3.0
+ E Class,2019.0,24581,Semi-Auto,9882.0,Diesel,0.0,72.4,2.0
+ GLE Class,2017.0,28360,Automatic,28939.0,Diesel,0.0,42.8,2.0
+unknown,2013.0,9995,Automatic,0.0,Petrol,0.0,56.5,1.6
+ E Class,2019.0,28799,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ C Class,2015.6666666666667,17799,Semi-Auto,23000.0,Diesel,20.0,64.2,2.1
+unknown,2018.6666666666667,31980,Semi-Auto,9.0,Diesel,145.0,61.4,2.0
+ A Class,2019.0,21498,Semi-Auto,5685.0,Diesel,145.0,56.5,1.5
+ GLS Class,2018.0,41995,Automatic,14718.0,Diesel,0.0,56.5,3.0
+ A Class,2016.0,19671,Semi-Auto,0.0,Petrol,0.0,56.5,2.0
+ C Class,2016.0,23950,Automatic,0.0,Diesel,145.0,54.3,2.1
+unknown,2018.0,19699,Automatic,17231.0,Petrol,145.0,50.4,1.6
+ GLC Class,2017.6666666666667,34990,Automatic,0.0,Petrol,0.0,34.0,2.0
+ A Class,2020.0,25879,Semi-Auto,1000.0,Petrol,145.0,56.5,2.0
+unknown,2020.0,43400,Automatic,1750.0,Petrol,145.0,56.5,2.0
+unknown,2017.0,40980,Semi-Auto,17763.0,Diesel,145.0,39.2,3.0
+unknown,2018.6666666666667,26899,Semi-Auto,2369.0,Diesel,145.0,55.4,2.0
+ A Class,2017.0,17272,Automatic,32000.0,Diesel,20.0,74.3,2.0
+ C Class,2019.0,30249,Automatic,2225.0,Diesel,0.0,56.5,2.0
+ GLA Class,2018.3333333333333,20498,Semi-Auto,45231.0,Petrol,235.0,37.7,2.0
+ GLE Class,2019.0,44981,Automatic,7496.0,Diesel,145.0,36.7,2.0
+ C Class,2015.0,18999,Automatic,22499.0,Diesel,30.0,64.2,2.1
+ B Class,2018.3333333333333,21990,Manual,0.0,Petrol,0.0,56.5,1.3
+ E Class,2018.6666666666667,34980,Semi-Auto,6897.0,Diesel,145.0,56.5,2.0
+ E Class,2018.6666666666667,21999,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+ C Class,2016.6666666666667,16499,Semi-Auto,35459.0,Diesel,20.0,56.5,2.1
+ C Class,2020.0,22980,Manual,16.0,Petrol,0.0,47.1,1.6
+ A Class,2018.3333333333333,29090,Semi-Auto,25965.0,Petrol,200.0,40.9,2.0
+ GLA Class,2016.0,17995,Automatic,36535.0,Diesel,125.0,56.5,2.1
+ E Class,2019.0,48599,Semi-Auto,1000.0,Diesel,0.0,45.6,2.0
+ C Class,2019.0,29799,Automatic,7621.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,29299,Semi-Auto,2758.0,Petrol,145.0,44.1,2.0
+ B Class,2018.6666666666667,22499,Semi-Auto,13021.0,Petrol,0.0,45.6,1.3
+ C Class,2019.0,31199,Semi-Auto,2000.0,Petrol,150.0,44.1,1.5
+unknown,2017.0,18999,Automatic,23555.0,Diesel,145.0,61.4,2.1
+ A Class,2019.0,18672,Automatic,15471.0,Diesel,145.0,56.5,2.0
+ GLC Class,2016.0,20871,Semi-Auto,44482.0,Diesel,125.0,56.5,2.1
+unknown,2018.6666666666667,24049,Semi-Auto,12880.0,Diesel,145.0,56.5,2.0
+ A Class,2017.0,15896,Automatic,11072.0,Diesel,0.0,56.5,1.5
+ E Class,2016.0,19402,Semi-Auto,0.0,Petrol,160.0,45.6,2.0
+unknown,2018.0,35480,Automatic,13737.0,Diesel,0.0,45.6,2.1
+unknown,2017.0,16800,Automatic,56338.0,Diesel,145.0,56.5,2.0
+ GLE Class,2019.0,59889,Semi-Auto,1000.0,Diesel,0.0,32.5,3.0
+unknown,2016.3333333333333,14500,Semi-Auto,38783.0,Diesel,20.0,64.2,2.1
+ A Class,2018.6666666666667,19980,Semi-Auto,16675.0,Diesel,145.0,56.5,1.5
+unknown,2019.0,28995,Semi-Auto,0.0,Petrol,145.0,56.5,1.5
+unknown,2019.0,45390,Automatic,3654.0,Diesel,145.0,56.5,2.0
+unknown,2016.0,9891,Manual,116000.0,Diesel,0.0,68.9,2.1
+ E Class,2017.0,21980,Automatic,20846.0,Diesel,145.0,67.3,2.0
+unknown,2015.0,15640,Semi-Auto,47370.0,Diesel,125.0,56.5,2.1
+ C Class,2015.3333333333333,24999,Automatic,5448.0,Diesel,0.0,60.1,2.1
+ E Class,2019.0,24000,Semi-Auto,13945.0,Diesel,145.0,72.4,2.0
+ C Class,2016.0,18998,Automatic,26372.0,Hybrid,0.0,134.5,2.0
+ GLA Class,2017.6666666666667,19999,Semi-Auto,17344.0,Diesel,0.0,56.5,2.0
+ C Class,2019.0,24890,Automatic,7917.0,Petrol,145.0,42.2,2.0
+ V Class,2018.0,34000,Automatic,0.0,Diesel,0.0,56.5,2.1
+ GLA Class,2016.6666666666667,21699,Semi-Auto,8845.0,Diesel,0.0,56.5,2.1
+ GLS Class,2016.0,37385,Automatic,21169.0,Diesel,305.0,56.5,2.0
+ GLC Class,2018.0,24750,Automatic,0.0,Diesel,150.0,56.5,2.0
+ C Class,2018.6666666666667,28299,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ A Class,2016.0,12700,Manual,21692.0,Petrol,125.0,52.3,1.6
+unknown,2017.6666666666667,29249,Semi-Auto,29261.0,Diesel,0.0,42.8,2.0
+ CLA Class,2016.0,14480,Automatic,0.0,Petrol,200.0,42.8,2.0
+ E Class,2018.0,30980,Semi-Auto,0.0,Diesel,0.0,57.7,2.0
+unknown,2017.0,20249,Automatic,22011.0,Diesel,0.0,61.4,2.0
+ C Class,2018.6666666666667,29944,Automatic,3500.0,Petrol,145.0,47.1,2.0
+ C Class,2019.0,25449,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+unknown,2019.0,29499,Automatic,1676.0,Diesel,145.0,51.4,2.0
+ C Class,2017.3333333333333,27299,Automatic,386.0,Petrol,0.0,56.5,1.5
+ C Class,2019.0,28599,Semi-Auto,1171.0,Diesel,145.0,56.5,2.0
+ C Class,2018.6666666666667,22706,Automatic,0.0,Petrol,145.0,44.1,1.6
+ V Class,2016.0,20498,Manual,23128.0,Diesel,0.0,56.5,2.1
+ GLA Class,2016.0,18149,Semi-Auto,18810.0,Diesel,30.0,64.2,2.1
+ B Class,2019.0,22499,Semi-Auto,8666.0,Petrol,0.0,45.6,1.3
+unknown,2019.3333333333333,35981,Semi-Auto,2185.0,Petrol,145.0,35.8,2.0
+ CL Class,2018.0,19069,Manual,0.0,Petrol,0.0,51.4,1.6
+ A Class,2015.0,16499,Automatic,0.0,Petrol,200.0,56.5,2.0
+ A Class,2019.0,22980,Automatic,13793.0,Diesel,0.0,67.3,1.5
+unknown,2016.0,18500,Automatic,20698.0,Diesel,20.0,72.4,2.0
+unknown,2014.0,11988,Semi-Auto,0.0,Diesel,20.0,68.9,2.1
+ E Class,2020.0,43498,Automatic,1000.0,Diesel,145.0,41.5,2.9
+ C Class,2017.0,24360,Semi-Auto,14346.0,Diesel,0.0,65.7,2.1
+ A Class,2016.6666666666667,18162,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ B Class,2019.0,21690,Semi-Auto,13690.0,Petrol,0.0,45.6,2.0
+unknown,2015.6666666666667,24498,Semi-Auto,23487.0,Diesel,125.0,56.5,2.1
+ C Class,2017.6666666666667,14800,Semi-Auto,40620.0,Diesel,0.0,65.7,2.0
+ E Class,2017.0,19449,Semi-Auto,29935.0,Diesel,20.0,72.4,2.0
+ SL CLASS,2014.0,43990,Semi-Auto,0.0,Petrol,565.0,28.5,5.5
+ A Class,2015.0,11710,Manual,0.0,Petrol,125.0,56.5,1.6
+unknown,2019.0,61990,Automatic,0.0,Petrol,145.0,30.1,4.0
+ A Class,2018.6666666666667,25879,Semi-Auto,1000.0,Petrol,145.0,53.3,1.3
+ GLE Class,2017.0,30498,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ A Class,2018.6666666666667,18562,Semi-Auto,18905.0,Diesel,145.0,56.5,1.5
+unknown,2018.6666666666667,8238,Automatic,0.0,Diesel,145.0,55.4,2.0
+ GLA Class,2016.0,18980,Automatic,0.0,Diesel,0.0,56.6,2.1
+ SL CLASS,2016.0,18490,Semi-Auto,35452.0,Diesel,30.0,70.6,2.0
+ A Class,2016.0,12990,Automatic,44000.0,Diesel,20.0,74.3,1.5
+ C Class,2019.0,26999,Semi-Auto,1758.0,Petrol,145.0,56.5,1.5
+ A Class,2019.0,23200,Manual,5258.0,Petrol,145.0,47.1,1.3
+ CL Class,2018.0,20691,Semi-Auto,0.0,Petrol,0.0,53.3,1.6
+ GLE Class,2018.6666666666667,43990,Automatic,10974.0,Diesel,145.0,36.7,2.0
+ CL Class,2018.6666666666667,29066,Automatic,3220.0,Petrol,145.0,39.8,2.0
+ SL CLASS,2018.6666666666667,18999,Automatic,0.0,Petrol,145.0,56.5,2.0
+unknown,2019.0,19250,Semi-Auto,0.0,Diesel,145.0,68.9,1.5
+unknown,2018.3333333333333,15950,Semi-Auto,48000.0,Diesel,20.0,56.5,2.0
+unknown,2018.6666666666667,25099,Semi-Auto,0.0,Petrol,145.0,28.5,2.0
+unknown,2015.0,16990,Automatic,0.0,Diesel,0.0,56.5,2.1
+unknown,2019.0,28480,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2016.0,27998,Semi-Auto,33062.0,Diesel,0.0,56.5,2.1
+ A Class,2017.0,14999,Manual,31350.0,Diesel,0.0,56.5,2.0
+ C Class,2016.6666666666667,17995,Semi-Auto,33000.0,Diesel,30.0,56.5,2.1
+ C Class,2018.6666666666667,29449,Semi-Auto,0.0,Diesel,145.0,64.2,2.0
+ E Class,2018.3333333333333,53010,Automatic,3639.0,Petrol,0.0,31.7,3.0
+unknown,2015.6666666666667,17491,Automatic,34794.0,Diesel,30.0,64.2,2.1
+ X-CLASS,2018.0,18991,Manual,0.0,Diesel,260.0,56.5,2.3
+ A Class,2020.0,24889,Semi-Auto,1000.0,Diesel,145.0,62.8,1.5
+unknown,2018.6666666666667,39499,Semi-Auto,305.0,Petrol,145.0,32.1,2.0
+unknown,2017.0,25599,Semi-Auto,17500.0,Petrol,145.0,42.2,2.0
+ A Class,2018.0,21980,Semi-Auto,5975.0,Diesel,145.0,67.3,1.5
+ A Class,2019.0,20590,Automatic,6498.0,Petrol,145.0,56.5,1.3
+ E Class,2017.0,21190,Automatic,0.0,Diesel,0.0,67.3,2.0
+ C Class,2019.0,31299,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+ C Class,2019.0,44000,Semi-Auto,0.0,Petrol,145.0,56.5,3.0
+ C Class,2017.0,18728,Automatic,23683.0,Petrol,125.0,56.5,2.0
+ C Class,2019.0,34480,Semi-Auto,3446.0,Petrol,0.0,46.3,2.0
+ GLC Class,2019.0,34945,Semi-Auto,6420.0,Diesel,0.0,56.5,2.1
+unknown,2014.0,12799,Automatic,0.0,Diesel,0.0,56.5,2.1
+ A Class,2013.0,9450,Manual,50380.0,Petrol,125.0,51.4,1.6
+unknown,2017.0,18990,Semi-Auto,20799.0,Diesel,145.0,56.5,2.1
+ E Class,2019.0,28349,Automatic,1450.0,Petrol,145.0,39.8,2.0
+ E Class,2010.0,8949,Automatic,94873.0,Diesel,220.0,56.5,3.0
+ E Class,2016.0,19699,Semi-Auto,30148.0,Diesel,0.0,61.4,2.0
+ GLA Class,2019.0,28987,Automatic,0.0,Petrol,0.0,35.8,1.6
+ A Class,2016.0,16091,Automatic,37172.0,Diesel,20.0,68.9,2.0
+ E Class,2018.0,27326,Semi-Auto,12443.0,Diesel,0.0,70.6,2.0
+ E Class,2016.0,20049,Semi-Auto,24242.0,Diesel,20.0,56.5,2.0
+unknown,2016.0,15699,Automatic,42506.0,Diesel,0.0,68.9,2.1
+ E Class,2017.0,20989,Semi-Auto,0.0,Diesel,30.0,65.7,2.0
+ C Class,2018.0,23781,Semi-Auto,25111.0,Petrol,145.0,47.1,2.0
+ C Class,2017.0,16799,Automatic,20850.0,Diesel,0.0,56.5,1.6
+unknown,2017.0,21599,Semi-Auto,14065.0,Diesel,145.0,56.5,2.1
+ GLA Class,2016.3333333333333,15490,Manual,0.0,Diesel,0.0,64.2,2.0
+ GLC Class,2017.6666666666667,30490,Semi-Auto,8340.0,Diesel,0.0,42.2,2.0
+ CLS Class,2018.0,32950,Automatic,0.0,Diesel,145.0,48.7,2.0
+unknown,2019.0,37500,Semi-Auto,0.0,Diesel,0.0,48.7,2.0
+ A Class,2018.0,24499,Semi-Auto,5500.0,Diesel,145.0,56.5,2.0
+unknown,2016.3333333333333,21967,Semi-Auto,47430.0,Diesel,200.0,47.9,2.1
+unknown,2017.0,20349,Semi-Auto,15244.0,Diesel,145.0,56.5,2.0
+unknown,2016.6666666666667,12495,Automatic,50000.0,Diesel,160.0,53.3,2.1
+ C Class,2019.0,22899,Manual,4387.0,Petrol,145.0,47.1,1.6
+ GLC Class,2019.0,31480,Semi-Auto,13445.0,Diesel,145.0,41.5,2.1
+ S Class,2018.6666666666667,47599,Semi-Auto,0.0,Diesel,145.0,52.3,3.0
+ GLA Class,2019.0,26599,Semi-Auto,4155.0,Diesel,150.0,56.5,2.1
+ CL Class,2020.0,27990,Semi-Auto,1204.0,Petrol,145.0,56.5,1.3
+unknown,2018.6666666666667,30799,Semi-Auto,0.0,Diesel,145.0,57.7,2.0
+ GLC Class,2018.0,27994,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+unknown,2018.0,28480,Semi-Auto,6945.0,Diesel,0.0,56.5,2.0
+ C Class,2019.0,31999,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ A Class,2018.0,17498,Semi-Auto,15597.0,Diesel,145.0,68.9,2.1
+ C Class,2017.0,18998,Semi-Auto,0.0,Hybrid,0.0,56.5,2.1
+ SL CLASS,2019.0,57995,Automatic,1201.0,Petrol,145.0,56.5,3.0
+ B Class,2019.0,22990,Automatic,0.0,Diesel,145.0,55.4,2.0
+ C Class,2017.0,16500,Automatic,47489.0,Diesel,150.0,56.5,2.1
+ A Class,2017.0,16850,Semi-Auto,28206.0,Diesel,0.0,56.5,2.1
+ A Class,2014.0,8795,Manual,114310.0,Diesel,125.0,56.5,2.0
+unknown,2016.6666666666667,14992,Semi-Auto,0.0,Diesel,20.0,56.5,2.1
+ SL CLASS,2017.6666666666667,35699,Automatic,4500.0,Petrol,0.0,36.2,2.0
+ C Class,2016.6666666666667,14990,Automatic,39000.0,Diesel,20.0,56.5,2.1
+unknown,2019.0,20391,Automatic,18812.0,Diesel,150.0,56.5,2.1
+ C Class,2017.6666666666667,20000,Automatic,0.0,Hybrid,0.0,56.5,2.0
+unknown,2019.0,29799,Semi-Auto,8959.0,Diesel,145.0,57.7,2.0
+ GLC Class,2017.0,27892,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ C Class,2016.0,14998,Semi-Auto,66732.0,Hybrid,0.0,78.5,2.0
+ A Class,2019.0,22339,Semi-Auto,0.0,Diesel,145.0,56.5,1.5
+ A Class,2019.0,140319,Semi-Auto,785.0,Petrol,0.0,22.1,2.0
+unknown,2014.0,20990,Semi-Auto,70523.0,Petrol,200.0,56.5,2.0
+unknown,2018.0,19412,Automatic,4578.0,Diesel,0.0,56.5,1.5
+ A Class,2018.6666666666667,16781,Manual,0.0,Petrol,145.0,49.6,1.6
+ GLA Class,2015.0,16299,Semi-Auto,44588.0,Diesel,0.0,56.6,2.0
+unknown,2018.6666666666667,13449,Semi-Auto,40908.0,Diesel,145.0,56.5,2.0
+unknown,2018.6666666666667,32300,Automatic,0.0,Petrol,145.0,35.8,2.0
+unknown,2019.0,23280,Automatic,0.0,Petrol,145.0,56.5,2.0
+unknown,2015.6666666666667,17990,Manual,27325.0,Petrol,0.0,48.7,1.6
+ SLK,2000.0,1490,Automatic,87000.0,Petrol,265.0,27.2,3.2
+ GLE Class,2018.0,55376,Automatic,5234.0,Petrol,145.0,56.5,5.5
+ C Class,2016.0,20000,Automatic,21425.0,Diesel,30.0,64.2,2.1
+unknown,2017.0,24660,Semi-Auto,9873.0,Diesel,20.0,67.3,2.1
+ C Class,2020.0,34500,Semi-Auto,100.0,Diesel,145.0,48.7,2.0
+ GLA Class,2016.0,16700,Automatic,44930.0,Diesel,125.0,56.5,2.1
+unknown,2017.0,17695,Semi-Auto,7145.0,Diesel,0.0,56.5,1.5
+ X-CLASS,2018.0,36790,Automatic,9500.0,Diesel,260.0,31.4,3.0
+ E Class,2019.0,45499,Semi-Auto,8024.0,Petrol,145.0,32.5,3.0
+ GL Class,2015.0,32998,Semi-Auto,22548.0,Diesel,330.0,56.5,3.0
+ A Class,2017.0,16995,Semi-Auto,0.0,Diesel,150.0,68.9,2.1
+unknown,2018.6666666666667,40890,Semi-Auto,5367.0,Petrol,145.0,29.1,3.0
+ C Class,2019.0,29999,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ A Class,2019.0,24980,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ C Class,2020.0,53669,Semi-Auto,1000.0,Petrol,145.0,29.1,3.0
+unknown,2016.0,19999,Semi-Auto,17807.0,Petrol,0.0,56.5,2.0
+unknown,2018.0,20889,Semi-Auto,8493.0,Petrol,0.0,44.1,2.0
+unknown,2019.0,31980,Semi-Auto,4309.0,Petrol,145.0,35.8,2.0
+ C Class,2019.0,27480,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+unknown,2018.6666666666667,19950,Automatic,15474.0,Diesel,145.0,56.5,2.0
+ GLC Class,2018.6666666666667,38990,Semi-Auto,0.0,Petrol,145.0,34.0,3.0
+ A Class,2016.0,16500,Automatic,28507.0,Diesel,20.0,68.9,2.1
+ CL Class,2019.0,26299,Automatic,0.0,Petrol,0.0,56.5,2.0
+unknown,2017.6666666666667,44995,Semi-Auto,200.0,Diesel,0.0,56.5,2.0
+unknown,2016.0,15679,Automatic,60619.0,Hybrid,0.0,134.5,2.0
+unknown,2019.0,23799,Semi-Auto,4010.0,Diesel,145.0,60.1,2.0
+ E Class,2019.0,44399,Semi-Auto,7805.0,Petrol,145.0,32.5,3.0
+ C Class,2016.0,18149,Semi-Auto,7366.0,Petrol,125.0,52.3,2.0
+ GLA Class,2019.0,24999,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ C Class,2018.0,24546,Automatic,12397.0,Diesel,145.0,58.9,2.1
+unknown,2019.0,20599,Semi-Auto,0.0,Petrol,0.0,46.3,2.0
+ GLE Class,2018.0,32991,Semi-Auto,23451.0,Diesel,150.0,56.5,2.1
+ GLC Class,2018.0,20850,Automatic,20000.0,Diesel,150.0,56.5,2.1
+ GLA Class,2019.0,24449,Semi-Auto,10420.0,Petrol,145.0,50.4,1.6
+ A Class,2019.0,26089,Semi-Auto,1000.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,32499,Automatic,0.0,Petrol,0.0,56.5,2.0
+ M Class,2015.0,18300,Automatic,53815.0,Diesel,205.0,39.2,2.0
+ C Class,2019.0,28180,Automatic,0.0,Diesel,145.0,57.7,2.0
+ A Class,2017.0,14480,Automatic,0.0,Diesel,20.0,74.3,1.5
+ B Class,2019.0,26490,Automatic,1800.0,Diesel,0.0,58.9,1.5
+ GLE Class,2017.0,27690,Semi-Auto,24915.0,Diesel,0.0,47.9,2.1
+ C Class,2019.0,18790,Semi-Auto,14288.0,Diesel,145.0,64.2,2.0
+unknown,2015.0,16322,Semi-Auto,21097.0,Diesel,125.0,58.9,2.1
+unknown,2019.0,33780,Semi-Auto,1980.0,Petrol,145.0,44.1,1.5
+ C Class,2016.3333333333333,21362,Semi-Auto,16093.0,Diesel,0.0,64.2,2.1
+ C Class,2017.0,24000,Semi-Auto,24035.0,Petrol,165.0,43.5,2.0
+ C Class,2019.3333333333333,33599,Semi-Auto,1000.0,Petrol,0.0,44.1,2.0
+ C Class,2017.0,13800,Automatic,50369.0,Diesel,20.0,65.7,2.1
+ A Class,2019.0,23340,Automatic,10355.0,Petrol,145.0,56.5,2.0
+unknown,2020.0,39995,Semi-Auto,4499.0,Diesel,145.0,53.3,2.0
+unknown,2019.0,25549,Semi-Auto,14995.0,Diesel,0.0,61.4,2.0
+ E Class,2019.0,25780,Semi-Auto,15426.0,Diesel,0.0,72.4,2.0
+ GLA Class,2020.0,23490,Semi-Auto,1734.0,Petrol,150.0,44.8,2.0
+ GL Class,2016.3333333333333,15999,Automatic,42073.0,Diesel,0.0,55.4,2.1
+unknown,2019.0,23499,Automatic,4149.0,Diesel,145.0,56.5,2.0
+ C Class,2016.0,32890,Automatic,23485.0,Petrol,300.0,34.0,3.0
+unknown,2019.0,24915,Automatic,13101.0,Diesel,145.0,61.4,2.0
+ A Class,2017.0,15800,Manual,24602.0,Diesel,30.0,56.5,2.1
+ CL Class,2017.0,17833,Semi-Auto,0.0,Diesel,150.0,67.3,2.1
+ GLS Class,2018.6666666666667,47980,Semi-Auto,8274.0,Diesel,145.0,37.2,2.0
+unknown,2018.6666666666667,20489,Semi-Auto,16900.0,Diesel,145.0,61.4,2.1
+ SL CLASS,2017.0,16292,Manual,0.0,Petrol,160.0,56.5,2.0
+ C Class,2019.0,32999,Semi-Auto,0.0,Diesel,145.0,54.3,2.0
+ E Class,2015.6666666666667,15000,Automatic,48317.0,Diesel,125.0,56.5,2.1
+ CL Class,2016.0,17950,Semi-Auto,58000.0,Diesel,20.0,67.3,2.1
+ CL Class,2014.0,24490,Semi-Auto,26886.0,Petrol,0.0,39.8,2.0
+ A Class,2015.0,18998,Semi-Auto,0.0,Petrol,200.0,56.5,2.0
+unknown,2018.6666666666667,46236,Automatic,9548.0,Petrol,145.0,30.1,3.0
+ C Class,2018.3333333333333,48990,Semi-Auto,800.0,Petrol,145.0,29.1,3.0
+unknown,2019.0,24480,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ B Class,2019.0,22899,Semi-Auto,9288.0,Petrol,145.0,56.5,1.3
+ CLS Class,2018.6666666666667,36490,Semi-Auto,7036.0,Diesel,145.0,48.7,2.9
+unknown,2015.0,14900,Automatic,35553.0,Diesel,0.0,65.7,2.1
+unknown,2019.0,39599,Semi-Auto,2872.0,Hybrid,0.0,188.3,2.0
+ C Class,2016.0,21991,Semi-Auto,32924.0,Diesel,0.0,56.5,2.1
+ A Class,2018.3333333333333,13450,Semi-Auto,0.0,Diesel,20.0,56.5,2.0
+ E Class,2017.3333333333333,22881,Semi-Auto,15756.0,Diesel,165.0,50.4,3.0
+unknown,2015.0,17980,Semi-Auto,0.0,Diesel,125.0,61.4,2.1
+unknown,2020.0,39991,Semi-Auto,0.0,Diesel,150.0,56.5,2.0
+ CL Class,2018.6666666666667,26299,Semi-Auto,11347.0,Diesel,145.0,51.4,2.2
+ E Class,2019.0,33350,Semi-Auto,3692.0,Diesel,0.0,45.6,2.0
+ C Class,2019.0,30249,Semi-Auto,10525.0,Diesel,145.0,54.3,2.0
+ CLK,2017.0,2495,Automatic,0.0,Petrol,0.0,56.5,1.8
+ E Class,2015.0,16295,Automatic,34000.0,Diesel,145.0,54.3,2.0
+unknown,2015.0,15990,Semi-Auto,49626.0,Diesel,125.0,55.4,2.1
+ SLK,2013.0,11300,Automatic,0.0,Diesel,145.0,56.5,2.1
+unknown,2013.0,13995,Automatic,31000.0,Diesel,145.0,55.4,2.2
+ E Class,2019.0,43799,Semi-Auto,0.0,Diesel,145.0,56.5,3.0
+ A Class,2018.0,17369,Automatic,24114.0,Diesel,0.0,68.9,2.1
+ CL Class,2016.6666666666667,18295,Automatic,49434.0,Diesel,0.0,56.5,2.1
+ GLA Class,2018.0,18400,Automatic,0.0,Diesel,145.0,56.5,2.1
+ C Class,2019.0,25549,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+unknown,2018.0,24000,Semi-Auto,5904.0,Diesel,145.0,61.4,2.0
+unknown,2016.0,14999,Semi-Auto,12891.0,Petrol,0.0,53.3,2.0
+ A Class,2017.0,18740,Semi-Auto,8461.0,Petrol,0.0,52.3,1.6
+unknown,2019.0,22699,Semi-Auto,3252.0,Diesel,0.0,65.7,2.0
+ GLE Class,2016.0,27999,Semi-Auto,32068.0,Diesel,200.0,47.9,2.0
+ GLC Class,2019.0,35611,Automatic,26153.0,Diesel,145.0,45.6,3.0
+unknown,2019.0,28099,Semi-Auto,20001.0,Diesel,145.0,61.4,2.0
+ C Class,2018.3333333333333,20503,Automatic,0.0,Petrol,200.0,42.8,2.0
+ A Class,2020.0,25998,Manual,0.0,Petrol,0.0,56.5,2.0
+ E Class,2015.0,14700,Automatic,0.0,Diesel,0.0,56.5,2.1
+ E Class,2018.6666666666667,56980,Semi-Auto,3999.0,Petrol,145.0,31.7,3.0
+unknown,2017.0,27995,Semi-Auto,0.0,Diesel,200.0,47.9,3.0
+ C Class,2014.0,10999,Automatic,53386.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,33449,Semi-Auto,3957.0,Petrol,145.0,31.7,2.0
+ E Class,2018.0,28750,Semi-Auto,12313.0,Diesel,145.0,56.5,2.0
+unknown,2016.0,17050,Semi-Auto,0.0,Diesel,125.0,56.6,2.1
+ CL Class,2018.6666666666667,29991,Semi-Auto,4000.0,Petrol,145.0,39.8,2.0
+ C Class,2016.0,14299,Manual,0.0,Diesel,0.0,56.5,2.1
+ CLS Class,2015.0,19698,Semi-Auto,44143.0,Diesel,160.0,51.4,3.0
+unknown,2014.0,11900,Manual,0.0,Diesel,0.0,56.5,2.1
+ GLE Class,2020.0,57400,Semi-Auto,2538.0,Diesel,145.0,32.5,2.9
+ E Class,2015.0,15360,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+unknown,2018.0,44000,Semi-Auto,199.0,Diesel,0.0,42.8,3.0
+ GLC Class,2020.0,38995,Automatic,0.0,Petrol,145.0,56.5,2.0
+unknown,2015.6666666666667,21295,Semi-Auto,64995.0,Diesel,125.0,56.5,2.1
+ CLS Class,2016.0,22802,Automatic,13588.0,Diesel,165.0,56.5,3.0
+unknown,2017.0,12988,Automatic,44941.0,Diesel,20.0,74.3,1.5
+unknown,2016.3333333333333,14499,Manual,31143.0,Diesel,30.0,62.8,2.1
+ CLS Class,2019.0,42999,Semi-Auto,7038.0,Diesel,145.0,56.5,2.9
+unknown,2018.0,15999,Automatic,16028.0,Diesel,145.0,68.9,1.5
+ A Class,2019.0,22980,Semi-Auto,14983.0,Diesel,145.0,56.5,1.5
+ A Class,2019.0,26999,Automatic,4105.0,Diesel,145.0,56.5,2.0
+ GLC Class,2017.0,27673,Semi-Auto,3573.0,Diesel,145.0,56.5,2.1
+unknown,2018.6666666666667,29676,Automatic,0.0,Petrol,300.0,34.0,3.0
+unknown,2016.0,16500,Semi-Auto,0.0,Diesel,0.0,56.5,1.5
+unknown,2017.0,31950,Automatic,21000.0,Petrol,0.0,33.6,2.0
+ GLC Class,2016.0,23998,Semi-Auto,42809.0,Diesel,0.0,56.5,2.1
+unknown,2019.0,29199,Semi-Auto,11242.0,Diesel,145.0,56.5,2.0
+ A Class,2019.0,23549,Automatic,0.0,Petrol,0.0,56.5,1.3
+unknown,2014.0,11351,Automatic,80988.0,Diesel,125.0,56.5,2.0
+unknown,2018.0,15121,Manual,9598.0,Diesel,145.0,72.4,1.5
+ CLS Class,2018.3333333333333,41495,Automatic,8376.0,Petrol,0.0,36.2,3.0
+ A Class,2016.0,13200,Manual,50521.0,Diesel,20.0,56.5,1.5
+ C Class,2020.0,28990,Automatic,3458.0,Petrol,0.0,46.3,2.0
+unknown,2017.0,16311,Semi-Auto,0.0,Diesel,0.0,68.9,2.1
+unknown,2018.6666666666667,37995,Semi-Auto,1.0,Diesel,145.0,56.5,3.0
+ E Class,2017.0,19500,Semi-Auto,0.0,Diesel,20.0,56.5,2.0
+ C Class,2014.0,13251,Semi-Auto,0.0,Diesel,20.0,64.2,2.0
+unknown,2016.0,10000,Automatic,80442.0,Diesel,0.0,58.9,2.1
+ E Class,2016.0,18480,Automatic,0.0,Diesel,125.0,56.5,2.1
+ GLC Class,2019.0,43299,Semi-Auto,9090.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,39998,Semi-Auto,926.0,Diesel,0.0,45.6,2.0
+ C Class,2017.0,21697,Semi-Auto,0.0,Petrol,0.0,47.1,2.0
+ E Class,2019.0,27995,Semi-Auto,0.0,Diesel,150.0,58.9,2.0
+ E Class,2015.0,15637,Automatic,45943.0,Diesel,160.0,51.4,2.0
+ A Class,2014.0,10990,Manual,0.0,Petrol,145.0,48.7,2.0
+unknown,2018.6666666666667,20990,Semi-Auto,0.0,Diesel,145.0,56.5,1.6
+ C Class,2015.0,17998,Semi-Auto,0.0,Diesel,30.0,56.5,2.1
+ E Class,2017.0,18870,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+unknown,2017.0,21290,Automatic,0.0,Diesel,145.0,56.5,2.0
+ E Class,2016.0,19999,Semi-Auto,27663.0,Diesel,30.0,65.7,2.0
+ C Class,2018.0,19000,Automatic,19542.0,Petrol,0.0,48.7,2.0
+ GLA Class,2019.0,19750,Automatic,14049.0,Petrol,150.0,44.8,1.6
+unknown,2019.0,25980,Semi-Auto,0.0,Petrol,0.0,56.5,1.5
+unknown,2016.0,27500,Semi-Auto,18283.0,Diesel,0.0,56.5,2.1
+unknown,2016.0,29999,Semi-Auto,0.0,Petrol,0.0,40.9,2.0
+unknown,2019.0,30845,Automatic,2065.0,Diesel,0.0,64.2,2.0
+ C Class,2019.0,29990,Automatic,5376.0,Petrol,145.0,44.1,2.0
+ B Class,2019.0,21190,Automatic,14846.0,Petrol,145.0,45.6,1.3
+unknown,2019.0,20799,Semi-Auto,11452.0,Petrol,145.0,53.3,1.3
+ CLS Class,2015.0,16590,Semi-Auto,44192.0,Diesel,0.0,56.5,2.1
+ C Class,2017.0,20500,Automatic,0.0,Diesel,0.0,60.1,2.1
+ X-CLASS,2019.0,33750,Automatic,12500.0,Diesel,0.0,56.5,3.0
+unknown,2019.0,24306,Semi-Auto,15253.0,Diesel,145.0,61.4,2.0
+ E Class,2016.0,20800,Automatic,24279.0,Diesel,30.0,56.5,2.0
+ C Class,2019.0,39500,Semi-Auto,3466.0,Petrol,145.0,30.4,2.0
+ CL Class,2017.0,20780,Automatic,23099.0,Diesel,145.0,67.3,2.1
+ E Class,2018.6666666666667,26399,Semi-Auto,15189.0,Diesel,145.0,72.4,2.0
+unknown,2017.0,19991,Automatic,77719.0,Diesel,160.0,56.5,3.0
+ GLC Class,2016.0,24741,Semi-Auto,42300.0,Diesel,125.0,56.5,2.0
+ E Class,2017.0,21500,Automatic,29138.0,Diesel,0.0,65.7,2.0
+unknown,2016.0,15990,Automatic,0.0,Petrol,125.0,56.5,2.0
+unknown,2020.0,28900,Automatic,4308.0,Petrol,0.0,56.5,2.0
+unknown,2019.0,21599,Semi-Auto,9085.0,Petrol,145.0,56.5,1.3
+unknown,2019.0,28300,Semi-Auto,6519.0,Petrol,145.0,44.1,2.0
+unknown,2018.6666666666667,24495,Semi-Auto,0.0,Diesel,145.0,55.4,2.0
+unknown,2018.6666666666667,29799,Semi-Auto,9168.0,Diesel,145.0,56.5,2.0
+ A Class,2017.0,15999,Automatic,23224.0,Diesel,0.0,56.5,1.5
+ E Class,2017.0,21456,Automatic,0.0,Diesel,145.0,65.7,2.0
+ G Class,2018.3333333333333,135124,Semi-Auto,0.0,Petrol,150.0,21.4,2.0
+ C Class,2014.0,16990,Semi-Auto,40000.0,Petrol,145.0,49.6,2.0
+ E Class,2018.3333333333333,7995,Automatic,70150.0,Diesel,235.0,44.1,2.0
+ E Class,2019.0,26980,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2015.0,12800,Automatic,79011.0,Diesel,30.0,61.4,2.1
+ C Class,2016.0,21995,Semi-Auto,18998.0,Petrol,150.0,56.5,2.0
+unknown,2016.6666666666667,25700,Semi-Auto,11344.0,Diesel,0.0,51.4,2.2
+ CL Class,2016.0,19500,Semi-Auto,0.0,Diesel,20.0,67.3,2.1
+ B Class,2016.0,14490,Automatic,0.0,Diesel,20.0,56.5,2.0
+ X-CLASS,2019.0,28990,Automatic,4000.0,Diesel,0.0,56.5,2.3
+ C Class,2014.0,13390,Semi-Auto,43793.0,Petrol,125.0,52.3,2.0
+ C Class,2017.6666666666667,16950,Automatic,51700.0,Hybrid,0.0,56.5,2.0
+ A Class,2018.6666666666667,18780,Semi-Auto,17615.0,Diesel,145.0,65.7,1.5
+ B Class,2019.0,28190,Semi-Auto,5000.0,Petrol,145.0,56.5,2.0
+ A Class,2017.0,29995,Automatic,7000.0,Petrol,145.0,56.5,2.0
+ C Class,2014.0,13950,Semi-Auto,0.0,Diesel,0.0,64.2,2.1
+ A Class,2018.6666666666667,16500,Manual,18969.0,Petrol,145.0,56.5,1.6
+ A Class,2017.3333333333333,14998,Manual,0.0,Diesel,0.0,56.5,1.5
+ E Class,2019.0,31499,Semi-Auto,11415.0,Diesel,145.0,58.9,2.0
+unknown,2017.0,30890,Semi-Auto,0.0,Diesel,200.0,47.9,2.1
+ A Class,2019.0,26014,Semi-Auto,0.0,Petrol,0.0,53.3,2.0
+ C Class,2015.0,16998,Semi-Auto,66796.0,Hybrid,0.0,74.3,2.0
+ GLA Class,2015.6666666666667,15561,Semi-Auto,71610.0,Diesel,125.0,56.6,2.1
+ B Class,2019.0,24589,Semi-Auto,1000.0,Diesel,145.0,55.4,2.0
+ GLS Class,2018.0,41994,Automatic,0.0,Diesel,0.0,37.2,3.0
+unknown,2013.0,15775,Automatic,45378.0,Diesel,200.0,45.6,3.0
+unknown,2018.0,22022,Semi-Auto,0.0,Petrol,145.0,53.3,1.3
+ A Class,2018.6666666666667,27995,Semi-Auto,16.0,Diesel,145.0,56.5,1.5
+unknown,2017.0,19999,Automatic,37259.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,22532,Semi-Auto,20150.0,Petrol,0.0,56.5,2.0
+ B Class,2014.0,8160,Manual,61800.0,Diesel,30.0,61.4,1.5
+ C Class,2015.6666666666667,14490,Semi-Auto,51866.0,Diesel,20.0,64.2,2.1
+unknown,2019.0,31490,Semi-Auto,3948.0,Diesel,145.0,45.6,2.0
+ GLC Class,2019.0,38987,Automatic,3911.0,Diesel,0.0,43.5,2.0
+unknown,2016.0,16998,Automatic,59208.0,Hybrid,0.0,76.4,2.0
+unknown,2019.0,26890,Semi-Auto,7822.0,Diesel,145.0,54.3,2.0
+ C Class,2019.0,29945,Automatic,5877.0,Petrol,145.0,44.1,2.0
+unknown,2018.0,16498,Semi-Auto,27342.0,Diesel,150.0,56.5,2.1
+ E Class,2017.0,23499,Semi-Auto,40659.0,Diesel,145.0,65.7,2.0
+ A Class,2017.0,17049,Semi-Auto,15001.0,Diesel,145.0,68.9,2.1
+ A Class,2018.6666666666667,18560,Semi-Auto,14378.0,Diesel,145.0,56.5,2.0
+ B Class,2019.0,21394,Automatic,9573.0,Petrol,0.0,45.6,1.3
+ C Class,2019.0,31779,Semi-Auto,1000.0,Diesel,0.0,54.3,1.6
+ E Class,2016.0,20298,Semi-Auto,0.0,Diesel,0.0,56.5,3.0
+ A Class,2013.0,9691,Manual,0.0,Petrol,145.0,49.6,1.6
+unknown,2019.0,34980,Automatic,5000.0,Diesel,0.0,43.5,2.0
+unknown,2018.6666666666667,12990,Manual,42000.0,Petrol,145.0,56.5,1.6
+ GLC Class,2018.6666666666667,25500,Automatic,13940.0,Diesel,145.0,56.5,2.0
+ GLE Class,2018.0,45900,Automatic,20186.0,Diesel,0.0,56.5,3.0
+ E Class,2019.0,24749,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2018.0,19999,Automatic,0.0,Diesel,145.0,68.9,2.1
+ GLA Class,2017.0,21890,Automatic,22816.0,Petrol,0.0,56.5,2.0
+ CLS Class,2019.0,47899,Semi-Auto,0.0,Diesel,145.0,47.9,2.9
+unknown,2017.3333333333333,24498,Semi-Auto,28191.0,Diesel,200.0,47.9,3.0
+ C Class,2019.0,26249,Semi-Auto,8588.0,Petrol,145.0,47.1,1.5
+ A Class,2018.0,84500,Automatic,0.0,Petrol,0.0,56.5,2.0
+ A Class,2019.0,23699,Semi-Auto,3405.0,Petrol,145.0,56.5,2.0
+ C Class,2013.0,8991,Semi-Auto,47334.0,Diesel,0.0,64.2,2.1
+ SL CLASS,2017.0,20450,Automatic,0.0,Diesel,30.0,56.5,2.1
+ GLC Class,2018.6666666666667,36092,Semi-Auto,21305.0,Petrol,300.0,56.5,3.0
+ CLS Class,2019.0,43499,Semi-Auto,12346.0,Diesel,145.0,47.9,2.9
+unknown,2016.0,16130,Semi-Auto,36152.0,Diesel,125.0,56.5,2.1
+unknown,2018.6666666666667,17990,Semi-Auto,0.0,Diesel,145.0,65.7,1.5
+ C Class,2019.0,28998,Manual,0.0,Petrol,145.0,48.7,1.6
+ GLA Class,2016.0,17117,Automatic,15821.0,Diesel,125.0,56.6,2.1
+ C Class,2017.0,19290,Automatic,0.0,Petrol,0.0,49.6,2.0
+ A Class,2018.3333333333333,19998,Automatic,37572.0,Petrol,150.0,45.6,2.0
+unknown,2018.0,19097,Semi-Auto,7456.0,Petrol,0.0,56.5,2.0
+ GLE Class,2016.0,25998,Semi-Auto,0.0,Diesel,0.0,47.9,2.0
+unknown,2017.0,23401,Semi-Auto,11457.0,Petrol,145.0,47.1,2.0
+ SLK,2015.6666666666667,15990,Automatic,43955.0,Petrol,205.0,56.5,1.8
+ SL CLASS,2017.0,19989,Semi-Auto,0.0,Diesel,145.0,70.6,2.1
+ A Class,2020.0,29490,Automatic,3329.0,Diesel,145.0,67.3,1.5
+ SLK,2017.6666666666667,15599,Automatic,21680.0,Diesel,0.0,56.5,2.0
+unknown,2018.6666666666667,19750,Automatic,0.0,Petrol,145.0,53.3,1.3
+unknown,2017.6666666666667,32429,Semi-Auto,1000.0,Diesel,0.0,57.7,2.0
+ V Class,2018.0,20698,Manual,13013.0,Diesel,145.0,56.5,2.1
+ E Class,2016.0,19480,Semi-Auto,0.0,Diesel,125.0,58.9,2.1
+unknown,2019.0,32949,Semi-Auto,2424.0,Diesel,0.0,56.5,2.1
+ B Class,2016.0,14999,Automatic,15541.0,Diesel,20.0,68.9,2.0
+ A Class,2019.0,22990,Automatic,5679.0,Diesel,0.0,56.5,1.5
+ A Class,2018.0,17689,Automatic,11791.0,Diesel,0.0,68.9,2.0
+ A Class,2018.6666666666667,125796,Automatic,637.0,Petrol,145.0,56.5,4.0
+ E Class,2015.0,17998,Semi-Auto,0.0,Diesel,0.0,54.3,2.0
+unknown,2016.0,13742,Manual,30313.0,Diesel,20.0,56.5,1.5
+ CL Class,2018.0,17699,Semi-Auto,0.0,Diesel,145.0,68.9,2.0
+ GLE Class,2018.0,46299,Semi-Auto,15447.0,Diesel,145.0,56.5,3.0
+ E Class,2019.0,28452,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2018.6666666666667,13750,Semi-Auto,54561.0,Diesel,145.0,56.5,2.1
+ GLC Class,2019.0,31946,Automatic,0.0,Diesel,145.0,42.2,2.1
+ C Class,2019.0,25999,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+unknown,2018.0,21990,Automatic,25000.0,Diesel,145.0,65.7,2.0
+ C Class,2019.0,28382,Automatic,0.0,Diesel,145.0,64.2,2.0
+ GL Class,2018.6666666666667,13421,Automatic,66010.0,Diesel,145.0,56.5,2.1
+ C Class,2016.0,14495,Automatic,0.0,Diesel,30.0,56.5,1.6
+ C Class,2015.0,12599,Manual,50299.0,Diesel,0.0,56.5,1.6
+unknown,2017.0,30999,Automatic,18398.0,Diesel,145.0,56.5,2.1
+ C Class,2018.6666666666667,28990,Automatic,1544.0,Diesel,145.0,56.5,2.0
+ E Class,2017.6666666666667,22470,Automatic,0.0,Diesel,0.0,61.4,2.0
+ C Class,2019.0,25480,Semi-Auto,12016.0,Petrol,0.0,56.5,1.5
+ E Class,2016.6666666666667,14120,Semi-Auto,48853.0,Diesel,0.0,56.5,2.1
+unknown,2018.6666666666667,24980,Semi-Auto,2072.0,Petrol,145.0,56.5,2.0
+ GLC Class,2016.0,24999,Semi-Auto,17706.0,Diesel,125.0,56.5,2.1
+unknown,2018.6666666666667,27495,Automatic,5809.0,Diesel,145.0,41.5,2.0
+unknown,2017.0,25995,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2016.0,29995,Semi-Auto,2933.0,Diesel,200.0,56.5,2.0
+ GLA Class,2017.0,12931,Semi-Auto,46485.0,Diesel,150.0,64.2,2.1
+unknown,2018.6666666666667,20490,Automatic,7148.0,Diesel,145.0,67.3,2.0
+ E Class,2019.0,48799,Semi-Auto,3074.0,Diesel,145.0,45.6,3.0
+ SLK,2015.0,12999,Automatic,0.0,Diesel,0.0,70.6,2.1
+ E Class,2018.0,27999,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ GLE Class,2017.0,33142,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,29000,Semi-Auto,0.0,Diesel,145.0,57.7,2.0
+unknown,2019.0,30480,Semi-Auto,9736.0,Diesel,145.0,42.2,2.1
+ C Class,2018.6666666666667,27480,Automatic,8248.0,Diesel,145.0,57.7,2.0
+unknown,2016.3333333333333,13990,Manual,63000.0,Diesel,30.0,62.8,2.1
+unknown,2018.6666666666667,29399,Semi-Auto,8545.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,21630,Automatic,21994.0,Diesel,145.0,56.5,2.0
+ E Class,2017.0,19000,Automatic,32231.0,Diesel,30.0,56.5,2.0
+unknown,2019.0,22499,Semi-Auto,12706.0,Petrol,145.0,45.6,1.3
+ X-CLASS,2017.6666666666667,26995,Automatic,500.0,Diesel,260.0,56.5,2.3
+unknown,2016.3333333333333,16991,Semi-Auto,0.0,Diesel,20.0,64.2,2.1
+ A Class,2018.0,16495,Manual,0.0,Diesel,145.0,68.9,1.5
+ E Class,2016.0,17691,Automatic,18895.0,Diesel,0.0,56.5,2.0
+unknown,2016.0,12149,Manual,0.0,Diesel,0.0,80.7,1.5
+ GLA Class,2017.0,19980,Semi-Auto,21849.0,Diesel,145.0,64.2,2.1
+ GLC Class,2020.0,42781,Semi-Auto,4123.0,Diesel,0.0,56.5,2.0
+ GLA Class,2018.6666666666667,22990,Automatic,1647.0,Petrol,145.0,44.8,1.6
+ C Class,2017.0,14690,Manual,41814.0,Diesel,30.0,56.5,2.0
+ CLS Class,2018.6666666666667,36890,Automatic,0.0,Diesel,145.0,45.6,2.0
+unknown,2017.6666666666667,33799,Semi-Auto,2014.0,Diesel,0.0,57.7,2.0
+ E Class,2017.0,18400,Automatic,0.0,Diesel,20.0,56.5,2.0
+ A Class,2018.6666666666667,17938,Semi-Auto,0.0,Diesel,145.0,68.9,2.0
+ C Class,2015.0,15700,Automatic,36078.0,Diesel,30.0,61.4,2.1
+unknown,2019.0,19999,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ C Class,2019.0,30995,Automatic,5862.0,Petrol,145.0,44.1,2.0
+unknown,2017.3333333333333,16975,Semi-Auto,38000.0,Diesel,0.0,67.3,2.0
+ V Class,2018.6666666666667,39995,Semi-Auto,4823.0,Diesel,145.0,45.6,2.2
+ E Class,2018.3333333333333,19200,Automatic,21494.0,Diesel,20.0,72.4,2.0
+unknown,2014.0,10999,Automatic,54097.0,Diesel,0.0,56.5,2.1
+ C Class,2017.0,16189,Manual,16946.0,Petrol,125.0,53.3,2.0
+ GLA Class,2016.0,16695,Automatic,26000.0,Diesel,30.0,64.2,2.1
+ C Class,2018.6666666666667,9000,Automatic,56544.0,Diesel,145.0,56.5,2.1
+ C Class,2017.6666666666667,19498,Semi-Auto,0.0,Hybrid,0.0,56.5,2.0
+ CL Class,2019.0,40099,Semi-Auto,778.0,Petrol,0.0,32.8,2.0
+ GLA Class,2016.0,17999,Semi-Auto,36249.0,Diesel,125.0,56.6,2.1
+ A Class,2014.0,10498,Manual,73000.0,Diesel,0.0,78.5,1.5
+ C Class,2016.0,19750,Semi-Auto,31467.0,Diesel,30.0,64.2,2.0
+ SL CLASS,2017.0,20490,Semi-Auto,8728.0,Diesel,145.0,70.6,2.1
+unknown,2019.0,31480,Semi-Auto,12365.0,Diesel,145.0,42.2,2.0
+ E Class,2016.0,20498,Semi-Auto,0.0,Diesel,160.0,56.5,3.0
+ C Class,2016.0,18499,Automatic,23953.0,Diesel,30.0,64.2,2.0
+ GLA Class,2015.0,18599,Semi-Auto,24927.0,Diesel,0.0,56.5,2.1
+ A Class,2019.0,20950,Semi-Auto,4692.0,Diesel,0.0,65.7,1.3
+unknown,2015.0,22250,Automatic,76000.0,Diesel,200.0,48.7,3.0
+ GLC Class,2016.6666666666667,26500,Automatic,6876.0,Diesel,0.0,56.5,2.1
+ GLC Class,2017.0,28450,Automatic,22608.0,Diesel,145.0,56.5,2.1
+ C Class,2019.0,28332,Automatic,7866.0,Diesel,0.0,56.5,2.0
+ E Class,2018.6666666666667,25995,Semi-Auto,7499.0,Diesel,145.0,67.3,2.0
+ GLC Class,2019.0,32919,Semi-Auto,1000.0,Diesel,145.0,44.8,2.0
+unknown,2019.0,25995,Semi-Auto,0.0,Petrol,150.0,56.5,1.6
+ A Class,2014.0,20000,Semi-Auto,58677.0,Petrol,200.0,40.9,2.0
+ CLS Class,2019.0,45699,Semi-Auto,3443.0,Diesel,145.0,47.9,2.0
+unknown,2018.6666666666667,25399,Manual,0.0,Petrol,145.0,47.1,1.3
+ A Class,2016.0,10995,Manual,77000.0,Diesel,20.0,56.5,1.5
+unknown,2018.6666666666667,30000,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2020.0,40991,Semi-Auto,1000.0,Diesel,145.0,55.4,2.0
+unknown,2018.6666666666667,9990,Automatic,82000.0,Diesel,0.0,47.1,3.0
+unknown,2019.0,28249,Semi-Auto,14833.0,Diesel,145.0,56.5,2.0
+ C Class,2018.6666666666667,19199,Semi-Auto,8306.0,Petrol,145.0,50.4,2.0
+ E Class,2016.0,19845,Automatic,32741.0,Diesel,30.0,65.7,2.0
+unknown,2019.0,23498,Semi-Auto,19204.0,Diesel,150.0,61.4,2.0
+ GLC Class,2019.0,39980,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ A Class,2017.0,17891,Semi-Auto,21844.0,Diesel,150.0,68.9,2.0
+unknown,2016.0,26995,Automatic,0.0,Petrol,235.0,56.5,2.0
+ E Class,2016.0,19998,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2017.6666666666667,16495,Semi-Auto,25656.0,Diesel,0.0,65.7,1.6
+unknown,2016.0,11393,Manual,103000.0,Diesel,20.0,56.5,1.5
+ C Class,2015.0,16440,Semi-Auto,29286.0,Diesel,20.0,64.2,2.1
+ CLA Class,2015.6666666666667,17590,Automatic,53159.0,Diesel,125.0,56.5,2.1
+unknown,2019.0,34120,Automatic,1623.0,Petrol,0.0,56.5,2.0
+ C Class,2015.0,17636,Semi-Auto,0.0,Diesel,30.0,56.5,2.0
+ GLC Class,2017.0,24250,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+unknown,2016.0,14990,Manual,53000.0,Petrol,125.0,51.4,2.0
+unknown,2018.0,22000,Semi-Auto,11439.0,Petrol,145.0,46.3,1.5
+ E Class,2018.6666666666667,25399,Automatic,11290.0,Diesel,145.0,72.4,2.0
+ CL Class,2020.0,33120,Semi-Auto,11327.0,Petrol,145.0,56.5,1.3
+ GL Class,2018.6666666666667,19999,Automatic,12471.0,Petrol,145.0,50.4,1.6
+ E Class,2018.3333333333333,21064,Automatic,24927.0,Diesel,165.0,56.5,2.0
+ B Class,2019.0,21890,Automatic,0.0,Petrol,145.0,45.6,1.3
+unknown,2019.0,30490,Automatic,0.0,Diesel,145.0,56.5,2.0
+ GLC Class,2019.0,29750,Automatic,0.0,Diesel,150.0,56.5,2.1
+ GLC Class,2016.6666666666667,31990,Automatic,7352.0,Diesel,0.0,56.5,2.1
+unknown,2018.6666666666667,31609,Semi-Auto,1000.0,Diesel,145.0,56.5,2.0
+ GLA Class,2017.0,23149,Semi-Auto,13406.0,Diesel,0.0,67.3,2.1
+ C Class,2019.0,40649,Semi-Auto,11130.0,Petrol,145.0,30.4,2.0
+ GLA Class,2018.6666666666667,18950,Semi-Auto,0.0,Diesel,145.0,67.3,2.0
+ GLC Class,2019.0,76989,Automatic,3012.0,Petrol,145.0,56.5,4.0
+unknown,2018.6666666666667,24990,Automatic,0.0,Diesel,145.0,56.5,2.1
+ GLC Class,2019.0,37980,Semi-Auto,16.0,Diesel,0.0,40.9,2.0
+unknown,2019.0,30499,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ C Class,2016.0,19170,Automatic,35620.0,Petrol,0.0,52.3,2.0
+ A Class,2019.0,23450,Automatic,2300.0,Diesel,145.0,56.5,2.0
+ C Class,2017.6666666666667,13990,Automatic,42000.0,Diesel,20.0,65.7,2.1
+ C Class,2015.0,13295,Automatic,87980.0,Hybrid,0.0,134.5,2.0
+ M Class,2014.0,19194,Semi-Auto,0.0,Diesel,200.0,46.3,2.1
+ C Class,2018.3333333333333,13391,Manual,58858.0,Diesel,30.0,65.7,2.0
+ C Class,2016.0,25989,Automatic,2997.0,Petrol,0.0,44.1,1.5
+unknown,2017.6666666666667,44995,Automatic,6000.0,Diesel,0.0,70.6,2.0
+unknown,2018.6666666666667,41900,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ A Class,2019.0,22570,Automatic,101.0,Diesel,145.0,65.7,1.5
+ C Class,2019.0,27810,Automatic,6621.0,Diesel,145.0,61.4,2.0
+ C Class,2019.0,25799,Semi-Auto,11056.0,Petrol,0.0,47.1,1.5
+unknown,2017.0,15124,Manual,15080.0,Diesel,145.0,72.4,2.0
+unknown,2017.0,23699,Semi-Auto,7978.0,Diesel,20.0,56.5,2.1
+ A Class,2015.0,11995,Semi-Auto,66037.0,Diesel,0.0,56.5,2.1
+ GLE Class,2017.6666666666667,47890,Semi-Auto,6224.0,Diesel,0.0,56.5,2.0
+ M Class,2015.0,19940,Automatic,0.0,Diesel,200.0,39.2,2.1
+ A Class,2018.6666666666667,25899,Semi-Auto,1413.0,Diesel,145.0,65.7,1.5
+ C Class,2016.0,16950,Automatic,24080.0,Petrol,125.0,50.4,2.0
+ CLS Class,2018.0,16750,Semi-Auto,0.0,Diesel,0.0,56.5,3.0
+ C Class,2019.0,25799,Semi-Auto,0.0,Petrol,145.0,45.6,1.5
+ B Class,2019.0,22590,Manual,50.0,Petrol,145.0,44.8,2.0
+ C Class,2016.0,17990,Automatic,57000.0,Diesel,20.0,67.3,2.0
+unknown,2017.0,16499,Automatic,40381.0,Diesel,20.0,74.3,2.0
+ SLK,2015.0,13795,Semi-Auto,29945.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,28999,Semi-Auto,6700.0,Diesel,145.0,56.5,2.0
+ E Class,2018.6666666666667,21900,Automatic,35598.0,Diesel,145.0,61.4,2.0
+unknown,2020.0,59995,Semi-Auto,4999.0,Petrol,145.0,29.5,3.0
+unknown,2017.0,23615,Semi-Auto,41243.0,Diesel,145.0,56.5,2.1
+ C Class,2018.0,22880,Semi-Auto,23061.0,Diesel,145.0,56.5,2.1
+ GLC Class,2018.6666666666667,35500,Semi-Auto,5181.0,Diesel,145.0,56.5,2.0
+ S Class,2019.0,93499,Semi-Auto,1000.0,Petrol,145.0,56.5,4.0
+ S Class,2019.0,54599,Semi-Auto,0.0,Diesel,145.0,52.3,2.0
+ V Class,2019.0,48890,Semi-Auto,650.0,Diesel,145.0,56.5,2.0
+unknown,2019.6666666666667,25961,Manual,871.0,Petrol,145.0,44.8,1.3
+unknown,2018.0,30480,Semi-Auto,9096.0,Diesel,145.0,57.7,2.0
+ C Class,2018.0,23990,Semi-Auto,0.0,Petrol,150.0,56.5,1.5
+ E Class,2019.0,35480,Semi-Auto,3846.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,25172,Automatic,30525.0,Petrol,0.0,44.1,2.0
+unknown,2019.0,23450,Automatic,3521.0,Diesel,0.0,67.3,1.5
+unknown,2017.6666666666667,22624,Semi-Auto,19176.0,Diesel,0.0,56.5,2.0
+ A Class,2017.0,15990,Semi-Auto,52518.0,Diesel,0.0,67.3,2.1
+unknown,2018.6666666666667,47484,Automatic,3439.0,Petrol,145.0,27.4,4.0
+ GLC Class,2016.6666666666667,24898,Semi-Auto,30488.0,Diesel,0.0,56.5,2.1
+ E Class,2019.0,62500,Automatic,3200.0,Petrol,0.0,30.1,2.0
+ GLE Class,2018.0,39999,Semi-Auto,0.0,Petrol,145.0,32.8,2.0
+unknown,2018.6666666666667,17300,Semi-Auto,27420.0,Diesel,145.0,56.5,1.6
+ A Class,2018.3333333333333,13177,Automatic,18284.0,Petrol,125.0,50.4,2.0
+ GLC Class,2019.0,40950,Automatic,7160.0,Diesel,145.0,40.4,2.0
+unknown,2020.0,29991,Semi-Auto,2011.0,Petrol,145.0,35.8,1.6
+unknown,2019.0,38899,Automatic,6828.0,Hybrid,135.0,188.3,2.0
+ C Class,2017.6666666666667,54990,Automatic,0.0,Petrol,0.0,28.5,2.0
+ C Class,2017.0,8894,Automatic,61242.0,Petrol,0.0,56.5,1.8
+ CLA Class,2017.0,17000,Automatic,7392.0,Petrol,0.0,53.3,1.6
+unknown,2016.0,26059,Automatic,49397.0,Diesel,205.0,56.5,3.0
+ E Class,2016.0,18999,Automatic,15396.0,Diesel,20.0,56.5,2.0
+ E Class,2018.3333333333333,13990,Automatic,46000.0,Diesel,125.0,61.4,2.0
+ E Class,2015.0,13990,Automatic,37000.0,Diesel,0.0,57.7,2.1
+ C Class,2017.6666666666667,28950,Automatic,8500.0,Diesel,0.0,54.3,2.0
+ V Class,2018.0,19750,Automatic,15232.0,Diesel,0.0,48.7,2.1
+ A Class,2017.0,15789,Semi-Auto,19572.0,Petrol,125.0,53.3,2.0
+ C Class,2017.6666666666667,19750,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+ C Class,2019.0,30995,Semi-Auto,0.0,Petrol,145.0,44.1,2.0
+ GLC Class,2017.6666666666667,34400,Automatic,6940.0,Diesel,0.0,44.8,2.0
+ E Class,2019.0,34640,Semi-Auto,2824.0,Diesel,150.0,42.8,3.0
+ CL Class,2018.6666666666667,19950,Manual,0.0,Diesel,145.0,56.5,2.0
+ C Class,2018.6666666666667,21440,Semi-Auto,13096.0,Diesel,145.0,61.4,2.1
+ A Class,2018.0,17149,Manual,18828.0,Petrol,0.0,56.5,2.0
+ E Class,2015.0,11990,Automatic,87000.0,Diesel,125.0,56.5,2.0
+ C Class,2019.0,28896,Automatic,0.0,Diesel,145.0,61.4,2.0
+unknown,2018.6666666666667,25276,Automatic,15156.0,Diesel,145.0,67.3,2.0
+unknown,2019.0,32980,Semi-Auto,5164.0,Diesel,145.0,57.7,2.0
+ GLC Class,2017.0,28498,Semi-Auto,26299.0,Diesel,145.0,56.5,2.1
+unknown,2018.0,26995,Automatic,36998.0,Diesel,145.0,56.5,2.0
+ E Class,2019.0,45980,Semi-Auto,10491.0,Petrol,145.0,32.5,2.0
+ E Class,2016.0,18199,Semi-Auto,29700.0,Diesel,20.0,72.4,2.0
+ GLA Class,2019.0,24249,Semi-Auto,0.0,Petrol,0.0,36.2,1.6
+ C Class,2016.0,20990,Automatic,23000.0,Diesel,30.0,64.2,2.1
+ A Class,2019.0,26979,Semi-Auto,2850.0,Petrol,145.0,56.5,2.0
+ V Class,2018.0,35995,Automatic,0.0,Diesel,0.0,45.6,2.2
+ C Class,2019.0,25449,Semi-Auto,0.0,Petrol,0.0,47.1,1.5
+unknown,2019.0,50980,Semi-Auto,2850.0,Diesel,145.0,36.7,2.0
+unknown,2015.0,23699,Automatic,46117.0,Diesel,205.0,47.9,2.1
+ A Class,2018.3333333333333,29990,Semi-Auto,22923.0,Petrol,150.0,56.5,2.0
+ A Class,2016.0,9990,Manual,0.0,Diesel,0.0,80.7,1.5
+ A Class,2016.0,14806,Manual,30859.0,Diesel,20.0,68.9,1.5
+ E Class,2018.6666666666667,33299,Automatic,3969.0,Diesel,145.0,42.8,2.0
+ E Class,2019.0,34544,Semi-Auto,5508.0,Diesel,145.0,56.5,2.0
+ S Class,2016.0,31000,Automatic,15000.0,Petrol,300.0,56.5,2.0
+ GLC Class,2016.0,29499,Semi-Auto,19932.0,Diesel,145.0,56.5,2.0
+ E Class,2017.0,22199,Semi-Auto,16350.0,Diesel,145.0,67.3,2.0
+unknown,2018.0,17851,Automatic,13079.0,Diesel,0.0,56.5,1.5
+ A Class,2018.0,22995,Semi-Auto,7009.0,Petrol,0.0,53.3,1.3
+unknown,2016.0,15000,Automatic,0.0,Diesel,20.0,70.6,2.1
+ A Class,2017.6666666666667,20990,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ GLE Class,2017.0,29450,Automatic,30000.0,Diesel,145.0,42.8,3.0
+ E Class,2017.0,16950,Automatic,92173.0,Diesel,20.0,72.4,2.0
+unknown,2017.0,15999,Automatic,24518.0,Diesel,0.0,65.7,2.0
+unknown,2018.6666666666667,41990,Automatic,4569.0,Diesel,145.0,40.9,2.0
+ GLE Class,2017.0,27692,Semi-Auto,29548.0,Diesel,260.0,42.8,2.0
+ C Class,2019.0,29899,Semi-Auto,0.0,Diesel,0.0,57.7,2.0
+unknown,2019.0,34269,Automatic,1000.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,26190,Automatic,7126.0,Petrol,145.0,47.1,2.0
+ C Class,2019.0,34449,Semi-Auto,0.0,Diesel,0.0,54.3,2.0
+unknown,2019.0,41519,Semi-Auto,1000.0,Diesel,0.0,42.8,3.0
+ C Class,2019.0,26599,Semi-Auto,8912.0,Diesel,145.0,61.4,2.0
+ A Class,2018.6666666666667,19990,Manual,14210.0,Petrol,145.0,28.5,1.3
+ SLK,2015.6666666666667,6775,Automatic,0.0,Petrol,290.0,56.5,1.8
+ A Class,2017.6666666666667,25890,Automatic,0.0,Diesel,0.0,62.8,2.0
+unknown,2015.0,14998,Semi-Auto,0.0,Diesel,20.0,56.5,2.1
+unknown,2019.0,75729,Semi-Auto,0.0,Petrol,0.0,22.1,4.0
+ C Class,2019.0,29999,Semi-Auto,13109.0,Diesel,145.0,56.5,2.0
+ S Class,2015.0,26498,Semi-Auto,27343.0,Diesel,200.0,48.7,3.0
+ C Class,2019.0,25599,Semi-Auto,12300.0,Petrol,145.0,47.1,2.0
+ C Class,2017.0,33202,Automatic,0.0,Petrol,145.0,34.0,3.0
+ C Class,2019.0,25316,Semi-Auto,12695.0,Petrol,0.0,44.1,2.0
+ C Class,2019.0,40749,Semi-Auto,7749.0,Petrol,145.0,56.5,3.0
+ SL CLASS,2017.0,34950,Automatic,16558.0,Petrol,145.0,36.7,2.0
+ A Class,2016.0,19798,Automatic,17567.0,Petrol,0.0,56.5,2.0
+ C Class,2019.0,29099,Semi-Auto,0.0,Petrol,145.0,47.1,2.0
+ E Class,2018.6666666666667,37699,Semi-Auto,7779.0,Diesel,145.0,48.7,3.0
+ C Class,2017.0,17282,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ GLA Class,2016.0,15290,Manual,0.0,Diesel,20.0,64.2,2.1
+unknown,2017.0,18991,Semi-Auto,23437.0,Diesel,0.0,56.5,2.1
+ GLA Class,2017.0,16200,Manual,20000.0,Petrol,0.0,48.7,2.0
+ B Class,2019.0,22890,Semi-Auto,12250.0,Diesel,0.0,56.5,2.0
+ B Class,2019.0,26440,Automatic,3803.0,Diesel,145.0,54.3,2.0
+ A Class,2018.3333333333333,14991,Automatic,16724.0,Petrol,160.0,44.1,2.0
+ M Class,2015.0,23249,Semi-Auto,0.0,Diesel,300.0,39.2,3.0
+ GLS Class,2018.0,69990,Automatic,0.0,Diesel,0.0,56.5,3.0
+ A Class,2014.0,16860,Automatic,20011.0,Petrol,145.0,45.6,2.0
+ V Class,2019.0,45800,Automatic,18.0,Diesel,0.0,56.5,2.0
+ S Class,2017.0,30795,Automatic,35980.0,Diesel,160.0,52.3,3.0
+ GLE Class,2018.6666666666667,62495,Semi-Auto,0.0,Petrol,145.0,23.9,5.5
+ A Class,2015.0,13000,Manual,0.0,Petrol,0.0,56.5,2.0
+ A Class,2017.6666666666667,14500,Manual,25414.0,Petrol,150.0,51.4,1.6
+ E Class,2015.6666666666667,11000,Automatic,65792.0,Diesel,30.0,58.9,2.1
+ CLS Class,2018.3333333333333,12795,Automatic,59210.0,Diesel,200.0,56.5,2.0
+ GL Class,2013.0,25998,Automatic,60462.0,Diesel,325.0,35.3,3.0
+ A Class,2018.0,19012,Semi-Auto,14314.0,Petrol,0.0,53.3,1.6
+ A Class,2016.3333333333333,13999,Semi-Auto,0.0,Diesel,20.0,64.2,2.1
+ C Class,2017.6666666666667,34498,Automatic,3000.0,Diesel,0.0,56.5,2.0
+ E Class,2019.0,26980,Semi-Auto,14105.0,Diesel,145.0,67.3,2.0
+ A Class,2016.6666666666667,15999,Semi-Auto,0.0,Diesel,20.0,56.5,2.1
+ CLS Class,2019.0,39999,Semi-Auto,3194.0,Diesel,145.0,45.6,2.0
+ C Class,2019.0,32549,Automatic,1000.0,Diesel,0.0,56.5,2.0
+unknown,2016.0,20677,Automatic,11868.0,Petrol,200.0,43.5,2.0
+ C Class,2017.0,22290,Automatic,0.0,Diesel,30.0,65.7,2.1
+unknown,2018.3333333333333,30000,Semi-Auto,0.0,Diesel,150.0,58.9,2.0
+ A Class,2016.6666666666667,12498,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ C Class,2019.0,34199,Semi-Auto,4229.0,Diesel,145.0,56.5,2.0
+ A Class,2019.0,19840,Automatic,6781.0,Petrol,0.0,28.5,1.3
+unknown,2016.0,9695,Automatic,49480.0,Diesel,30.0,64.2,1.5
+ E Class,2019.0,28980,Semi-Auto,10156.0,Diesel,145.0,58.9,2.0
+ C Class,2016.0,17682,Semi-Auto,27852.0,Diesel,30.0,64.2,2.1
+ E Class,2017.6666666666667,19000,Automatic,32555.0,Diesel,0.0,72.4,2.0
+ GLE Class,2017.6666666666667,27000,Automatic,33555.0,Diesel,0.0,56.5,2.0
+ S Class,2018.6666666666667,58700,Automatic,3767.0,Diesel,145.0,52.3,3.0
+ C Class,2014.0,12295,Automatic,0.0,Petrol,160.0,56.5,2.0
+ B Class,2014.0,8699,Manual,59587.0,Diesel,30.0,61.4,1.5
+ GLA Class,2018.0,20000,Automatic,23974.0,Diesel,150.0,56.5,2.1
+ A Class,2018.0,17699,Manual,0.0,Petrol,145.0,56.5,1.6
+ A Class,2018.3333333333333,14489,Automatic,55345.0,Petrol,160.0,44.1,2.0
+unknown,2017.0,13499,Manual,26402.0,Diesel,145.0,72.4,2.0
+unknown,2018.0,20822,Automatic,10002.0,Petrol,145.0,44.8,2.0
+unknown,2019.0,45394,Automatic,1350.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,19950,Automatic,23000.0,Diesel,0.0,61.4,2.1
+ C Class,2018.6666666666667,7490,Automatic,96000.0,Diesel,145.0,55.4,2.0
+ GLC Class,2018.6666666666667,29440,Semi-Auto,9690.0,Diesel,145.0,56.5,2.0
+unknown,2008.0,5780,Automatic,67979.0,Petrol,0.0,34.9,1.8
+unknown,2019.0,21795,Semi-Auto,7326.0,Petrol,0.0,44.8,1.6
+unknown,2015.6666666666667,11900,Automatic,0.0,Diesel,20.0,70.6,1.5
+ C Class,2016.0,16298,Semi-Auto,29201.0,Diesel,30.0,64.2,1.6
+unknown,2019.0,38999,Automatic,4300.0,Petrol,145.0,56.5,3.0
+unknown,2019.0,22550,Automatic,0.0,Diesel,0.0,55.4,2.0
+ SLK,2001.0,3950,Automatic,91000.0,Petrol,0.0,30.0,2.0
+unknown,2018.6666666666667,26491,Semi-Auto,3378.0,Diesel,145.0,55.4,2.0
+ C Class,2019.0,30480,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+ GLA Class,2019.0,25299,Automatic,3130.0,Diesel,0.0,64.2,2.0
+ C Class,2018.6666666666667,24299,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+ CL Class,2015.6666666666667,13490,Automatic,63797.0,Diesel,20.0,68.9,2.1
+ E Class,2018.3333333333333,22998,Semi-Auto,9926.0,Diesel,150.0,65.7,2.0
+ A Class,2017.0,12400,Manual,0.0,Diesel,0.0,56.5,2.0
+unknown,2019.0,46980,Semi-Auto,7659.0,Diesel,145.0,56.5,3.0
+unknown,2014.0,15998,Semi-Auto,42514.0,Diesel,0.0,62.8,2.1
+ GLC Class,2018.0,29990,Semi-Auto,22420.0,Diesel,0.0,56.5,2.1
+unknown,2017.6666666666667,44631,Automatic,4000.0,Diesel,0.0,56.5,2.0
+unknown,2019.0,22096,Automatic,0.0,Diesel,145.0,56.5,1.5
+ GLC Class,2016.0,27900,Automatic,73358.0,Petrol,300.0,34.0,3.0
+ C Class,2016.0,19999,Automatic,30497.0,Hybrid,0.0,134.5,2.0
+ GL Class,2018.3333333333333,30990,Automatic,72000.0,Diesel,300.0,56.5,2.0
+ B Class,2019.0,22480,Semi-Auto,14791.0,Petrol,145.0,45.6,1.3
+ GLA Class,2015.0,14500,Automatic,0.0,Diesel,30.0,62.8,2.0
+ CL Class,2016.0,16989,Manual,0.0,Petrol,125.0,56.5,1.6
+unknown,2018.0,28124,Semi-Auto,15329.0,Diesel,0.0,51.4,3.0
+unknown,2019.0,19499,Semi-Auto,12755.0,Diesel,150.0,68.9,1.5
+ A Class,2020.0,24980,Manual,16.0,Petrol,145.0,56.5,1.3
+unknown,2020.0,39309,Semi-Auto,1000.0,Diesel,145.0,46.3,2.0
+unknown,2018.6666666666667,27298,Semi-Auto,0.0,Petrol,145.0,40.4,2.0
+unknown,2017.0,24180,Semi-Auto,10139.0,Diesel,125.0,56.5,2.1
+ C Class,2020.0,61995,Automatic,20.0,Petrol,145.0,33.6,4.0
+ E Class,2017.0,21199,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ A Class,2018.0,20899,Semi-Auto,0.0,Petrol,0.0,56.5,2.0
+ C Class,2017.0,20995,Semi-Auto,0.0,Diesel,0.0,58.9,2.0
+unknown,2017.0,24498,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ A Class,2018.0,18298,Manual,25000.0,Diesel,145.0,68.9,1.5
+unknown,2019.0,22399,Semi-Auto,4028.0,Diesel,0.0,56.5,2.0
+unknown,2015.0,15695,Automatic,0.0,Diesel,150.0,56.5,2.0
+ A Class,2017.0,12563,Manual,43043.0,Diesel,145.0,56.5,1.5
+unknown,2017.0,22706,Semi-Auto,0.0,Diesel,30.0,65.7,2.0
+ C Class,2017.6666666666667,24899,Semi-Auto,3335.0,Diesel,0.0,56.5,2.0
+ C Class,2019.0,30399,Semi-Auto,3964.0,Petrol,145.0,44.1,2.0
+unknown,2018.0,30982,Semi-Auto,2114.0,Petrol,145.0,39.2,2.0
+ A Class,2016.0,15400,Automatic,0.0,Diesel,0.0,68.9,2.1
+ E Class,2016.0,15790,Semi-Auto,43280.0,Diesel,125.0,56.5,2.0
+ B Class,2016.0,14995,Semi-Auto,26109.0,Diesel,20.0,68.9,2.1
+ A Class,2019.0,126000,Automatic,250.0,Petrol,0.0,24.6,2.0
+ E Class,2016.0,19999,Semi-Auto,27663.0,Diesel,30.0,56.5,2.0
+unknown,2019.0,36980,Semi-Auto,8610.0,Petrol,145.0,29.4,2.0
+ A Class,2016.0,13490,Semi-Auto,33530.0,Diesel,20.0,74.3,1.5
+unknown,2016.6666666666667,13000,Semi-Auto,60500.0,Diesel,0.0,56.5,2.1
+unknown,2017.0,19495,Semi-Auto,0.0,Diesel,0.0,64.2,2.1
+ GLC Class,2017.0,21600,Automatic,54609.0,Diesel,125.0,56.5,2.1
+ C Class,2014.0,10995,Semi-Auto,0.0,Diesel,0.0,53.3,2.1
+ GLA Class,2019.0,24299,Semi-Auto,9808.0,Diesel,145.0,56.5,2.0
+ CL Class,2016.3333333333333,15990,Automatic,53000.0,Diesel,30.0,56.5,2.1
+ A Class,2018.6666666666667,17950,Automatic,10498.0,Diesel,150.0,65.7,1.5
+ CLA Class,2017.0,16600,Manual,35580.0,Petrol,150.0,56.5,2.0
+ C Class,2019.0,31998,Semi-Auto,2000.0,Petrol,145.0,42.2,2.0
+ GL Class,2015.0,15999,Automatic,39775.0,Diesel,125.0,55.4,2.0
+ E Class,2016.0,18037,Semi-Auto,25593.0,Diesel,125.0,56.5,2.0
+ CL Class,2016.0,17970,Semi-Auto,32517.0,Diesel,20.0,67.3,2.1
+ A Class,2019.0,18480,Semi-Auto,17551.0,Diesel,145.0,65.7,2.0
+ A Class,2020.0,26000,Semi-Auto,4250.0,Petrol,0.0,53.3,1.3
+unknown,2015.0,15298,Semi-Auto,59925.0,Hybrid,0.0,134.5,2.0
+ B Class,2019.0,26299,Semi-Auto,3127.0,Diesel,145.0,55.4,2.0
+ GLE Class,2017.0,26998,Semi-Auto,37610.0,Diesel,150.0,42.8,3.0
+ A Class,2017.0,14300,Manual,37021.0,Diesel,145.0,56.5,1.5
+ GL Class,2007.0,7340,Automatic,0.0,Diesel,0.0,56.5,2.0
+ A Class,2013.0,11800,Automatic,0.0,Diesel,30.0,64.2,2.0
+ E Class,2017.6666666666667,40999,Semi-Auto,506.0,Hybrid,0.0,56.5,2.0
+ E Class,2018.0,27786,Semi-Auto,14288.0,Diesel,0.0,70.6,2.0
+ A Class,2015.0,10700,Manual,39884.0,Diesel,30.0,64.2,2.1
+ GLA Class,2015.0,20999,Semi-Auto,13510.0,Diesel,0.0,56.5,2.1
+unknown,2018.3333333333333,24299,Semi-Auto,20000.0,Diesel,0.0,54.3,3.0
+ C Class,2018.0,19998,Semi-Auto,15383.0,Petrol,145.0,46.3,1.5
+unknown,2019.0,19799,Semi-Auto,14311.0,Petrol,145.0,46.3,1.5
+ A Class,2018.0,19127,Semi-Auto,0.0,Diesel,145.0,65.7,1.5
+ B Class,2019.0,26899,Semi-Auto,807.0,Diesel,0.0,55.4,2.0
+ GLC Class,2017.0,38000,Semi-Auto,18120.0,Petrol,150.0,34.0,3.0
+unknown,2016.0,17990,Automatic,39000.0,Diesel,0.0,65.7,2.0
+ GLA Class,2015.6666666666667,19932,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+ GLA Class,2018.6666666666667,23995,Automatic,2648.0,Petrol,145.0,37.2,2.0
+ GLC Class,2018.6666666666667,30799,Automatic,9886.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,17980,Semi-Auto,32259.0,Diesel,30.0,64.2,2.1
+unknown,2020.0,29495,Manual,500.0,Petrol,145.0,37.2,1.6
+ GLA Class,2015.0,16490,Automatic,0.0,Diesel,30.0,62.8,2.1
+ C Class,2019.0,30890,Automatic,0.0,Diesel,0.0,61.4,2.0
+unknown,2015.0,15499,Semi-Auto,74500.0,Diesel,145.0,54.3,2.0
+ CLS Class,2007.0,4395,Automatic,90000.0,Diesel,300.0,56.5,3.0
+unknown,2013.0,9995,Manual,0.0,Diesel,20.0,56.5,1.5
+unknown,2019.0,32069,Semi-Auto,0.0,Diesel,145.0,64.2,2.0
+ E Class,2018.6666666666667,21998,Automatic,21707.0,Diesel,145.0,61.4,2.0
+ C Class,2018.0,33980,Semi-Auto,0.0,Petrol,145.0,35.3,3.0
+ GLE Class,2019.0,48291,Automatic,10835.0,Petrol,145.0,56.5,3.0
+unknown,2016.0,11970,Semi-Auto,65164.0,Diesel,20.0,56.5,1.5
+unknown,2017.0,16500,Automatic,17920.0,Diesel,0.0,74.3,2.0
+unknown,2019.0,23995,Semi-Auto,0.0,Petrol,150.0,50.4,2.0
+ B Class,2019.0,24699,Semi-Auto,1583.0,Petrol,145.0,44.8,1.3
+ CL Class,2019.0,26099,Semi-Auto,13417.0,Diesel,145.0,51.4,2.0
+ C Class,2016.0,17400,Automatic,27036.0,Hybrid,0.0,134.5,2.0
+ E Class,2017.0,22149,Semi-Auto,13797.0,Diesel,145.0,61.4,2.0
+unknown,2015.6666666666667,14670,Automatic,62119.0,Diesel,125.0,60.1,2.1
+ C Class,2018.6666666666667,25995,Automatic,0.0,Diesel,145.0,56.5,2.1
+ C Class,2019.0,27998,Automatic,5144.0,Diesel,145.0,56.5,2.0
+ GLC Class,2018.0,30423,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,20299,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ B Class,2016.0,14490,Semi-Auto,0.0,Diesel,20.0,68.9,1.5
+ A Class,2018.6666666666667,22495,Semi-Auto,10856.0,Petrol,145.0,56.5,1.3
+ SL CLASS,2019.0,47789,Automatic,2000.0,Petrol,145.0,56.5,3.0
+unknown,2019.0,23399,Automatic,0.0,Petrol,145.0,44.1,1.5
+ C Class,2018.0,18849,Semi-Auto,14318.0,Petrol,145.0,56.5,2.0
+unknown,2014.0,12299,Manual,0.0,Diesel,20.0,70.6,2.0
+ C Class,2017.0,17488,Automatic,29645.0,Petrol,125.0,52.3,2.0
+unknown,2017.0,23495,Semi-Auto,23033.0,Diesel,30.0,65.7,2.1
+unknown,2016.0,31990,Automatic,0.0,Other,0.0,76.4,3.0
+unknown,2017.0,26620,Semi-Auto,48551.0,Diesel,145.0,47.9,2.0
+unknown,2017.0,21490,Semi-Auto,54000.0,Diesel,0.0,56.5,2.1
+ A Class,2018.0,18220,Automatic,0.0,Diesel,0.0,56.5,1.5
+ C Class,2019.0,25849,Semi-Auto,6685.0,Petrol,0.0,46.3,2.0
+ A Class,2016.0,16260,Semi-Auto,0.0,Diesel,20.0,74.3,1.5
+ GLB Class,2018.6666666666667,36880,Semi-Auto,3001.0,Diesel,145.0,44.8,2.0
+ GLA Class,2018.0,22000,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,29299,Semi-Auto,0.0,Petrol,0.0,44.1,2.0
+ E Class,2019.0,37199,Semi-Auto,0.0,Diesel,145.0,48.7,3.0
+ C Class,2019.0,25999,Semi-Auto,14895.0,Diesel,145.0,61.4,2.0
+ C Class,2016.0,17820,Semi-Auto,30748.0,Diesel,20.0,68.9,2.1
+ A Class,2016.0,15999,Manual,24017.0,Petrol,0.0,49.6,1.6
+ A Class,2016.0,12750,Manual,27539.0,Petrol,0.0,51.4,1.6
+ C Class,2018.6666666666667,31699,Semi-Auto,9839.0,Diesel,145.0,54.3,2.0
+ C Class,2016.0,18600,Automatic,24836.0,Diesel,30.0,64.2,1.6
+ A Class,2018.6666666666667,21290,Automatic,0.0,Diesel,145.0,56.5,1.5
+ A Class,2019.0,20280,Semi-Auto,13632.0,Diesel,0.0,65.7,2.0
+unknown,2019.0,24399,Semi-Auto,15028.0,Petrol,0.0,46.3,1.5
+unknown,2016.3333333333333,16799,Semi-Auto,21000.0,Diesel,0.0,55.4,2.1
+ C Class,2018.6666666666667,34799,Semi-Auto,3435.0,Petrol,145.0,44.1,1.5
+ SL CLASS,2019.0,29995,Semi-Auto,8000.0,Petrol,150.0,56.5,2.0
+ E Class,2019.0,25480,Semi-Auto,14763.0,Diesel,145.0,72.4,2.0
+ E Class,2017.6666666666667,26199,Semi-Auto,2000.0,Diesel,0.0,72.4,2.0
+ CLS Class,2017.3333333333333,23166,Automatic,35625.0,Diesel,165.0,49.6,3.0
+ A Class,2018.6666666666667,12900,Manual,0.0,Diesel,145.0,80.7,1.5
+ CL Class,2015.0,16091,Semi-Auto,50500.0,Diesel,20.0,67.3,2.1
+ C Class,2014.0,11290,Automatic,48000.0,Diesel,145.0,56.5,2.1
+ CL Class,2018.3333333333333,18500,Manual,0.0,Diesel,20.0,56.5,2.0
+ C Class,2015.0,16999,Semi-Auto,32119.0,Diesel,30.0,56.5,2.0
+ C Class,2019.0,25699,Semi-Auto,15067.0,Diesel,145.0,61.4,2.0
+ C Class,2019.0,36980,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+unknown,2019.0,42799,Automatic,5001.0,Petrol,145.0,29.7,3.0
+ C Class,2018.0,23247,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,20988,Automatic,0.0,Diesel,30.0,64.2,1.6
+ E Class,2017.3333333333333,19400,Automatic,34000.0,Diesel,0.0,51.4,3.0
+ C Class,2020.0,35900,Automatic,3000.0,Diesel,145.0,61.4,2.0
+ GLC Class,2018.6666666666667,26250,Automatic,59180.0,Diesel,145.0,56.5,2.1
+ C Class,2016.0,13295,Automatic,0.0,Hybrid,0.0,134.5,2.0
+ GLA Class,2018.6666666666667,22999,Semi-Auto,12904.0,Diesel,145.0,67.3,2.0
+unknown,2018.6666666666667,20000,Semi-Auto,0.0,Diesel,145.0,68.9,2.0
+unknown,2018.0,21000,Automatic,29679.0,Diesel,145.0,72.4,2.0
+unknown,2018.0,27000,Automatic,0.0,Diesel,150.0,56.5,2.1
+ CLS Class,2016.0,19999,Automatic,30422.0,Diesel,145.0,56.5,2.0
+ GLE Class,2015.0,26680,Semi-Auto,0.0,Diesel,260.0,42.8,3.0
+ GLC Class,2018.3333333333333,18990,Semi-Auto,70560.0,Diesel,125.0,56.5,2.0
+ A Class,2015.0,13995,Semi-Auto,0.0,Diesel,20.0,74.3,2.0
+ C Class,2017.6666666666667,41500,Semi-Auto,3805.0,Petrol,0.0,30.4,2.0
+ GLA Class,2017.0,16999,Manual,33014.0,Petrol,145.0,48.7,1.6
+unknown,2018.6666666666667,25999,Semi-Auto,8396.0,Diesel,145.0,72.4,2.0
+ E Class,2017.6666666666667,18391,Automatic,38198.0,Diesel,0.0,72.4,2.0
+ C Class,2018.6666666666667,19000,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+ GLA Class,2018.6666666666667,19780,Manual,18458.0,Petrol,145.0,56.5,1.6
+unknown,2018.0,16552,Semi-Auto,14230.0,Diesel,0.0,56.5,2.0
+ V Class,2016.0,17998,Manual,0.0,Diesel,200.0,46.3,2.1
+ V Class,2018.6666666666667,39995,Automatic,1659.0,Diesel,145.0,44.8,2.1
+unknown,2018.0,22900,Semi-Auto,23831.0,Diesel,145.0,60.1,2.1
+unknown,2018.6666666666667,30675,Automatic,1550.0,Diesel,145.0,56.5,2.0
+unknown,2016.6666666666667,15998,Semi-Auto,0.0,Diesel,125.0,60.1,2.1
+unknown,2019.0,31000,Semi-Auto,16313.0,Diesel,150.0,44.8,2.0
+ A Class,2019.0,20096,Automatic,7032.0,Diesel,145.0,68.9,2.0
+unknown,2019.0,48249,Semi-Auto,6510.0,Diesel,145.0,37.2,2.0
+ C Class,2017.0,21991,Semi-Auto,0.0,Diesel,0.0,67.3,2.0
+ A Class,2018.3333333333333,20400,Semi-Auto,17504.0,Petrol,200.0,42.8,2.0
+ CLA Class,2016.0,19748,Automatic,0.0,Diesel,0.0,67.3,2.1
+ GLC Class,2019.0,49569,Semi-Auto,0.0,Petrol,0.0,26.7,3.0
+ C Class,2019.0,28800,Semi-Auto,3116.0,Petrol,145.0,44.1,2.0
+ C Class,2019.0,26500,Semi-Auto,3000.0,Diesel,0.0,56.5,1.6
+unknown,2019.0,29532,Semi-Auto,0.0,Petrol,150.0,40.9,2.0
+unknown,2017.6666666666667,29998,Semi-Auto,40479.0,Diesel,0.0,45.6,2.0
+ GLC Class,2016.0,30752,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+ C Class,2019.0,25399,Semi-Auto,13654.0,Petrol,145.0,47.1,1.5
+unknown,2018.6666666666667,22549,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+ C Class,2019.0,25899,Semi-Auto,10662.0,Petrol,145.0,56.5,2.0
+ C Class,2017.0,15652,Automatic,20418.0,Diesel,20.0,56.5,2.1
+ CLA Class,2017.0,15500,Manual,31875.0,Diesel,0.0,67.3,2.1
+ B Class,2017.0,16495,Semi-Auto,15578.0,Diesel,0.0,68.9,2.1
+unknown,2019.0,39480,Automatic,3341.0,Diesel,0.0,48.7,3.0
+ C Class,2018.0,21991,Automatic,0.0,Diesel,150.0,61.4,2.1
+unknown,2018.0,27998,Semi-Auto,0.0,Diesel,145.0,57.7,2.0
+unknown,2018.0,23995,Semi-Auto,0.0,Diesel,145.0,67.3,2.1
+ C Class,2017.0,17490,Automatic,0.0,Diesel,145.0,56.5,2.1
+ C Class,2017.0,13980,Manual,21300.0,Petrol,150.0,53.3,2.0
+ A Class,2014.0,11980,Automatic,66690.0,Diesel,20.0,64.2,2.1
+ A Class,2015.6666666666667,10759,Automatic,33403.0,Diesel,20.0,70.6,1.5
+ A Class,2019.0,24999,Automatic,0.0,Petrol,145.0,53.3,1.3
+ A Class,2018.0,16799,Manual,0.0,Diesel,0.0,68.9,1.5
+ C Class,2018.6666666666667,32995,Semi-Auto,24.0,Petrol,145.0,42.2,2.0
+ GLA Class,2016.0,19012,Semi-Auto,39577.0,Diesel,125.0,56.5,2.1
+ CLS Class,2018.6666666666667,20699,Semi-Auto,23629.0,Diesel,145.0,56.5,2.0
+ GLC Class,2016.6666666666667,23994,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ GL Class,2016.0,15699,Manual,26809.0,Diesel,20.0,67.3,2.1
+ A Class,2020.0,25879,Semi-Auto,0.0,Petrol,0.0,53.3,1.3
+unknown,2016.0,13490,Manual,35000.0,Petrol,0.0,56.5,2.0
+ E Class,2015.0,12340,Semi-Auto,54040.0,Diesel,125.0,60.1,2.1
+ C Class,2018.6666666666667,27500,Semi-Auto,5866.0,Petrol,145.0,56.5,1.5
+ GLE Class,2018.0,15491,Semi-Auto,0.0,Diesel,150.0,56.5,2.0
+ X-CLASS,2018.3333333333333,28990,Automatic,18000.0,Diesel,0.0,35.8,2.3
+ GLA Class,2016.0,15400,Automatic,0.0,Diesel,0.0,56.5,2.1
+ GLE Class,2017.6666666666667,30298,Semi-Auto,14786.0,Diesel,200.0,47.9,2.0
+ A Class,2018.6666666666667,23399,Semi-Auto,7216.0,Petrol,145.0,53.3,1.3
+ GLE Class,2018.6666666666667,36990,Semi-Auto,16000.0,Diesel,145.0,39.2,2.0
+ B Class,2019.0,19424,Automatic,0.0,Petrol,145.0,45.6,1.3
+unknown,2017.0,17973,Semi-Auto,69791.0,Hybrid,0.0,74.3,2.1
+ A Class,2016.0,15549,Semi-Auto,0.0,Diesel,20.0,68.9,2.1
+unknown,2019.0,26500,Automatic,6995.0,Diesel,0.0,57.7,2.0
+ A Class,2016.0,11400,Manual,44277.0,Diesel,0.0,80.7,1.5
+ E Class,2018.6666666666667,35849,Semi-Auto,9084.0,Diesel,145.0,42.8,2.0
+ C Class,2018.3333333333333,18340,Semi-Auto,38609.0,Diesel,30.0,56.5,2.0
+ E Class,2016.0,15995,Semi-Auto,0.0,Diesel,0.0,58.9,2.1
+unknown,2018.6666666666667,27980,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+ GLE Class,2018.6666666666667,53499,Semi-Auto,0.0,Diesel,145.0,56.5,3.0
+ C Class,2017.0,19480,Semi-Auto,16419.0,Diesel,30.0,64.2,2.0
+ A Class,2016.0,12000,Manual,33469.0,Diesel,0.0,80.7,1.5
+ A Class,2019.0,18499,Semi-Auto,18588.0,Diesel,145.0,65.7,1.5
+ GLA Class,2017.0,17699,Manual,28500.0,Petrol,145.0,47.1,1.6
+ E Class,2018.6666666666667,25499,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ CL Class,2019.0,39101,Automatic,8435.0,Petrol,0.0,32.8,2.0
+ A Class,2020.0,25879,Semi-Auto,1000.0,Petrol,145.0,53.3,1.3
+ C Class,2018.6666666666667,29480,Semi-Auto,3999.0,Diesel,145.0,54.3,1.6
+ GLC Class,2020.0,43980,Semi-Auto,16.0,Diesel,0.0,40.9,2.0
+ A Class,2018.6666666666667,16799,Manual,14129.0,Petrol,145.0,49.6,2.0
+ GLA Class,2018.6666666666667,22299,Semi-Auto,4684.0,Diesel,145.0,67.3,2.1
+unknown,2018.3333333333333,27498,Semi-Auto,0.0,Diesel,145.0,42.8,3.0
+ A Class,2016.0,14038,Manual,0.0,Diesel,0.0,72.4,1.5
+ A Class,2017.3333333333333,22699,Automatic,0.0,Diesel,0.0,56.5,1.5
+unknown,2017.0,23000,Semi-Auto,30000.0,Diesel,165.0,51.4,3.0
+unknown,2018.3333333333333,18124,Semi-Auto,45868.0,Diesel,30.0,56.5,2.0
+ C Class,2017.0,16679,Automatic,0.0,Diesel,145.0,56.5,2.1
+ A Class,2016.0,11799,Automatic,18487.0,Petrol,125.0,52.3,1.6
+ SL CLASS,2018.0,39900,Automatic,12975.0,Petrol,145.0,56.5,3.0
+unknown,2018.3333333333333,10630,Semi-Auto,0.0,Diesel,30.0,65.7,2.0
+ A Class,2011.0,5499,Automatic,52235.0,Petrol,205.0,41.5,2.0
+ GL Class,2016.0,16995,Manual,0.0,Diesel,20.0,67.3,2.1
+ S Class,2018.0,59995,Automatic,0.0,Diesel,140.0,52.3,2.9
+unknown,2020.0,27990,Semi-Auto,999.0,Petrol,145.0,56.5,1.3
+ S Class,2019.0,86699,Automatic,0.0,Petrol,145.0,56.5,4.0
+ B Class,2019.0,25980,Semi-Auto,16.0,Diesel,145.0,56.5,2.0
+unknown,2019.0,44890,Automatic,0.0,Diesel,145.0,37.2,3.0
+unknown,2017.0,22299,Automatic,18557.0,Diesel,145.0,65.7,2.0
+unknown,2019.0,25299,Automatic,2838.0,Diesel,0.0,64.2,2.0
+ S Class,2016.0,57000,Automatic,14000.0,Petrol,555.0,56.5,2.0
+unknown,2016.3333333333333,25995,Automatic,10051.0,Diesel,0.0,64.2,2.0
+ SL CLASS,2016.0,20498,Semi-Auto,10643.0,Diesel,30.0,70.6,2.0
+unknown,2015.0,9791,Manual,0.0,Diesel,20.0,56.5,2.1
+ SLK,2018.6666666666667,14298,Semi-Auto,21624.0,Diesel,145.0,56.5,2.0
+ GLA Class,2020.0,27980,Semi-Auto,0.0,Petrol,145.0,35.8,1.6
+ E Class,2018.6666666666667,27790,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,23899,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+unknown,2014.0,12900,Semi-Auto,45844.0,Diesel,20.0,68.9,2.1
+ GLC Class,2019.0,30500,Semi-Auto,8696.0,Diesel,0.0,56.5,2.1
+unknown,2019.0,20676,Automatic,14163.0,Diesel,145.0,61.4,2.0
+ C Class,2017.6666666666667,18599,Automatic,32854.0,Diesel,0.0,61.4,2.0
+ GLA Class,2018.6666666666667,23512,Semi-Auto,0.0,Diesel,145.0,56.5,2.1
+ C Class,2016.0,16980,Semi-Auto,0.0,Diesel,20.0,65.7,2.1
+ C Class,2017.3333333333333,11400,Manual,25698.0,Diesel,20.0,56.5,1.6
+ GLE Class,2018.0,34995,Semi-Auto,0.0,Petrol,0.0,56.5,3.0
+unknown,2016.0,19860,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ A Class,2018.6666666666667,25729,Semi-Auto,1000.0,Petrol,145.0,53.3,1.3
+ E Class,2017.0,21699,Semi-Auto,19457.0,Diesel,0.0,72.4,2.0
+ GLE Class,2015.0,27649,Semi-Auto,12019.0,Diesel,200.0,56.5,2.1
+ A Class,2015.6666666666667,16099,Semi-Auto,0.0,Diesel,20.0,68.9,2.1
+ A Class,2018.6666666666667,25980,Semi-Auto,200.0,Petrol,145.0,53.3,2.0
+ C Class,2016.0,22999,Semi-Auto,0.0,Diesel,20.0,56.5,2.1
+ C Class,2016.0,14933,Manual,21553.0,Diesel,20.0,56.5,1.6
+unknown,2016.0,23991,Automatic,27500.0,Petrol,200.0,42.8,2.0
+ C Class,2016.3333333333333,13900,Automatic,57081.0,Diesel,30.0,56.5,2.1
+unknown,2013.0,8491,Automatic,97000.0,Diesel,0.0,65.7,1.8
+ GLC Class,2015.6666666666667,25299,Semi-Auto,32000.0,Diesel,125.0,56.5,2.1
+ E Class,2017.0,20998,Semi-Auto,0.0,Diesel,0.0,52.3,3.0
+unknown,2019.0,20495,Semi-Auto,0.0,Diesel,0.0,58.9,1.5
+ GLA Class,2017.0,20662,Automatic,32722.0,Diesel,145.0,56.5,2.1
+ B Class,2019.0,27299,Semi-Auto,8768.0,Diesel,0.0,56.5,2.0
+unknown,2016.0,27577,Automatic,0.0,Diesel,145.0,56.5,2.1
+ CL Class,2018.6666666666667,21936,Automatic,0.0,Diesel,145.0,50.4,2.2
+ A Class,2017.0,15700,Automatic,19286.0,Diesel,145.0,56.5,1.5
+ C Class,2018.0,28699,Semi-Auto,0.0,Diesel,145.0,57.7,2.0
+unknown,2016.0,17999,Automatic,13660.0,Petrol,125.0,52.3,2.0
+ E Class,2019.0,38995,Semi-Auto,8356.0,Diesel,0.0,56.5,2.0
+ A Class,2018.6666666666667,33569,Semi-Auto,0.0,Petrol,145.0,35.8,2.0
+unknown,2020.0,76980,Semi-Auto,0.0,Diesel,145.0,30.4,2.0
+unknown,2017.0,24480,Semi-Auto,22469.0,Diesel,145.0,51.4,3.0
+ CL Class,2016.0,13990,Manual,72000.0,Petrol,125.0,51.4,1.6
+ V Class,2019.0,48990,Automatic,0.0,Diesel,145.0,36.7,2.0
+unknown,2014.0,8200,Manual,80047.0,Diesel,160.0,56.5,2.1
+ C Class,2017.0,19762,Automatic,36047.0,Diesel,145.0,61.4,2.1
+ C Class,2019.0,23589,Semi-Auto,13142.0,Diesel,145.0,61.4,2.0
+ A Class,2016.3333333333333,10500,Manual,45000.0,Diesel,20.0,72.4,1.5
+ B Class,2019.0,21906,Semi-Auto,13374.0,Petrol,145.0,56.5,1.3
+ C Class,2018.6666666666667,26176,Semi-Auto,14232.0,Petrol,145.0,56.5,2.0
+ GLC Class,2018.6666666666667,30049,Semi-Auto,11840.0,Diesel,145.0,56.5,2.0
+ E Class,2016.0,22636,Automatic,0.0,Diesel,0.0,50.4,3.0
+ C Class,2009.0,5295,Automatic,112000.0,Diesel,0.0,46.3,2.1
+unknown,2019.0,25079,Semi-Auto,1000.0,Petrol,145.0,53.3,2.0
+ A Class,2016.0,12999,Manual,22786.0,Diesel,0.0,80.7,1.5
+ A Class,2017.0,13000,Manual,40082.0,Diesel,0.0,72.4,1.5
+unknown,2015.0,15142,Semi-Auto,48000.0,Diesel,20.0,64.2,2.1
+ C Class,2015.0,10999,Manual,57000.0,Diesel,160.0,52.3,2.1
+unknown,2018.6666666666667,21895,Manual,408.0,Petrol,145.0,47.1,1.3
+ A Class,2017.0,17100,Manual,0.0,Petrol,145.0,51.4,1.6
+ C Class,2017.0,19100,Automatic,49335.0,Diesel,0.0,67.3,2.1
+unknown,2018.6666666666667,15499,Manual,20645.0,Diesel,145.0,56.5,1.5
+ SL CLASS,2017.0,20490,Semi-Auto,8347.0,Diesel,145.0,56.5,2.0
+ C Class,2018.0,23800,Semi-Auto,12745.0,Diesel,145.0,61.4,2.0
+ E Class,2019.0,25780,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ GLE Class,2018.6666666666667,49399,Automatic,5432.0,Diesel,145.0,36.7,3.0
+ GLA Class,2019.0,25299,Semi-Auto,2869.0,Diesel,145.0,56.5,2.0
+ C Class,2017.0,19891,Semi-Auto,77706.0,Diesel,20.0,67.3,2.1
+ A Class,2019.0,28800,Automatic,4672.0,Diesel,145.0,56.5,1.5
+ C Class,2019.0,28995,Automatic,3500.0,Diesel,145.0,56.5,2.0
+ CL Class,2020.0,30389,Semi-Auto,1000.0,Diesel,0.0,55.4,2.0
+ C Class,2015.0,12300,Automatic,85275.0,Diesel,30.0,56.5,2.1
+ A Class,2019.0,21998,Semi-Auto,11578.0,Petrol,150.0,53.3,2.0
+ B Class,2018.0,16990,Automatic,0.0,Diesel,0.0,68.9,2.0
+ A Class,2018.6666666666667,18995,Semi-Auto,21400.0,Petrol,145.0,53.3,1.3
+unknown,2016.0,9900,Automatic,0.0,Diesel,30.0,64.2,1.5
+ A Class,2016.6666666666667,15481,Semi-Auto,33000.0,Diesel,20.0,56.5,2.1
+unknown,1970.0,24999,Automatic,14000.0,Diesel,305.0,39.2,0.0
+ X-CLASS,2017.0,29990,Automatic,0.0,Diesel,260.0,35.8,2.3
+ E Class,2019.0,34980,Semi-Auto,7068.0,Diesel,0.0,57.7,2.0
+ A Class,2016.0,14722,Manual,12544.0,Diesel,20.0,72.4,2.0
+unknown,2018.0,19990,Manual,30577.0,Diesel,145.0,46.3,2.0
+ E Class,2019.0,34950,Semi-Auto,13997.0,Diesel,0.0,48.7,3.0
+unknown,2016.0,15698,Automatic,42062.0,Petrol,0.0,50.4,2.0
+ C Class,2016.0,22790,Semi-Auto,9600.0,Petrol,145.0,49.6,2.0
+unknown,2015.6666666666667,9550,Semi-Auto,69124.0,Diesel,125.0,56.5,2.1
+ A Class,2018.6666666666667,12862,Manual,34458.0,Petrol,145.0,50.4,2.0
+unknown,2018.0,20899,Automatic,0.0,Diesel,145.0,60.1,2.1
+ GLA Class,2014.0,14000,Automatic,81862.0,Diesel,150.0,55.4,2.1
+unknown,2017.0,14812,Manual,20874.0,Diesel,145.0,72.4,1.5
+ C Class,2018.0,19399,Automatic,0.0,Diesel,145.0,64.2,2.1
+ C Class,2016.3333333333333,16480,Semi-Auto,41349.0,Diesel,0.0,62.8,2.1
+ A Class,2017.0,27990,Semi-Auto,0.0,Petrol,200.0,40.9,2.0
+unknown,2020.0,62980,Semi-Auto,49.0,Diesel,145.0,32.5,2.9
+ E Class,2016.0,17498,Semi-Auto,54502.0,Diesel,20.0,72.4,2.0
+ GLE Class,2018.0,29500,Automatic,3000.0,Diesel,145.0,47.9,2.1
+ A Class,2016.6666666666667,17498,Manual,9663.0,Diesel,0.0,62.8,2.1
+unknown,2019.0,81900,Automatic,21442.0,Petrol,0.0,56.5,4.0
+unknown,2014.0,12100,Semi-Auto,55731.0,Diesel,0.0,56.5,2.1
+ GLA Class,2018.3333333333333,19699,Semi-Auto,0.0,Diesel,125.0,56.5,2.0
+ M Class,2015.0,23480,Semi-Auto,46049.0,Diesel,0.0,39.2,2.0
+unknown,2020.0,41729,Semi-Auto,1000.0,Petrol,145.0,32.8,2.0
+ GLA Class,2019.0,23599,Semi-Auto,8910.0,Petrol,145.0,56.5,2.0
+ CLS Class,2016.0,17999,Automatic,0.0,Diesel,125.0,57.7,2.1
+ E Class,2018.6666666666667,24780,Semi-Auto,13954.0,Diesel,145.0,56.5,2.0
+ GLA Class,2019.0,26399,Semi-Auto,3406.0,Diesel,145.0,56.5,2.1
+ A Class,2018.3333333333333,15480,Automatic,42609.0,Diesel,20.0,74.3,2.0
+ C Class,2018.0,26492,Semi-Auto,28801.0,Diesel,145.0,65.7,2.1
+unknown,2019.0,47980,Semi-Auto,11584.0,Diesel,145.0,56.5,3.0
+unknown,2018.0,25749,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ E Class,2017.0,21990,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+ E Class,2017.0,22750,Automatic,20737.0,Diesel,145.0,56.5,2.0
+ E Class,2017.0,20992,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ A Class,2014.0,10300,Manual,0.0,Petrol,0.0,49.6,1.6
+ A Class,2017.0,16499,Automatic,0.0,Diesel,145.0,68.9,2.1
+ E Class,2018.6666666666667,21149,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+unknown,2018.6666666666667,41349,Semi-Auto,0.0,Diesel,145.0,47.9,2.9
+ GLC Class,2019.0,38000,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ A Class,2014.0,12998,Manual,39558.0,Diesel,0.0,70.6,1.5
+unknown,2020.0,39980,Semi-Auto,0.0,Petrol,0.0,31.7,2.0
+ B Class,2019.0,23979,Semi-Auto,0.0,Diesel,0.0,55.4,2.0
+ GLC Class,2017.0,33000,Semi-Auto,28263.0,Petrol,0.0,34.0,3.0
+unknown,2019.0,46931,Semi-Auto,7650.0,Diesel,150.0,37.2,3.0
+unknown,2020.0,25209,Semi-Auto,1000.0,Diesel,145.0,56.5,1.5
+ V Class,2018.0,19750,Manual,21059.0,Diesel,145.0,46.3,2.1
+ A Class,2017.0,14500,Semi-Auto,0.0,Diesel,150.0,76.4,1.5
+ E Class,2017.0,19760,Automatic,23811.0,Diesel,145.0,56.5,2.0
+unknown,2018.3333333333333,23332,Semi-Auto,13944.0,Diesel,125.0,60.1,2.0
+ C Class,2017.6666666666667,33799,Semi-Auto,0.0,Diesel,0.0,55.4,2.0
+unknown,2019.0,25349,Semi-Auto,7894.0,Diesel,145.0,72.4,2.0
+ A Class,2014.0,11750,Manual,0.0,Diesel,20.0,70.6,1.5
+ A Class,2016.0,16411,Semi-Auto,18914.0,Diesel,20.0,68.9,2.0
+unknown,2016.0,31490,Automatic,43500.0,Petrol,0.0,34.0,3.0
+unknown,2019.0,20149,Semi-Auto,11784.0,Petrol,145.0,46.3,1.5
+unknown,2016.0,18700,Other,30895.0,Other,125.0,56.5,0.0
+unknown,2017.0,18480,Semi-Auto,43375.0,Diesel,0.0,56.5,2.1
+unknown,2016.0,15400,Automatic,41899.0,Diesel,0.0,64.2,2.1
+ V Class,2018.6666666666667,49989,Semi-Auto,1611.0,Diesel,145.0,36.7,2.0
+unknown,2019.0,32000,Automatic,0.0,Diesel,0.0,55.4,2.0
+ C Class,2016.6666666666667,15995,Automatic,0.0,Diesel,20.0,56.5,2.1
+ A Class,2013.0,12000,Automatic,0.0,Diesel,30.0,56.5,2.1
+ M Class,2015.0,19900,Automatic,32245.0,Diesel,0.0,46.3,2.0
+ C Class,2019.0,19980,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ GLA Class,2019.0,23480,Semi-Auto,12741.0,Diesel,0.0,56.5,2.0
+ GLA Class,2015.0,13995,Semi-Auto,62760.0,Diesel,20.0,62.8,2.0
+unknown,2018.3333333333333,43649,Semi-Auto,0.0,Hybrid,135.0,176.6,2.0
+unknown,2019.0,22980,Semi-Auto,8204.0,Diesel,145.0,56.5,2.0
+ C Class,2018.0,38495,Automatic,0.0,Petrol,145.0,56.5,2.0
+unknown,2018.6666666666667,20490,Semi-Auto,0.0,Diesel,145.0,70.6,2.0
+ X-CLASS,2019.0,24945,Automatic,500.0,Diesel,260.0,56.5,2.0
+ E Class,2018.6666666666667,57599,Semi-Auto,89.0,Petrol,145.0,30.1,4.0
+ GLA Class,2016.0,14995,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+ CLA Class,2017.0,20480,Automatic,0.0,Diesel,150.0,56.5,2.1
+ C Class,2019.0,29995,Automatic,0.0,Diesel,145.0,55.4,2.0
+ B Class,2020.0,28491,Semi-Auto,1329.0,Diesel,0.0,56.5,2.0
+ GLA Class,2016.6666666666667,15998,Manual,0.0,Diesel,0.0,56.5,2.1
+ A Class,2019.0,19899,Manual,11527.0,Petrol,145.0,56.5,1.3
+unknown,2018.6666666666667,32498,Semi-Auto,0.0,Diesel,0.0,45.6,3.0
+ A Class,2019.0,20799,Manual,3099.0,Petrol,0.0,28.5,1.3
+unknown,2019.0,19250,Semi-Auto,0.0,Diesel,0.0,56.5,1.5
+ C Class,2019.0,19849,Semi-Auto,14009.0,Petrol,145.0,56.5,1.5
+ GLA Class,2019.0,23899,Semi-Auto,0.0,Diesel,145.0,67.3,2.1
+ E Class,2017.0,22000,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+unknown,2016.0,15220,Semi-Auto,39656.0,Diesel,0.0,65.7,2.1
+ C Class,2016.0,20000,Automatic,30128.0,Diesel,20.0,68.9,2.1
+unknown,2018.0,19499,Automatic,10413.0,Diesel,0.0,67.3,1.5
+ C Class,2017.0,17900,Automatic,19828.0,Petrol,145.0,50.4,2.0
+unknown,2016.0,20199,Semi-Auto,0.0,Diesel,0.0,67.3,2.0
+ S Class,1999.0,5995,Automatic,34000.0,Petrol,0.0,24.6,3.2
+ E Class,2019.0,24780,Semi-Auto,0.0,Diesel,0.0,56.5,2.0
+ GLA Class,2020.0,28790,Semi-Auto,1792.0,Petrol,0.0,35.8,1.6
+ C Class,2017.0,19000,Automatic,24798.0,Diesel,20.0,68.9,2.1
+ GLE Class,2017.0,29462,Automatic,17440.0,Diesel,145.0,47.9,2.1
+ C Class,2017.6666666666667,13700,Automatic,43020.0,Diesel,20.0,65.7,2.1
+ SL CLASS,2018.6666666666667,23599,Semi-Auto,10219.0,Petrol,145.0,56.5,2.0
+ C Class,2017.0,15872,Manual,30000.0,Petrol,125.0,53.3,2.0
+ CL Class,2016.0,17899,Semi-Auto,48182.0,Diesel,20.0,67.3,2.1
+ B Class,2013.0,9000,Manual,0.0,Diesel,125.0,61.4,2.0
+ C Class,2017.0,18999,Semi-Auto,21459.0,Diesel,0.0,64.2,2.1
+ X-CLASS,2019.0,33990,Automatic,8000.0,Diesel,260.0,56.5,3.0
+ GLA Class,2015.0,18298,Automatic,34066.0,Diesel,125.0,55.4,2.1
+ B Class,2019.0,27146,Semi-Auto,9814.0,Diesel,145.0,54.3,2.0
+ SLK,2005.0,5200,Automatic,63000.0,Petrol,325.0,56.5,1.8
+ A Class,2018.6666666666667,14180,Manual,20841.0,Petrol,145.0,56.5,2.0
+unknown,2019.0,26980,Semi-Auto,0.0,Diesel,0.0,51.4,2.2
+ E Class,2018.6666666666667,24849,Semi-Auto,13910.0,Diesel,145.0,56.5,2.0
+ E Class,2019.0,24780,Semi-Auto,2000.0,Diesel,145.0,72.4,2.0
+ C Class,2017.0,21124,Semi-Auto,0.0,Diesel,30.0,56.5,2.1
+unknown,2014.0,12999,Semi-Auto,0.0,Petrol,200.0,42.2,2.0
+ C Class,2017.0,27699,Semi-Auto,33475.0,Petrol,0.0,36.2,3.0
+ GLA Class,2016.0,17000,Manual,4942.0,Diesel,0.0,64.2,2.1
+unknown,2013.0,9995,Semi-Auto,0.0,Diesel,140.0,55.4,2.1
+ GLA Class,2016.0,19500,Automatic,0.0,Diesel,0.0,56.5,2.1
+ GLA Class,2016.0,18799,Semi-Auto,41742.0,Diesel,125.0,56.5,2.0
+ A Class,2017.0,17498,Automatic,15665.0,Diesel,145.0,68.9,2.0
+ A Class,2016.0,14480,Manual,0.0,Diesel,20.0,72.4,1.5
+ B Class,2019.0,22099,Semi-Auto,14022.0,Petrol,0.0,45.6,1.3
+ GLC Class,2018.6666666666667,28299,Semi-Auto,12329.0,Diesel,145.0,41.5,2.1
+ S Class,2019.0,54899,Semi-Auto,0.0,Diesel,145.0,52.3,2.0
+unknown,2019.0,18480,Semi-Auto,18447.0,Diesel,145.0,65.7,1.5
+ E Class,2017.0,21732,Semi-Auto,0.0,Diesel,20.0,67.3,2.0
+ E Class,2020.0,38399,Semi-Auto,1000.0,Diesel,145.0,70.6,2.0
+ C Class,2014.0,15399,Automatic,20047.0,Petrol,0.0,56.5,2.0
+ C Class,2019.0,28399,Semi-Auto,3061.0,Petrol,145.0,56.5,1.5
+ C Class,2015.6666666666667,21220,Semi-Auto,32228.0,Diesel,125.0,56.5,2.1
+ E Class,2016.0,16900,Automatic,28575.0,Diesel,125.0,58.9,2.1
+ C Class,2017.0,23290,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,23849,Semi-Auto,15499.0,Petrol,145.0,46.3,1.5
+ B Class,2019.0,22400,Automatic,13866.0,Petrol,145.0,56.5,1.3
+unknown,2018.0,24775,Semi-Auto,11461.0,Diesel,145.0,56.5,2.0
+ E Class,2017.0,22998,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+ CL Class,2016.3333333333333,20991,Semi-Auto,22000.0,Diesel,0.0,58.9,2.1
+unknown,2019.0,51000,Semi-Auto,0.0,Diesel,145.0,36.7,2.0
+unknown,2016.0,16852,Semi-Auto,30506.0,Diesel,20.0,67.3,2.1
+ A Class,2020.0,27791,Semi-Auto,4158.0,Diesel,0.0,65.7,1.5
+unknown,2018.0,20570,Semi-Auto,0.0,Petrol,0.0,53.3,1.3
+ E Class,2017.0,21499,Semi-Auto,21716.0,Diesel,145.0,67.3,2.0
+ C Class,2019.0,24055,Automatic,0.0,Diesel,145.0,61.4,2.0
+ GLE Class,2018.6666666666667,56800,Automatic,2483.0,Petrol,145.0,29.5,3.0
+ GLE Class,2017.0,26000,Automatic,24053.0,Diesel,265.0,42.8,3.0
+ A Class,2018.6666666666667,24000,Semi-Auto,0.0,Petrol,150.0,53.3,1.3
+ CL Class,2018.6666666666667,28995,Semi-Auto,0.0,Petrol,145.0,44.8,1.3
+unknown,2018.6666666666667,15000,Automatic,40723.0,Diesel,145.0,55.4,2.1
+unknown,2017.0,14250,Manual,36620.0,Petrol,0.0,51.4,1.6
+ A Class,2017.6666666666667,11724,Manual,54585.0,Diesel,0.0,80.7,2.0
+ A Class,2017.0,18500,Automatic,20571.0,Petrol,145.0,52.3,1.6
+ E Class,2017.0,19290,Semi-Auto,25500.0,Diesel,150.0,67.3,2.0
+ GLA Class,2017.0,13980,Semi-Auto,24309.0,Diesel,150.0,64.2,2.1
+ A Class,2016.0,9391,Manual,0.0,Diesel,30.0,64.2,2.1
+ A Class,2019.0,19980,Semi-Auto,15460.0,Diesel,0.0,68.9,1.5
+ C Class,2019.0,69679,Semi-Auto,1000.0,Petrol,0.0,56.5,4.0
+ C Class,2017.0,20990,Semi-Auto,26675.0,Diesel,145.0,58.9,2.0
+unknown,2014.0,11250,Automatic,98514.0,Diesel,0.0,56.5,2.1
+ A Class,2019.0,33995,Automatic,3109.0,Petrol,150.0,35.8,2.0
+ C Class,2019.0,24498,Semi-Auto,12629.0,Diesel,145.0,61.4,2.1
+ A Class,2018.0,20000,Semi-Auto,0.0,Diesel,145.0,65.7,1.5
+unknown,2019.0,19849,Semi-Auto,0.0,Petrol,145.0,46.3,2.0
+ GLC Class,2017.3333333333333,41980,Semi-Auto,1120.0,Diesel,0.0,40.9,2.0
+unknown,2017.6666666666667,49549,Semi-Auto,0.0,Diesel,0.0,35.8,2.0
+ B Class,2017.0,8200,Manual,54257.0,Diesel,30.0,56.5,1.5
+unknown,2018.6666666666667,10950,Automatic,66000.0,Diesel,265.0,41.5,3.0
+unknown,2018.0,29500,Automatic,20214.0,Diesel,150.0,47.9,2.1
+unknown,2019.0,27086,Semi-Auto,5578.0,Diesel,0.0,56.5,2.0
+ E Class,2019.3333333333333,40999,Semi-Auto,1000.0,Hybrid,135.0,188.3,2.0
+ C Class,2019.0,49669,Semi-Auto,1000.0,Petrol,145.0,56.5,3.0
+ A Class,2014.0,10990,Manual,48494.0,Petrol,0.0,50.4,1.6
+ GLC Class,2017.0,27700,Automatic,16907.0,Diesel,0.0,56.5,2.0
+ GLA Class,2019.0,25599,Semi-Auto,0.0,Diesel,145.0,64.2,2.0
+unknown,2019.0,26980,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ B Class,2019.0,23999,Automatic,0.0,Diesel,145.0,55.4,2.0
+ CL Class,2020.0,27980,Semi-Auto,0.0,Petrol,145.0,56.5,1.3
+unknown,2018.0,19990,Manual,23415.0,Diesel,145.0,46.3,2.1
+ C Class,2017.0,18500,Automatic,29689.0,Diesel,30.0,61.4,2.1
+ A Class,2019.0,20699,Semi-Auto,0.0,Petrol,0.0,56.5,1.3
+unknown,2019.0,24519,Semi-Auto,2486.0,Diesel,0.0,56.5,2.0
+ GLA Class,2016.0,17450,Semi-Auto,41325.0,Diesel,125.0,56.5,2.1
+ SL CLASS,2016.0,33889,Automatic,23736.0,Petrol,0.0,36.7,3.0
+ GLA Class,2018.6666666666667,20990,Semi-Auto,18166.0,Diesel,145.0,56.5,2.1
+ C Class,2016.3333333333333,16964,Automatic,0.0,Diesel,30.0,56.5,2.1
+unknown,2013.0,14498,Semi-Auto,25064.0,Petrol,160.0,45.6,2.0
+unknown,2013.0,11350,Automatic,0.0,Diesel,145.0,56.5,2.0
+ E Class,2018.3333333333333,11698,Semi-Auto,0.0,Diesel,30.0,56.5,2.0
+unknown,2018.6666666666667,24940,Semi-Auto,15275.0,Petrol,145.0,45.6,1.5
+ GLA Class,2017.0,21995,Semi-Auto,22129.0,Diesel,145.0,56.5,2.1
+ A Class,2013.0,9259,Manual,74149.0,Diesel,0.0,56.5,1.5
+unknown,2017.0,28800,Automatic,14566.0,Petrol,145.0,40.4,2.0
+ X-CLASS,2016.6666666666667,31750,Automatic,7000.0,Diesel,260.0,56.5,2.3
+unknown,2016.0,19000,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+ A Class,2016.6666666666667,13500,Automatic,38313.0,Diesel,30.0,56.5,1.8
+ E Class,2019.0,24780,Semi-Auto,14828.0,Diesel,0.0,56.5,2.0
+ C Class,2016.0,15990,Automatic,0.0,Diesel,30.0,56.5,2.1
+ GLC Class,2019.0,32000,Semi-Auto,0.0,Diesel,150.0,44.8,2.0
+ A Class,2017.0,17901,Manual,0.0,Diesel,150.0,62.8,2.0
+ A Class,2018.0,15800,Manual,23051.0,Diesel,150.0,62.8,2.1
+ C Class,2017.6666666666667,16495,Automatic,41130.0,Hybrid,0.0,56.5,2.0
+unknown,2019.0,43299,Semi-Auto,0.0,Diesel,145.0,40.4,2.0
+unknown,2017.0,15991,Semi-Auto,13733.0,Diesel,0.0,74.3,1.5
+ B Class,2018.6666666666667,27999,Semi-Auto,2475.0,Diesel,145.0,56.5,2.0
+ GLA Class,2018.3333333333333,19330,Automatic,0.0,Diesel,125.0,56.5,2.0
+ GLA Class,2016.6666666666667,23635,Automatic,10466.0,Diesel,0.0,56.5,2.1
+ E Class,2017.0,19990,Automatic,25000.0,Diesel,145.0,56.5,2.0
+ GLE Class,2019.0,47169,Semi-Auto,0.0,Diesel,145.0,56.5,2.0
+ E Class,2019.0,38661,Automatic,4121.0,Diesel,145.0,53.3,2.0
+ SLK,1998.0,1990,Automatic,99300.0,Petrol,0.0,56.5,2.0
+ C Class,2016.0,18849,Semi-Auto,25199.0,Diesel,30.0,62.8,2.1
+ E Class,2018.6666666666667,30980,Semi-Auto,4831.0,Diesel,145.0,61.4,2.0
+ GLE Class,2017.6666666666667,46999,Semi-Auto,0.0,Diesel,0.0,36.7,2.0
+ GLA Class,2016.0,16452,Semi-Auto,52485.0,Diesel,125.0,56.6,2.0
+ C Class,2019.0,23680,Semi-Auto,3436.0,Petrol,145.0,44.1,1.5
+ CLA Class,2016.0,14000,Manual,0.0,Petrol,125.0,51.4,2.0
+unknown,2016.0,16485,Manual,12400.0,Diesel,20.0,64.2,2.1
+unknown,2019.0,25399,Semi-Auto,10260.0,Petrol,145.0,44.1,1.5
+ C Class,2018.0,24995,Semi-Auto,17744.0,Diesel,150.0,64.2,2.0
+unknown,2017.0,17400,Automatic,41677.0,Diesel,0.0,64.2,2.0
+ C Class,2019.0,28949,Semi-Auto,6565.0,Diesel,145.0,57.7,2.0
+unknown,2013.0,13150,Semi-Auto,59806.0,Diesel,160.0,51.4,2.1
+ C Class,2019.0,28999,Semi-Auto,2392.0,Petrol,150.0,46.3,1.5
+unknown,2017.0,28672,Automatic,0.0,Petrol,0.0,56.5,3.0
+ A Class,2016.0,14000,Automatic,27938.0,Diesel,0.0,68.9,2.1
+ E Class,2018.0,21790,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+ C Class,2017.0,20490,Semi-Auto,0.0,Diesel,20.0,67.3,2.0
+unknown,2019.0,34039,Semi-Auto,1000.0,Petrol,145.0,44.1,1.5
+ C Class,2019.0,29480,Semi-Auto,10844.0,Petrol,145.0,56.5,2.0
+ X-CLASS,2018.3333333333333,28945,Automatic,500.0,Diesel,260.0,35.8,2.0
+ GLE Class,2019.0,49500,Semi-Auto,0.0,Diesel,0.0,36.7,2.0
+unknown,2019.0,29980,Semi-Auto,0.0,Diesel,0.0,54.3,1.6
+ C Class,2015.0,29990,Automatic,0.0,Petrol,0.0,34.5,4.0
+ GLA Class,2014.0,16995,Automatic,29450.0,Diesel,150.0,56.5,2.1
+ E Class,2016.0,19498,Semi-Auto,38238.0,Diesel,0.0,52.3,3.0
+ C Class,2016.0,21750,Automatic,15664.0,Petrol,125.0,51.4,2.0
+unknown,2019.0,21599,Semi-Auto,0.0,Petrol,145.0,56.5,2.0
+unknown,2016.0,14795,Automatic,0.0,Diesel,30.0,56.5,2.1
+ A Class,2017.6666666666667,24059,Semi-Auto,4664.0,Diesel,0.0,56.5,2.0
+unknown,2014.0,32250,Semi-Auto,43910.0,Petrol,570.0,23.9,5.5
+ C Class,2018.6666666666667,29890,Automatic,0.0,Diesel,145.0,56.5,2.0
+ C Class,2020.0,39995,Semi-Auto,328.0,Petrol,145.0,44.1,2.0
+unknown,2019.0,23980,Semi-Auto,0.0,Diesel,0.0,65.7,2.0
+ C Class,2017.0,25998,Automatic,26914.0,Petrol,200.0,43.5,2.0
+ GLC Class,2016.0,25980,Semi-Auto,37876.0,Diesel,125.0,56.5,2.1
+ C Class,2018.6666666666667,26899,Semi-Auto,0.0,Petrol,145.0,45.6,2.0
+ C Class,2016.6666666666667,24890,Semi-Auto,25002.0,Diesel,0.0,56.5,2.1
+unknown,2017.0,20562,Semi-Auto,0.0,Diesel,0.0,64.2,2.0
+ A Class,2016.3333333333333,11990,Manual,39853.0,Diesel,20.0,72.4,1.5
+ E Class,2017.0,19490,Automatic,0.0,Diesel,145.0,65.7,2.0
+unknown,2019.0,32490,Semi-Auto,3375.0,Diesel,145.0,56.5,2.0
+ GLA Class,2019.0,26599,Semi-Auto,2000.0,Petrol,150.0,36.2,1.6
+ C Class,2016.0,19349,Automatic,33608.0,Diesel,20.0,56.5,2.1
+unknown,2018.6666666666667,16499,Automatic,35598.0,Diesel,145.0,55.4,2.0
+ C Class,2016.0,15249,Automatic,30954.0,Petrol,125.0,53.3,2.0
+unknown,2019.0,26992,Semi-Auto,4930.0,Diesel,145.0,62.8,1.5
+ C Class,2019.0,22444,Automatic,5526.0,Petrol,0.0,45.6,1.5
+unknown,2018.6666666666667,35159,Automatic,100.0,Diesel,145.0,47.9,2.0
+unknown,2020.0,35490,Automatic,0.0,Diesel,145.0,48.7,2.0
+ C Class,2018.3333333333333,14491,Manual,0.0,Petrol,125.0,52.3,2.0
+ C Class,2017.6666666666667,29498,Automatic,0.0,Diesel,0.0,57.7,2.0
+ C Class,2017.6666666666667,18258,Semi-Auto,51304.0,Diesel,0.0,56.5,2.0
+unknown,2010.0,7990,Automatic,66000.0,Diesel,200.0,46.3,2.1
+unknown,2018.6666666666667,17990,Semi-Auto,27000.0,Petrol,145.0,48.7,2.0
+ A Class,2016.0,15699,Semi-Auto,22500.0,Diesel,20.0,68.9,2.1
+ A Class,2018.0,17980,Semi-Auto,15135.0,Diesel,145.0,56.5,2.1
+unknown,2019.0,36995,Semi-Auto,11096.0,Diesel,145.0,46.3,3.0
+ S Class,2019.0,87478,Semi-Auto,0.0,Petrol,145.0,34.0,2.0
+ GLS Class,2019.0,65990,Semi-Auto,5076.0,Diesel,0.0,30.4,3.0
+ C Class,2017.0,16489,Automatic,0.0,Diesel,30.0,60.1,2.1
+unknown,2017.0,32995,Automatic,10750.0,Petrol,0.0,35.3,3.0
+unknown,2019.0,18964,Semi-Auto,0.0,Diesel,145.0,56.5,1.5
+unknown,2018.6666666666667,37999,Semi-Auto,11588.0,Diesel,145.0,56.5,3.0
+ CLS Class,2013.0,11900,Automatic,69300.0,Diesel,150.0,54.3,2.0
+ C Class,2018.0,25990,Automatic,12298.0,Petrol,145.0,45.6,1.5
+ V Class,2018.6666666666667,22798,Manual,25920.0,Diesel,145.0,46.3,2.1
+ A Class,2017.6666666666667,25490,Semi-Auto,5499.0,Petrol,0.0,56.5,2.0
+ B Class,2019.0,20499,Automatic,15861.0,Petrol,145.0,45.6,1.3
+ S Class,2017.0,29990,Semi-Auto,0.0,Diesel,160.0,56.5,2.0
+ S Class,2019.0,55995,Automatic,1933.0,Diesel,145.0,40.4,3.0
+ CL Class,2017.0,29149,Automatic,0.0,Petrol,145.0,40.9,2.0
+unknown,2016.0,17499,Automatic,0.0,Diesel,125.0,56.5,2.1
+ E Class,2018.6666666666667,45799,Semi-Auto,1000.0,Diesel,145.0,48.7,2.0
+ E Class,2018.0,30680,Semi-Auto,6108.0,Diesel,145.0,57.7,2.0
+ GLC Class,2018.6666666666667,33449,Semi-Auto,4623.0,Diesel,145.0,44.8,2.0
+ E Class,2018.6666666666667,46980,Semi-Auto,9648.0,Petrol,145.0,32.5,3.0
+ GLA Class,2019.0,24999,Semi-Auto,10900.0,Petrol,145.0,56.5,2.0
+ C Class,2019.0,25549,Semi-Auto,15074.0,Diesel,145.0,56.5,2.0
+ GLA Class,2016.0,19495,Automatic,20957.0,Diesel,0.0,56.5,2.0
+ GLE Class,2018.3333333333333,26990,Automatic,33799.0,Diesel,260.0,56.5,2.0
+ C Class,2016.6666666666667,20500,Automatic,25113.0,Diesel,0.0,56.5,2.1
+ GLC Class,2019.0,40850,Semi-Auto,10771.0,Petrol,145.0,56.5,3.0
+ GLA Class,2016.0,17799,Semi-Auto,23500.0,Diesel,20.0,67.3,2.1
+ C Class,2018.3333333333333,20490,Semi-Auto,11773.0,Petrol,150.0,56.5,2.0
+unknown,2017.0,21142,Automatic,0.0,Diesel,145.0,67.3,2.0
+ C Class,2019.0,20549,Semi-Auto,13276.0,Diesel,145.0,61.4,2.0
+ A Class,2020.0,25879,Semi-Auto,1000.0,Petrol,145.0,53.3,2.0
+unknown,2017.0,22780,Semi-Auto,0.0,Diesel,145.0,65.7,2.0
+ E Class,2017.0,18990,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+ CL Class,2015.0,12498,Semi-Auto,68517.0,Petrol,125.0,56.5,1.6
+ C Class,2016.0,20199,Semi-Auto,34400.0,Diesel,0.0,67.3,2.1
+ C Class,2019.0,25495,Automatic,0.0,Petrol,145.0,44.1,1.6
+ GLC Class,2016.6666666666667,28910,Automatic,0.0,Diesel,0.0,56.5,2.1
+ A Class,2018.6666666666667,24109,Semi-Auto,1000.0,Diesel,145.0,67.3,2.0
+ C Class,2017.6666666666667,13998,Manual,22117.0,Petrol,0.0,53.3,2.0
+unknown,2016.0,22500,Semi-Auto,26789.0,Diesel,125.0,56.5,2.1
+ E Class,2019.0,24995,Automatic,6584.0,Diesel,145.0,56.5,2.0
+unknown,2018.6666666666667,26440,Semi-Auto,16684.0,Diesel,145.0,56.5,1.6
+unknown,2019.0,39900,Semi-Auto,11206.0,Diesel,145.0,56.5,2.0
+ C Class,2015.0,11998,Manual,0.0,Diesel,0.0,72.4,2.0
+ C Class,2016.0,20990,Semi-Auto,0.0,Diesel,30.0,56.5,2.0
+ A Class,2017.0,16490,Semi-Auto,0.0,Diesel,0.0,74.3,2.0
+ E Class,2018.6666666666667,35660,Automatic,7322.0,Petrol,145.0,33.7,2.0
+ GLC Class,2019.0,24500,Automatic,19932.0,Petrol,150.0,56.5,2.0
+unknown,2017.0,14485,Manual,0.0,Petrol,0.0,52.3,1.6
+ E Class,2015.0,19498,Semi-Auto,17167.0,Diesel,0.0,54.3,3.0
+ C Class,2019.0,30666,Automatic,0.0,Diesel,0.0,54.3,2.0
+ C Class,2016.6666666666667,17299,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+unknown,2016.3333333333333,15500,Semi-Auto,21729.0,Diesel,0.0,62.8,2.1
+ SL CLASS,2017.0,19995,Automatic,13582.0,Diesel,145.0,70.6,2.0
+ GLC Class,2020.0,41795,Semi-Auto,4499.0,Petrol,145.0,32.1,2.0
+ B Class,2017.3333333333333,8899,Automatic,0.0,Petrol,0.0,56.5,1.6
+ E Class,2018.3333333333333,16691,Semi-Auto,0.0,Diesel,125.0,61.4,2.0
+ C Class,2016.3333333333333,19999,Semi-Auto,27829.0,Diesel,30.0,56.5,2.1
+unknown,2018.0,24998,Manual,23275.0,Diesel,145.0,46.3,2.0
+ C Class,2013.0,11995,Automatic,40000.0,Diesel,145.0,53.3,2.1
+ GLE Class,2019.0,44500,Automatic,0.0,Diesel,145.0,36.7,3.0
+ GLC Class,2017.6666666666667,26000,Automatic,19424.0,Petrol,0.0,43.5,2.0
+unknown,2014.0,11495,Semi-Auto,34101.0,Petrol,145.0,50.4,2.0
+ GLC Class,2017.0,23000,Automatic,32308.0,Diesel,145.0,56.5,2.0
+ GLA Class,2017.0,19990,Semi-Auto,14577.0,Diesel,125.0,56.5,2.1
+ SL CLASS,2016.0,16362,Automatic,0.0,Diesel,30.0,70.6,2.0
+unknown,2016.0,15498,Semi-Auto,63402.0,Diesel,0.0,68.9,2.0
+ C Class,2019.0,26291,Automatic,6084.0,Diesel,145.0,61.4,2.0
+ B Class,2018.6666666666667,19490,Semi-Auto,0.0,Petrol,145.0,51.4,1.6
+unknown,2017.6666666666667,20780,Semi-Auto,31246.0,Diesel,0.0,68.9,2.0
+unknown,2017.0,21498,Automatic,23084.0,Diesel,150.0,56.5,2.0
+ A Class,2018.6666666666667,31342,Semi-Auto,9872.0,Petrol,145.0,40.9,2.0
+unknown,2018.0,22299,Semi-Auto,11597.0,Diesel,0.0,67.3,2.0
+ GLE Class,2018.0,32480,Semi-Auto,14597.0,Diesel,145.0,42.8,2.0
+ A Class,2018.0,18990,Semi-Auto,0.0,Petrol,145.0,53.3,1.3
+ C Class,2008.0,3995,Automatic,104000.0,Diesel,210.0,56.5,2.0
+ A Class,2018.0,18399,Automatic,0.0,Petrol,0.0,56.5,1.3
+unknown,2016.0,15990,Automatic,0.0,Diesel,0.0,67.3,2.1
+ GLE Class,2016.0,28500,Automatic,20000.0,Diesel,205.0,56.5,2.1
+ E Class,2016.0,19798,Semi-Auto,0.0,Diesel,160.0,52.3,3.0
+unknown,2017.0,16491,Semi-Auto,0.0,Diesel,150.0,64.2,2.1
+ C Class,2018.6666666666667,23399,Automatic,3816.0,Petrol,145.0,56.5,1.5
+ C Class,2017.0,20200,Automatic,25449.0,Diesel,0.0,67.3,2.1
+ C Class,2017.3333333333333,25699,Automatic,3350.0,Diesel,0.0,58.9,1.6
+ C Class,2018.6666666666667,25000,Semi-Auto,10000.0,Diesel,145.0,56.5,1.6
+ A Class,2017.0,31989,Semi-Auto,29852.0,Petrol,150.0,40.9,2.0
+ E Class,2015.0,13499,Automatic,71496.0,Diesel,160.0,51.4,2.1
+ A Class,2018.6666666666667,13391,Manual,0.0,Diesel,145.0,72.4,1.5
+ C Class,2017.0,22449,Semi-Auto,44998.0,Diesel,30.0,65.7,2.0
+unknown,2018.3333333333333,24990,Automatic,56000.0,Diesel,200.0,56.5,2.0
+ GLE Class,2018.6666666666667,48980,Semi-Auto,3999.0,Diesel,145.0,56.5,2.0
+ E Class,2018.6666666666667,21299,Semi-Auto,23429.0,Diesel,145.0,61.4,2.0
+unknown,2015.6666666666667,23680,Automatic,0.0,Diesel,125.0,56.5,2.1
+ CL Class,2019.0,21995,Manual,13329.0,Petrol,0.0,44.1,1.6
+ GLE Class,2018.0,60899,Semi-Auto,1000.0,Diesel,150.0,32.5,2.9
+unknown,2019.0,23299,Semi-Auto,2786.0,Petrol,0.0,56.5,2.0
+ A Class,2018.6666666666667,25299,Manual,0.0,Petrol,145.0,47.1,2.0
+ E Class,2018.6666666666667,20274,Automatic,45186.0,Diesel,145.0,70.6,2.0
+ A Class,2018.0,18590,Automatic,8297.0,Diesel,145.0,68.9,1.5
+ E Class,2018.6666666666667,37399,Semi-Auto,11035.0,Diesel,145.0,48.7,2.0
+ X-CLASS,2019.0,28675,Automatic,39.0,Diesel,260.0,35.8,2.3
+ GL Class,2016.0,18999,Automatic,20617.0,Diesel,0.0,56.5,2.0
+ A Class,2019.0,21999,Manual,1738.0,Petrol,145.0,47.1,1.3
+ CLS Class,2016.0,18980,Automatic,46728.0,Diesel,0.0,57.7,2.1
+ C Class,2019.0,25980,Semi-Auto,0.0,Petrol,145.0,46.3,2.0
+ B Class,2019.6666666666667,22498,Semi-Auto,664.0,Petrol,145.0,44.8,1.3
+ A Class,2019.0,25490,Automatic,1895.0,Diesel,145.0,56.5,2.0
+ E Class,2016.0,19349,Semi-Auto,13177.0,Diesel,20.0,72.4,2.0
+ C Class,2018.0,22699,Semi-Auto,20001.0,Diesel,145.0,67.3,2.1
+ E Class,2019.0,26099,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ C Class,2017.0,20612,Semi-Auto,0.0,Diesel,30.0,64.2,2.1
+ A Class,2016.0,13950,Manual,0.0,Diesel,0.0,68.9,1.5
+ GLA Class,2015.0,15837,Semi-Auto,31091.0,Diesel,125.0,55.4,2.1
+ GLA Class,2016.0,17450,Semi-Auto,38100.0,Diesel,125.0,56.5,2.1
+unknown,2016.0,22000,Semi-Auto,17223.0,Petrol,200.0,43.5,2.0
+ A Class,2018.6666666666667,15739,Automatic,13049.0,Diesel,145.0,74.3,1.5
+unknown,2020.0,25729,Semi-Auto,0.0,Petrol,145.0,56.5,1.3
+ X-CLASS,2019.0,28945,Automatic,500.0,Diesel,260.0,56.5,2.3
+unknown,2017.6666666666667,34649,Semi-Auto,0.0,Diesel,0.0,61.4,2.0
+unknown,2018.6666666666667,14702,Manual,52207.0,Petrol,145.0,53.3,2.0
+ C Class,2018.6666666666667,34500,Semi-Auto,100.0,Diesel,145.0,48.7,2.0
+ GLE Class,2018.6666666666667,55799,Semi-Auto,0.0,Diesel,145.0,32.8,3.0
+unknown,2019.0,44995,Semi-Auto,750.0,Diesel,145.0,47.1,3.0
+ C Class,2016.6666666666667,12980,Semi-Auto,46500.0,Diesel,20.0,56.5,2.1
+ A Class,2019.0,20199,Semi-Auto,0.0,Diesel,145.0,68.9,2.0
+ E Class,2019.0,36399,Automatic,0.0,Diesel,0.0,48.7,3.0
+ GLC Class,2016.0,22250,Automatic,0.0,Diesel,125.0,56.5,2.0
+ A Class,2018.3333333333333,15718,Manual,32365.0,Petrol,125.0,51.4,2.0
+ S Class,2018.6666666666667,79989,Automatic,2499.0,Petrol,145.0,34.0,2.0
+ GLE Class,2017.6666666666667,35980,Semi-Auto,39056.0,Diesel,300.0,56.5,3.0
+unknown,2018.6666666666667,23980,Manual,287.0,Petrol,145.0,45.6,1.3
+ GLS Class,2017.0,39498,Automatic,0.0,Diesel,145.0,37.2,3.0
+unknown,2015.0,13498,Manual,0.0,Petrol,125.0,53.3,2.0
+ M Class,2013.0,16770,Semi-Auto,0.0,Diesel,300.0,39.2,3.0
+ E Class,2018.6666666666667,22480,Semi-Auto,24723.0,Diesel,145.0,65.7,2.0
+ A Class,2017.6666666666667,20965,Semi-Auto,0.0,Petrol,0.0,40.9,2.0
+ GLC Class,2019.0,31640,Semi-Auto,9624.0,Diesel,145.0,41.5,2.1
+ C Class,2018.6666666666667,34999,Semi-Auto,0.0,Petrol,145.0,46.3,1.5
+ B Class,2015.0,11500,Automatic,10200.0,Diesel,20.0,68.9,1.5
+unknown,2017.6666666666667,19998,Semi-Auto,34850.0,Hybrid,0.0,134.5,2.0
+unknown,2019.0,25599,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ CLC Class,2010.0,4695,Automatic,85000.0,Petrol,305.0,56.5,1.6
+unknown,2018.6666666666667,48980,Semi-Auto,4104.0,Diesel,145.0,56.5,2.0
+ CLS Class,2017.3333333333333,26166,Automatic,9165.0,Diesel,0.0,51.4,3.0
+ CL Class,2016.0,16545,Semi-Auto,30050.0,Diesel,20.0,56.5,2.1
+ C Class,2015.0,17790,Automatic,8726.0,Diesel,20.0,56.5,2.1
+ C Class,2016.0,29995,Semi-Auto,33977.0,Petrol,260.0,56.5,2.0
+ A Class,2020.0,24889,Semi-Auto,0.0,Diesel,145.0,56.5,1.5
+ E Class,2019.0,29316,Semi-Auto,34404.0,Diesel,0.0,56.5,2.0
+ A Class,2017.0,14998,Semi-Auto,0.0,Diesel,150.0,74.3,1.5
+ C Class,2015.0,13898,Manual,17426.0,Petrol,125.0,53.3,2.0
+unknown,2019.0,25149,Semi-Auto,13157.0,Petrol,145.0,45.6,1.5
+ B Class,2015.6666666666667,9750,Semi-Auto,33706.0,Diesel,30.0,64.2,1.8
+unknown,2017.6666666666667,18498,Semi-Auto,42100.0,Hybrid,0.0,134.5,2.0
+unknown,2016.0,18995,Semi-Auto,0.0,Diesel,20.0,56.5,2.1
+ GLA Class,2017.0,22899,Semi-Auto,0.0,Diesel,0.0,67.3,2.1
+ C Class,2019.0,35539,Semi-Auto,1000.0,Diesel,145.0,57.7,2.0
+unknown,2016.0,31988,Automatic,0.0,Diesel,330.0,56.5,3.0
+ GLC Class,2016.0,23500,Automatic,28647.0,Diesel,0.0,56.5,2.1
+ GLC Class,2020.0,33980,Semi-Auto,16.0,Diesel,145.0,44.8,2.0
+ C Class,2014.0,17250,Automatic,34772.0,Diesel,125.0,60.1,2.1
+ G Class,2016.0,61948,Automatic,16000.0,Petrol,325.0,30.4,4.0
+unknown,2017.0,48990,Automatic,21000.0,Petrol,150.0,40.9,2.0
+ CL Class,2018.6666666666667,26480,Semi-Auto,0.0,Diesel,145.0,51.4,2.2
+unknown,2018.6666666666667,62499,Semi-Auto,7689.0,Petrol,145.0,56.5,4.0
+ GL Class,2016.0,16499,Automatic,13144.0,Diesel,125.0,55.4,2.0
+unknown,2020.0,42995,Semi-Auto,999.0,Petrol,0.0,32.1,2.0
+ GLC Class,2017.0,26980,Automatic,26234.0,Diesel,145.0,56.5,2.1
+ A Class,2018.0,21455,Semi-Auto,13435.0,Petrol,145.0,52.3,1.6
+ C Class,2018.0,18700,Semi-Auto,26765.0,Diesel,145.0,60.1,2.1
+ C Class,2015.0,16998,Semi-Auto,43883.0,Diesel,125.0,60.1,2.1
+ A Class,2019.0,21690,Automatic,11309.0,Diesel,145.0,56.5,2.0
+ SL CLASS,2019.0,30000,Semi-Auto,9266.0,Petrol,145.0,47.1,2.0
+unknown,2017.0,30745,Automatic,0.0,Petrol,145.0,36.2,3.0
+ C Class,2017.0,16900,Automatic,37004.0,Diesel,30.0,56.5,2.0
+ GLE Class,2018.6666666666667,36182,Automatic,40945.0,Diesel,300.0,39.2,3.0
+ B Class,2019.0,26299,Automatic,3607.0,Diesel,0.0,55.4,2.0
+ C Class,2018.6666666666667,20990,Semi-Auto,19650.0,Petrol,145.0,47.9,2.0
+ A Class,2019.0,18118,Automatic,15561.0,Diesel,0.0,68.9,2.0
+ A Class,2020.0,28900,Automatic,1060.0,Petrol,0.0,53.3,1.3
+ E Class,2016.0,20052,Automatic,0.0,Diesel,20.0,67.3,2.0
+ C Class,2019.0,25249,Semi-Auto,0.0,Petrol,145.0,45.6,1.5
+ CL Class,2017.0,20490,Semi-Auto,15500.0,Diesel,20.0,67.3,2.1
+ C Class,2016.0,20498,Semi-Auto,0.0,Diesel,125.0,60.1,2.0
+ E Class,2017.0,19395,Semi-Auto,22767.0,Diesel,145.0,72.4,2.0
+ C Class,2019.0,23289,Automatic,15194.0,Diesel,145.0,56.5,2.0
+ C Class,2018.6666666666667,25699,Semi-Auto,0.0,Diesel,145.0,61.4,2.0
+unknown,2018.0,23980,Semi-Auto,18281.0,Diesel,145.0,56.5,2.1
+ A Class,2016.0,12790,Semi-Auto,0.0,Diesel,0.0,74.3,1.5
+ GLC Class,2017.0,29980,Semi-Auto,44916.0,Diesel,145.0,56.5,2.1
+ C Class,2019.0,25390,Semi-Auto,7945.0,Petrol,0.0,44.1,2.0
+ C Class,2019.0,29899,Semi-Auto,12478.0,Diesel,145.0,54.3,2.0
+ E Class,2019.0,24699,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+ C Class,2017.6666666666667,24994,Semi-Auto,0.0,Petrol,0.0,55.4,2.0
+ C Class,2020.0,33900,Automatic,6000.0,Petrol,145.0,47.1,1.5
+unknown,2018.6666666666667,43199,Automatic,12704.0,Diesel,145.0,40.4,2.0
+unknown,2016.3333333333333,14698,Semi-Auto,43331.0,Diesel,20.0,64.2,2.1
+ CL Class,2016.0,15990,Manual,0.0,Diesel,0.0,56.5,2.1
+ GLE Class,2019.0,49980,Semi-Auto,52.0,Diesel,145.0,36.7,2.0
+ C Class,2019.0,29299,Semi-Auto,2905.0,Diesel,145.0,61.4,2.0
+unknown,2016.0,29221,Semi-Auto,0.0,Diesel,150.0,56.5,2.1
+ GLC Class,2016.0,21998,Automatic,29884.0,Diesel,125.0,56.5,2.1
+unknown,2015.6666666666667,27299,Automatic,0.0,Diesel,0.0,58.9,1.6
+ CLA Class,2017.0,18944,Automatic,0.0,Diesel,20.0,67.3,2.0
+unknown,2016.0,30998,Semi-Auto,0.0,Diesel,240.0,56.5,3.0
+ C Class,2017.0,18000,Automatic,0.0,Diesel,145.0,60.1,2.1
+ A Class,2015.0,13999,Manual,38425.0,Diesel,20.0,68.9,1.5
+ GLE Class,2018.0,37300,Automatic,5597.0,Diesel,0.0,39.2,3.0
+ GLC Class,2018.0,29442,Semi-Auto,11352.0,Diesel,145.0,56.5,2.1
+unknown,2015.6666666666667,14500,Semi-Auto,0.0,Diesel,20.0,68.9,2.1
+unknown,2020.0,25199,Automatic,0.0,Diesel,145.0,55.4,2.0
+ GLA Class,2016.0,21480,Semi-Auto,31701.0,Petrol,0.0,43.5,2.0
+ E Class,2019.0,45799,Semi-Auto,1000.0,Diesel,0.0,48.7,2.0
+ S Class,2017.0,34999,Semi-Auto,22906.0,Diesel,145.0,56.5,3.0
+ A Class,2017.0,17149,Semi-Auto,0.0,Diesel,145.0,68.9,2.0
+ GLC Class,2019.0,36249,Semi-Auto,2580.0,Diesel,145.0,44.8,2.0
+ A Class,2014.0,12360,Automatic,24632.0,Diesel,20.0,68.9,2.1
+ E Class,2019.0,25149,Semi-Auto,0.0,Diesel,145.0,72.4,2.0
+unknown,2017.0,16998,Semi-Auto,26281.0,Diesel,30.0,65.7,1.6
+ E Class,2017.6666666666667,23998,Semi-Auto,0.0,Diesel,0.0,65.7,2.0
+unknown,2018.6666666666667,19950,Automatic,18621.0,Diesel,145.0,56.5,2.0
+ C Class,2019.0,28900,Automatic,6000.0,Petrol,145.0,56.5,2.0
+ GLA Class,2017.0,17299,Semi-Auto,0.0,Diesel,145.0,67.3,2.1
+ GLA Class,2014.0,15999,Semi-Auto,33487.0,Diesel,145.0,55.4,2.1
+unknown,2018.6666666666667,25980,Semi-Auto,12810.0,Petrol,145.0,56.5,1.5
+ CL Class,2015.0,18022,Semi-Auto,24000.0,Diesel,0.0,62.8,2.1
+ A Class,2018.6666666666667,24889,Semi-Auto,0.0,Diesel,145.0,62.8,2.0
+ E Class,2019.0,44995,Automatic,1842.0,Diesel,145.0,47.1,2.9
+ CLS Class,2015.0,21000,Automatic,17957.0,Diesel,0.0,57.7,2.0
+unknown,2016.0,16999,Manual,0.0,Diesel,30.0,64.2,2.1
+ C Class,2017.0,17500,Automatic,34476.0,Diesel,30.0,56.5,1.6
+unknown,2013.3333333333333,36990,Automatic,0.0,Petrol,300.0,34.5,4.0
+ GLC Class,2016.0,27995,Semi-Auto,25680.0,Diesel,125.0,56.5,2.1
+ A Class,2015.0,12500,Manual,0.0,Diesel,20.0,72.4,2.0
+ CL Class,2018.0,19005,Manual,0.0,Diesel,145.0,65.7,2.0
+ CLS Class,2016.0,19590,Automatic,42018.0,Diesel,0.0,57.7,2.1
+ C Class,2018.6666666666667,32069,Automatic,1000.0,Diesel,145.0,64.2,2.0
+ A Class,2017.0,18890,Automatic,0.0,Petrol,0.0,53.3,1.6
+ A Class,2016.0,14190,Manual,35500.0,Diesel,20.0,56.5,1.5
+ V Class,2018.0,18000,Manual,21749.0,Diesel,145.0,46.3,2.1
+ C Class,2016.6666666666667,19980,Semi-Auto,0.0,Diesel,0.0,56.5,2.1
+ C Class,2020.0,41900,Automatic,1000.0,Petrol,150.0,28.8,3.0
+unknown,2018.0,26625,Automatic,7175.0,Diesel,0.0,57.7,2.0
+ E Class,2018.3333333333333,19500,Automatic,0.0,Diesel,30.0,65.7,2.0
+unknown,2018.3333333333333,12795,Automatic,101480.0,Diesel,30.0,61.4,2.0
+ B Class,2019.0,22076,Automatic,11864.0,Petrol,0.0,56.5,1.3
+ GLC Class,2017.0,23990,Semi-Auto,34000.0,Diesel,0.0,56.5,2.0
+ GLC Class,2018.6666666666667,26998,Semi-Auto,33544.0,Diesel,145.0,56.5,2.1
+unknown,2017.0,19852,Semi-Auto,34526.0,Diesel,0.0,56.5,2.1
+unknown,2015.6666666666667,20998,Semi-Auto,0.0,Diesel,125.0,56.5,2.1
+unknown,2019.0,23780,Semi-Auto,0.0,Diesel,145.0,67.3,2.1
+ B Class,2019.0,26480,Automatic,8247.0,Diesel,145.0,54.3,2.0
+ E Class,2018.3333333333333,21499,Semi-Auto,32365.0,Diesel,30.0,61.4,2.0
+ C Class,2018.0,18399,Semi-Auto,31122.0,Diesel,145.0,64.2,2.0
+ GLC Class,2017.0,26995,Automatic,25497.0,Diesel,150.0,56.5,2.0
+unknown,2019.0,27999,Automatic,649.0,Petrol,145.0,46.3,1.5
+unknown,2019.0,32499,Semi-Auto,873.0,Petrol,0.0,47.1,2.0
+ A Class,2017.0,16499,Automatic,20477.0,Diesel,145.0,68.9,2.1
+unknown,2019.0,33990,Semi-Auto,0.0,Diesel,0.0,40.9,2.0
+ C Class,2020.0,39995,Semi-Auto,5000.0,Petrol,145.0,44.1,1.5
+unknown,2015.6666666666667,18495,Semi-Auto,27292.0,Diesel,125.0,56.5,2.1
+ V Class,2018.0,18990,Manual,38000.0,Diesel,0.0,46.3,2.0
+unknown,2019.0,30941,Semi-Auto,8841.0,Diesel,150.0,41.5,2.0
+ A Class,2015.0,18500,Automatic,29917.0,Petrol,160.0,45.6,2.0
+ C Class,2019.0,21449,Semi-Auto,19821.0,Diesel,0.0,61.4,2.0
+ B Class,2020.0,26495,Semi-Auto,100.0,Diesel,145.0,55.4,2.0
+unknown,2019.0,30480,Semi-Auto,249.0,Diesel,145.0,64.2,2.0
+ C Class,2019.0,21400,Automatic,0.0,Petrol,145.0,44.1,2.0
+unknown,2019.0,31000,Semi-Auto,0.0,Diesel,145.0,64.2,2.0
+ S Class,2015.0,38980,Automatic,11000.0,Petrol,270.0,33.2,4.7
